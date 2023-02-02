@@ -1,0 +1,19 @@
+{
+  "name": "tibia-highscores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeKunTibia/tibia-highscores.git"
+  },
+  "author": "Lee kun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeKunTibia/tibia-highscores/issues"
+  },
+  "homepage": "https://github.com/LeeKunTibia/tibia-highscores#readme"
+}
