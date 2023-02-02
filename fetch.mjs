@@ -50,15 +50,16 @@ var completionistData = [];
 for (let i = 0; i < achievementsData.length; i++) {
     const character = achievementsData[i];
     character.achievementPoints = character.value;
+    delete character.value;
     const charmsCharacter = charmpointsData.find(x => x.name == character.name);
     const bossessCharacter = bosspointsData.find(x => x.name == character.name);
     if (charmsCharacter) {
-        character.charmPoints = charmsCharacter.value;
+        character.charmPoints = charmsCharacter.achievementPoints;
     } else {
         character.charmPoints = 0;
     }
     if (bossessCharacter) {
-        character.bossPoints = bossessCharacter.value;
+        character.bossPoints = bossessCharacter.achievementPoints;
     } else {
         character.bossPoints = 0;
     }
