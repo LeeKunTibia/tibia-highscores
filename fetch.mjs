@@ -52,8 +52,9 @@ for (let i = 1; i < achievementsData.length; i++) {
 }
 
 var completionistData = [];
-for (let i = 0; i < achievementsData.length; i++) {
-    const character = achievementsData[i];
+const achievementsDataClone = structuredClone(achievementsData);
+for (let i = 0; i < achievementsDataClone.length; i++) {
+    const character = achievementsDataClone[i];
     character.achievementPoints = character.value;
     delete character.value;
     const charmsCharacter = charmpointsData.find(x => x.name == character.name);
