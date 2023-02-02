@@ -67,6 +67,10 @@ for (let i = 0; i < achievementsData.length; i++) {
     character.charmsPct = Math.round(10000 * character.charmPoints / charmpointsMax) / 100;
     character.bossesPct = Math.round(10000 * character.bossPoints / bosspointsMax) / 100;
     character.averagePct = Math.round(100 * (character.achievementsPct + character.charmsPct + character.bossesPct) / 3) / 100;
+
+    delete character.achievementsPct;
+    delete character.charmsPct;
+    delete character.bossesPct;
     completionistData.push(character);
 }
 
