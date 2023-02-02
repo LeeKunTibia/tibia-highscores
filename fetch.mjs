@@ -58,7 +58,7 @@ for (let i = 0; i < achievementsData.length; i++) {
     delete character.value;
     const charmsCharacter = charmpointsData.find(x => x.name == character.name);
     const bossessCharacter = bosspointsData.find(x => x.name == character.name);
-    const charUrl = encodeURI(`https://www.tibia.com/community/?name=${character.name}`);
+    const charUrl = encodeURI(`https://www.tibia.com/community/?name=${character.name}`) + `||${character.name}`;
     character.name = charUrl;
     achievementsData[i].name = charUrl;
     if (charmsCharacter) {
