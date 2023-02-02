@@ -54,12 +54,12 @@ for (let i = 0; i < achievementsData.length; i++) {
     const charmsCharacter = charmpointsData.find(x => x.name == character.name);
     const bossessCharacter = bosspointsData.find(x => x.name == character.name);
     if (charmsCharacter) {
-        character.charmPoints = charmsCharacter.achievementPoints;
+        character.charmPoints = charmsCharacter.value;
     } else {
         character.charmPoints = 0;
     }
     if (bossessCharacter) {
-        character.bossPoints = bossessCharacter.achievementPoints;
+        character.bossPoints = bossessCharacter.value;
     } else {
         character.bossPoints = 0;
     }
