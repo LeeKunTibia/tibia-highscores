@@ -5,6 +5,11 @@ const achievementsMax = 1289;
 const charmpointsMax = 21860;
 const bosspointsMax = 24000;
 
+const charLink = (name) => {
+    const url = encodeURI(`https://www.tibia.com/community/?name=${name}`);
+    return url;
+}
+
 const getPage = async(category, page) => {
     const response = await fetch(`https://api.tibiadata.com/v3/highscores/all/${category}/all/${page}`);
     const data = await response.json();        
@@ -53,6 +58,9 @@ for (let i = 0; i < achievementsData.length; i++) {
     delete character.value;
     const charmsCharacter = charmpointsData.find(x => x.name == character.name);
     const bossessCharacter = bosspointsData.find(x => x.name == character.name);
+    const charUrl = encodeURI(`https://www.tibia.com/community/?name=${character.name}`);
+    character.name = charUrl;
+    achievementsData[i].name = charUrl;
     if (charmsCharacter) {
         character.charmPoints = charmsCharacter.value;
     } else {
