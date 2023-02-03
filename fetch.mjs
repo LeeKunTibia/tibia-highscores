@@ -10,48 +10,80 @@ const charLink = (name) => {
     return url;
 }
 
-const getPage = async(category, page) => {
-    const response = await fetch(`https://api.tibiadata.com/v3/highscores/all/${category}/all/${page}`);
-    const data = await response.json();        
-    const highscoresList = data.highscores.highscore_list;
-	return highscoresList;
+const getWorlds = async () => {
+	console.log('Getting list of Tibia worlds…');
+	const response = await fetch('https://api.tibiadata.com/v3/worlds');
+	const data = await response.json();
+	const regularWorlds = data.worlds.regular_worlds;
+	const worldNames = regularWorlds.map((world) => world.name);
+	return worldNames;
+};
+
+const getPage = async(category, world, page) => {
+    const response = await fetch(`https://api.tibiadata.com/v3/highscores/${world}/${category}/all/${page}`)
+        .catch(err => {
+            console.log(`Fetch of ${category} failed for ${world} page ${page}. Error during fetch.`);
+        });
+    try {
+        const data = await response.json();
+        if (data.error) {
+            console.log(`Fetch of ${category} failed for ${world} page ${page}. Error received from Tibia.com.`);
+            return [];
+        } else {
+            const highscoresList = data.highscores.highscore_list;
+            return highscoresList;
+        }
+    } catch {
+        console.log(`Fetch of ${category} failed for ${world} page ${page}. Invalid response.`);
+        return [];
+    }
 }
 
-const getData = async (category) => {
-	console.log(`Fetching ${category} highscores.`);
-    const pages = Array.from({length: 20}, (_, i) => i + 1);
-    var allPages = [];
-    for (let i = 1; i < 21; i++) {
-        const page = await getPage(category, i);
-        allPages = allPages.concat(page);
-    }
+const getDataForWorld = async (category, world) => {	
+    const pages = Array.from({length: 3}, (_, i) => i + 1);
+    const allPages = await Promise.all(pages.map((p) => getPage(category, world, p)));
     return allPages;
 };
 
-const achievementsData = await getData('achievements');
-const charmpointsData = await getData('charmpoints');
-const bosspointsData = await getData('bosspoints');
+const getData = async (category, worlds) => {
+    console.log(`Fetching ${category} highscores.`);
+    var allData = await Promise.all(worlds.map((worldName) => getDataForWorld(category, worldName)));
+    allData = await allData.flat(2);
+    return allData;
+}
+
+const worldNames = await getWorlds();
+
+var achievementsData = await getData('achievements', worldNames);
+const charmpointsData = await getData('charmpoints', worldNames);
+const bosspointsData = await getData('bosspoints', worldNames);
 
 for await (var character of achievementsData) {
     if (characters.includes(character.name)) {
+        //console.log(character.name);
         character.value = character.value - 45;
     }
 }
 
-achievementsData.sort((a,b) => b.value - a.value);
-
-var rank = 1;
-for (let i = 1; i < achievementsData.length; i++) {  
-    if (achievementsData[i].value < achievementsData[i - 1].value) {
-        rank++;
-        achievementsData[i].rank = rank;
-    } else {
-        achievementsData[i].rank = rank;
-        rank++;
+const rankData = (data, key) => {
+    data.sort((a,b) => b[key] - a[key]);
+    var rank = 1;
+    data[0].rank = 1;
+    for (let i = 1; i < data.length; i++) {  
+        if (data[i][key] < data[i - 1][key]) {
+            rank++;
+            data[i].rank = rank;
+        } else {
+            data[i].rank = rank;
+            rank++;
+        }
     }
+    return data;
 }
 
+achievementsData = await rankData(achievementsData, 'value');
 var completionistData = [];
+
 const achievementsDataClone = structuredClone(achievementsData);
 for (let i = 0; i < achievementsDataClone.length; i++) {
     const character = achievementsDataClone[i];
@@ -83,18 +115,7 @@ for (let i = 0; i < achievementsDataClone.length; i++) {
     completionistData.push(character);
 }
 
-completionistData.sort((a,b) => b.averagePct - a.averagePct);
-completionistData[0].rank = 1;
-rank = 1;
-for (let i = 1; i < completionistData.length; i++) {  
-    if (completionistData[i].averagePct < completionistData[i - 1].averagePct) {
-        rank++;
-        completionistData[i].rank = rank;
-    } else {
-        completionistData[i].rank = rank;
-        rank++;
-    }
-}
+completionistData = await rankData(completionistData, 'averagePct');
 
 const achievementsJson = JSON.stringify(achievementsData, null, '\t') + '\n';
 await fs.writeFile(`./data/achievements.json`, achievementsJson);
