@@ -1,0 +1,34 @@
+name: 'Update data'
+
+on:
+  schedule:
+    - cron: '30 02 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update data
+        run: |
+          npm run fetch
+          git config user.name 'Lucky Devil bot'
+          git config user.email 'luckydevil@tibiald.com'
+          date=$(date +'%Y-%m-%d')
+          git add data
+          git commit data -m "Updating data on ${date}" || true
+          git push
