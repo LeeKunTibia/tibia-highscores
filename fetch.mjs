@@ -117,6 +117,9 @@ for (let i = 0; i < achievementsDataClone.length; i++) {
 
 completionistData = await rankData(completionistData, 'averagePct');
 
+completionistData = completionistData.filter(x => x.rank <= 1000);
+achievementsData = achievementsData.filter(x => x.rank <= 1000);
+
 const achievementsJson = JSON.stringify(achievementsData, null, '\t') + '\n';
 await fs.writeFile(`./data/achievements.json`, achievementsJson);
 
