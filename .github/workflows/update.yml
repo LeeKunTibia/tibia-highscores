@@ -2,7 +2,7 @@ name: 'Update data'
 
 on:
   schedule:
-    - cron: '30 02 * * *'
+    - cron: '30 02,14 * * *'
   workflow_dispatch:
 
 jobs:
