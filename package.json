@@ -4,7 +4,7 @@
   "description": "",
   "main": "fetch.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "fetch": "node fetch.mjs"
   },
   "repository": {
     "type": "git",
