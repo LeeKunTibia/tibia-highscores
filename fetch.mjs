@@ -5,6 +5,9 @@ const achievementsMax = 1289;
 const charmpointsMax = 21860;
 const bosspointsMax = 24000;
 
+const APIurl = 'https://api.tibiadata.com/v3';
+//const APIurl = 'https://dev.tibiadata.com/v4';
+
 const charLink = (name) => {
     const url = encodeURI(`https://www.tibia.com/community/?name=${name}`);
     return url;
@@ -12,7 +15,7 @@ const charLink = (name) => {
 
 const getWorlds = async () => {
 	console.log('Getting list of Tibia worlds…');
-	const response = await fetch('https://api.tibiadata.com/v3/worlds');
+	const response = await fetch(`${APIurl}/worlds`);
 	const data = await response.json();
 	const regularWorlds = data.worlds.regular_worlds;
 	const worldNames = regularWorlds.map((world) => world.name);
@@ -20,21 +23,21 @@ const getWorlds = async () => {
 };
 
 const getPage = async(category, world, page) => {
-    const response = await fetch(`https://api.tibiadata.com/v3/highscores/${world}/${category}/all/${page}`)
-        .catch(err => {
-            console.log(`Fetch of ${category} failed for ${world} page ${page}. Error during fetch.`);
-        });
     try {
+        const response = await fetch(`${APIurl}/highscores/${world}/${category}/all/${page}`)
         const data = await response.json();
         if (data.error) {
             console.log(`Fetch of ${category} failed for ${world} page ${page}. Error received from Tibia.com.`);
+            return [];
+        } else if (data.information.status && data.information.status.http_code != 200) { //API V4 only
+            console.log(`Fetch of ${category} failed for ${world} page ${page}. Error ${data.information.status.http_code}`);
             return [];
         } else {
             const highscoresList = data.highscores.highscore_list;
             return highscoresList;
         }
-    } catch {
-        console.log(`Fetch of ${category} failed for ${world} page ${page}. Invalid response.`);
+    } catch (error) {
+        console.log(`Fetch of ${category} failed for ${world} page ${page}:\n${error}`);
         return [];
     }
 }
