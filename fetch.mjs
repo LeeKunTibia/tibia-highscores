@@ -1,9 +1,16 @@
 import * as fs from 'node:fs/promises';
 import { characters } from './characters.mjs';
 
-const achievementsMax = 1289;
-const charmpointsMax = 21860;
-const bosspointsMax = 24000;
+const pageSearchLimit = 5;
+
+//Achievements, Charm Points, Boss Points
+const maxPoints = [1289, 21860, 24000];
+
+const scoreBonusQuantile = 0.9;
+const scoreBonusAmount = 1.25;
+//Points beyond 90% of the max will have a 25% bonus on the Score
+
+const bonusLimits = maxPoints.map(x => Math.round(x * scoreBonusQuantile));
 
 const APIurl = 'https://api.tibiadata.com/v3';
 //const APIurl = 'https://dev.tibiadata.com/v4';
@@ -43,13 +50,13 @@ const getPage = async(category, world, page) => {
 }
 
 const getDataForWorld = async (category, world) => {	
-    const pages = Array.from({length: 3}, (_, i) => i + 1);
+    const pages = Array.from({length: pageSearchLimit}, (_, i) => i + 1);
     const allPages = await Promise.all(pages.map((p) => getPage(category, world, p)));
     return allPages;
 };
 
 const getData = async (category, worlds) => {
-    console.log(`Fetching ${category} highscores.`);
+    console.log(`Fetching ${category} highscores...`);
     var allData = await Promise.all(worlds.map((worldName) => getDataForWorld(category, worldName)));
     allData = await allData.flat(2);
     return allData;
@@ -84,10 +91,32 @@ const rankData = (data, key) => {
     return data;
 }
 
+const getCharacterScore = (character) => {    
+    const extraAchiev = character.achievementPoints - bonusLimits[0];
+    const extraCharms = character.charmPoints - bonusLimits[1];
+    const extraBosses = character.bossPoints - bonusLimits[2];
+
+    var scoreAchiev = character.achievementPoints / maxPoints[0];
+    if (extraAchiev > 0) {
+        scoreAchiev = (extraAchiev * scoreBonusAmount + bonusLimits[0])/maxPoints[0];
+    }    
+    var scoreCharms = character.charmPoints / maxPoints[1];
+    if (extraCharms > 0) {
+        scoreCharms = (extraCharms * scoreBonusAmount + bonusLimits[1])/maxPoints[1];
+    }    
+    var scoreBosses = character.bossPoints / maxPoints[2];
+    if (extraBosses > 0) {
+        scoreBosses = (extraBosses * scoreBonusAmount + bonusLimits[2])/maxPoints[2];
+    }
+    const score = Math.round((scoreAchiev + scoreCharms + scoreBosses) * 10000) / 100;
+    return score;
+}
+
 achievementsData = await rankData(achievementsData, 'value');
 var completionistData = [];
 
 const achievementsDataClone = structuredClone(achievementsData);
+console.log("Processing data...")
 for (let i = 0; i < achievementsDataClone.length; i++) {
     const character = achievementsDataClone[i];
     character.achievementPoints = character.value;
@@ -107,14 +136,16 @@ for (let i = 0; i < achievementsDataClone.length; i++) {
     } else {
         character.bossPoints = 0;
     }
-    character.achievementsPct = Math.round(10000 * character.achievementPoints / achievementsMax) / 100;
-    character.charmsPct = Math.round(10000 * character.charmPoints / charmpointsMax) / 100;
-    character.bossesPct = Math.round(10000 * character.bossPoints / bosspointsMax) / 100;
+    character.achievementsPct = Math.round(10000 * character.achievementPoints / maxPoints[0]) / 100;
+    character.charmsPct = Math.round(10000 * character.charmPoints / maxPoints[1]) / 100;
+    character.bossesPct = Math.round(10000 * character.bossPoints / maxPoints[2]) / 100;
     character.averagePct = Math.round(100 * (character.achievementsPct + character.charmsPct + character.bossesPct) / 3) / 100;
+    //character.score = getCharacterScore(character);
 
     delete character.achievementsPct;
     delete character.charmsPct;
     delete character.bossesPct;
+    
     completionistData.push(character);
 }
 
@@ -123,8 +154,10 @@ completionistData = await rankData(completionistData, 'averagePct');
 completionistData = completionistData.filter(x => x.rank <= 1000);
 achievementsData = achievementsData.filter(x => x.rank <= 1000);
 
+console.log("Saving data to JSON files...")
 const achievementsJson = JSON.stringify(achievementsData, null, '\t') + '\n';
 await fs.writeFile(`./data/achievements.json`, achievementsJson);
 
 const completionistsJson = JSON.stringify(completionistData, null, '\t') + '\n';
 await fs.writeFile(`./data/completionists.json`, completionistsJson);
+console.log("Process complete.")
