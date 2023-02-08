@@ -41,7 +41,12 @@ const getPage = async(category, world, page) => {
             return [];
         } else {
             const highscoresList = data.highscores.highscore_list;
-            return highscoresList;
+            if (highscoresList === null) {
+                //Empty highscores, could be new world on launch day. 
+                return [];
+            } else {
+                return highscoresList;
+            }
         }
     } catch (error) {
         console.log(`Fetch of ${category} failed for ${world} page ${page}:\n${error}`);
@@ -116,7 +121,7 @@ achievementsData = await rankData(achievementsData, 'value');
 var completionistData = [];
 
 const achievementsDataClone = structuredClone(achievementsData);
-console.log("Processing data...")
+console.log("Processing data...");
 for (let i = 0; i < achievementsDataClone.length; i++) {
     const character = achievementsDataClone[i];
     character.achievementPoints = character.value;
