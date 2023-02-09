@@ -21,7 +21,7 @@ const charLink = (name) => {
 }
 
 const getWorlds = async () => {
-	console.log('Getting list of Tibia worlds…');
+	console.log('Getting list of Tibia worlds...');
 	const response = await fetch(`${APIurl}/worlds`);
 	const data = await response.json();
 	const regularWorlds = data.worlds.regular_worlds;
@@ -40,13 +40,8 @@ const getPage = async(category, world, page) => {
             console.log(`Fetch of ${category} failed for ${world} page ${page}. Error ${data.information.status.http_code}`);
             return [];
         } else {
-            const highscoresList = data.highscores.highscore_list;
-            if (highscoresList === null) {
-                //Empty highscores, could be new world on launch day. 
-                return [];
-            } else {
-                return highscoresList;
-            }
+            const highscoresList = data.highscores.highscore_list ?? [];
+            return highscoresList;
         }
     } catch (error) {
         console.log(`Fetch of ${category} failed for ${world} page ${page}:\n${error}`);
