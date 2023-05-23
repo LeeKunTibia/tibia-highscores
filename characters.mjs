@@ -6,5 +6,6 @@ export const characters = [
     "Horon Aoldas",
     "Elyrea",
     "Kapunia",
-	"Vinicius Shocks"
+    "Vinicius Shocks",
+    "Inge Naning"
 ]
