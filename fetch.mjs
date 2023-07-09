@@ -4,7 +4,7 @@ import { characters } from './characters.mjs';
 const pageSearchLimit = 5;
 
 //Achievements, Charm Points, Boss Points
-const maxPoints = [1289, 21860, 24000];
+const maxPoints = [1292, 23775, 24700];
 
 const scoreBonusQuantile = 0.9;
 const scoreBonusAmount = 1.25;
