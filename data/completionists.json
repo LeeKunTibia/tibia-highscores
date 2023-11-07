@@ -26,7 +26,7 @@
 		"name": "https://www.tibia.com/community/?name=Mister%20Jogis||Mister Jogis",
 		"vocation": "Master Sorcerer",
 		"world": "Belobra",
-		"level": 1253,
+		"level": 1254,
 		"achievementPoints": 1259,
 		"charmPoints": 21925,
 		"bossPoints": 19680,
@@ -48,7 +48,7 @@
 		"name": "https://www.tibia.com/community/?name=Haarin||Haarin",
 		"vocation": "Elder Druid",
 		"world": "Monza",
-		"level": 1556,
+		"level": 1557,
 		"achievementPoints": 1266,
 		"charmPoints": 22750,
 		"bossPoints": 18325,
@@ -78,6 +78,17 @@
 	},
 	{
 		"rank": 8,
+		"name": "https://www.tibia.com/community/?name=Frank%20Implacavel||Frank Implacavel",
+		"vocation": "Elder Druid",
+		"world": "Serdebra",
+		"level": 1256,
+		"achievementPoints": 1262,
+		"charmPoints": 20650,
+		"bossPoints": 19025,
+		"averagePct": 87.06
+	},
+	{
+		"rank": 8,
 		"name": "https://www.tibia.com/community/?name=Valiiant%20krzychu||Valiiant krzychu",
 		"vocation": "Royal Paladin",
 		"world": "Harmonia",
@@ -88,18 +99,18 @@
 		"averagePct": 87.06
 	},
 	{
-		"rank": 9,
-		"name": "https://www.tibia.com/community/?name=Frank%20Implacavel||Frank Implacavel",
-		"vocation": "Elder Druid",
-		"world": "Serdebra",
-		"level": 1256,
-		"achievementPoints": 1262,
-		"charmPoints": 20650,
-		"bossPoints": 18990,
-		"averagePct": 87.01
+		"rank": 10,
+		"name": "https://www.tibia.com/community/?name=Mathias%20Bynens||Mathias Bynens",
+		"vocation": "Royal Paladin",
+		"world": "Vunira",
+		"level": 898,
+		"achievementPoints": 1285,
+		"charmPoints": 19110,
+		"bossPoints": 20155,
+		"averagePct": 87.02
 	},
 	{
-		"rank": 10,
+		"rank": 11,
 		"name": "https://www.tibia.com/community/?name=Sibon%20Faur||Sibon Faur",
 		"vocation": "Elite Knight",
 		"world": "Vunira",
@@ -108,17 +119,6 @@
 		"charmPoints": 19810,
 		"bossPoints": 19465,
 		"averagePct": 86.94
-	},
-	{
-		"rank": 11,
-		"name": "https://www.tibia.com/community/?name=Mathias%20Bynens||Mathias Bynens",
-		"vocation": "Royal Paladin",
-		"world": "Vunira",
-		"level": 897,
-		"achievementPoints": 1283,
-		"charmPoints": 19010,
-		"bossPoints": 20150,
-		"averagePct": 86.82
 	},
 	{
 		"rank": 12,
@@ -202,7 +202,7 @@
 		"name": "https://www.tibia.com/community/?name=Energy%20Puff||Energy Puff",
 		"vocation": "Master Sorcerer",
 		"world": "Premia",
-		"level": 1111,
+		"level": 1112,
 		"achievementPoints": 1013,
 		"charmPoints": 22425,
 		"bossPoints": 19875,
@@ -227,11 +227,22 @@
 		"level": 1252,
 		"achievementPoints": 1270,
 		"charmPoints": 22750,
-		"bossPoints": 14345,
-		"averagePct": 83.9
+		"bossPoints": 14375,
+		"averagePct": 83.94
 	},
 	{
 		"rank": 22,
+		"name": "https://www.tibia.com/community/?name=Szwadronek||Szwadronek",
+		"vocation": "Elder Druid",
+		"world": "Monza",
+		"level": 1055,
+		"achievementPoints": 1274,
+		"charmPoints": 20325,
+		"bossPoints": 16420,
+		"averagePct": 83.4
+	},
+	{
+		"rank": 23,
 		"name": "https://www.tibia.com/community/?name=Giant%20the%20Ripper||Giant the Ripper",
 		"vocation": "Elder Druid",
 		"world": "Secura",
@@ -242,37 +253,26 @@
 		"averagePct": 83.37
 	},
 	{
-		"rank": 23,
-		"name": "https://www.tibia.com/community/?name=Szwadronek||Szwadronek",
-		"vocation": "Elder Druid",
-		"world": "Monza",
-		"level": 1055,
-		"achievementPoints": 1274,
-		"charmPoints": 20325,
-		"bossPoints": 16360,
-		"averagePct": 83.32
-	},
-	{
 		"rank": 24,
-		"name": "https://www.tibia.com/community/?name=Fina%20Sirius||Fina Sirius",
-		"vocation": "Elite Knight",
-		"world": "Gentebra",
-		"level": 969,
-		"achievementPoints": 1244,
-		"charmPoints": 19675,
-		"bossPoints": 17215,
-		"averagePct": 82.79
-	},
-	{
-		"rank": 25,
 		"name": "https://www.tibia.com/community/?name=Shidden||Shidden",
 		"vocation": "Royal Paladin",
 		"world": "Guerribra",
 		"level": 967,
 		"achievementPoints": 1242,
 		"charmPoints": 18900,
-		"bossPoints": 18040,
-		"averagePct": 82.77
+		"bossPoints": 18100,
+		"averagePct": 82.85
+	},
+	{
+		"rank": 25,
+		"name": "https://www.tibia.com/community/?name=Fina%20Sirius||Fina Sirius",
+		"vocation": "Elite Knight",
+		"world": "Gentebra",
+		"level": 969,
+		"achievementPoints": 1246,
+		"charmPoints": 19675,
+		"bossPoints": 17215,
+		"averagePct": 82.84
 	},
 	{
 		"rank": 26,
@@ -293,8 +293,8 @@
 		"level": 989,
 		"achievementPoints": 1147,
 		"charmPoints": 16965,
-		"bossPoints": 21705,
-		"averagePct": 82.55
+		"bossPoints": 21710,
+		"averagePct": 82.56
 	},
 	{
 		"rank": 28,
@@ -303,9 +303,9 @@
 		"world": "Celebra",
 		"level": 1781,
 		"achievementPoints": 1252,
-		"charmPoints": 22075,
+		"charmPoints": 22125,
 		"bossPoints": 14260,
-		"averagePct": 82.37
+		"averagePct": 82.44
 	},
 	{
 		"rank": 29,
@@ -375,6 +375,17 @@
 	},
 	{
 		"rank": 35,
+		"name": "https://www.tibia.com/community/?name=Offf%20Liiineee||Offf Liiineee",
+		"vocation": "Royal Paladin",
+		"world": "Wintera",
+		"level": 646,
+		"achievementPoints": 1190,
+		"charmPoints": 16910,
+		"bossPoints": 19705,
+		"averagePct": 80.89
+	},
+	{
+		"rank": 36,
 		"name": "https://www.tibia.com/community/?name=Bloody%20Evan||Bloody Evan",
 		"vocation": "Elder Druid",
 		"world": "Antica",
@@ -385,22 +396,11 @@
 		"averagePct": 80.88
 	},
 	{
-		"rank": 36,
-		"name": "https://www.tibia.com/community/?name=Offf%20Liiineee||Offf Liiineee",
-		"vocation": "Royal Paladin",
-		"world": "Wintera",
-		"level": 646,
-		"achievementPoints": 1190,
-		"charmPoints": 16910,
-		"bossPoints": 19645,
-		"averagePct": 80.8
-	},
-	{
 		"rank": 37,
 		"name": "https://www.tibia.com/community/?name=Kisiel%20Grillowany||Kisiel Grillowany",
 		"vocation": "Elite Knight",
 		"world": "Premia",
-		"level": 982,
+		"level": 983,
 		"achievementPoints": 1231,
 		"charmPoints": 18125,
 		"bossPoints": 17550,
@@ -419,25 +419,25 @@
 	},
 	{
 		"rank": 39,
-		"name": "https://www.tibia.com/community/?name=Quiet||Quiet",
-		"vocation": "Royal Paladin",
-		"world": "Epoca",
-		"level": 1033,
-		"achievementPoints": 1242,
-		"charmPoints": 20550,
-		"bossPoints": 14410,
-		"averagePct": 80.18
-	},
-	{
-		"rank": 40,
 		"name": "https://www.tibia.com/community/?name=Ezudux||Ezudux",
 		"vocation": "Royal Paladin",
 		"world": "Gentebra",
 		"level": 1532,
 		"achievementPoints": 1280,
 		"charmPoints": 17325,
-		"bossPoints": 17020,
-		"averagePct": 80.16
+		"bossPoints": 17050,
+		"averagePct": 80.2
+	},
+	{
+		"rank": 40,
+		"name": "https://www.tibia.com/community/?name=Quiet||Quiet",
+		"vocation": "Royal Paladin",
+		"world": "Epoca",
+		"level": 1033,
+		"achievementPoints": 1242,
+		"charmPoints": 20550,
+		"bossPoints": 14420,
+		"averagePct": 80.19
 	},
 	{
 		"rank": 41,
@@ -458,8 +458,8 @@
 		"level": 738,
 		"achievementPoints": 1208,
 		"charmPoints": 17775,
-		"bossPoints": 17695,
-		"averagePct": 79.85
+		"bossPoints": 17755,
+		"averagePct": 79.93
 	},
 	{
 		"rank": 43,
@@ -506,37 +506,37 @@
 		"averagePct": 79.43
 	},
 	{
-		"rank": 47,
+		"rank": 46,
 		"name": "https://www.tibia.com/community/?name=Krysson||Krysson",
 		"vocation": "Royal Paladin",
 		"world": "Vunira",
-		"level": 676,
+		"level": 677,
 		"achievementPoints": 1150,
 		"charmPoints": 16460,
-		"bossPoints": 19830,
-		"averagePct": 79.39
+		"bossPoints": 19860,
+		"averagePct": 79.43
 	},
 	{
 		"rank": 48,
+		"name": "https://www.tibia.com/community/?name=Magier%20kalinowa||Magier kalinowa",
+		"vocation": "Elder Druid",
+		"world": "Bona",
+		"level": 735,
+		"achievementPoints": 1176,
+		"charmPoints": 17775,
+		"bossPoints": 17745,
+		"averagePct": 79.09
+	},
+	{
+		"rank": 49,
 		"name": "https://www.tibia.com/community/?name=Tharum||Tharum",
 		"vocation": "Elite Knight",
 		"world": "Celesta",
 		"level": 974,
 		"achievementPoints": 1206,
 		"charmPoints": 17625,
-		"bossPoints": 17245,
-		"averagePct": 78.98
-	},
-	{
-		"rank": 49,
-		"name": "https://www.tibia.com/community/?name=Magier%20kalinowa||Magier kalinowa",
-		"vocation": "Elder Druid",
-		"world": "Bona",
-		"level": 735,
-		"achievementPoints": 1170,
-		"charmPoints": 17775,
-		"bossPoints": 17685,
-		"averagePct": 78.86
+		"bossPoints": 17305,
+		"averagePct": 79.06
 	},
 	{
 		"rank": 50,
@@ -568,8 +568,8 @@
 		"level": 1104,
 		"achievementPoints": 1271,
 		"charmPoints": 18275,
-		"bossPoints": 14855,
-		"averagePct": 78.34
+		"bossPoints": 14885,
+		"averagePct": 78.38
 	},
 	{
 		"rank": 53,
@@ -609,11 +609,11 @@
 		"name": "https://www.tibia.com/community/?name=Dcko||Dcko",
 		"vocation": "Master Sorcerer",
 		"world": "Gentebra",
-		"level": 731,
+		"level": 732,
 		"achievementPoints": 1276,
 		"charmPoints": 15410,
-		"bossPoints": 17445,
-		"averagePct": 77.94
+		"bossPoints": 17535,
+		"averagePct": 78.06
 	},
 	{
 		"rank": 57,
@@ -623,8 +623,8 @@
 		"level": 630,
 		"achievementPoints": 1224,
 		"charmPoints": 15950,
-		"bossPoints": 17850,
-		"averagePct": 77.91
+		"bossPoints": 17855,
+		"averagePct": 77.92
 	},
 	{
 		"rank": 58,
@@ -722,8 +722,8 @@
 		"level": 1906,
 		"achievementPoints": 1257,
 		"charmPoints": 23825,
-		"bossPoints": 8400,
-		"averagePct": 77.05
+		"bossPoints": 8410,
+		"averagePct": 77.06
 	},
 	{
 		"rank": 67,
@@ -755,8 +755,8 @@
 		"level": 960,
 		"achievementPoints": 1198,
 		"charmPoints": 14083,
-		"bossPoints": 19305,
-		"averagePct": 76.59
+		"bossPoints": 19400,
+		"averagePct": 76.71
 	},
 	{
 		"rank": 70,
@@ -776,9 +776,9 @@
 		"world": "Bona",
 		"level": 826,
 		"achievementPoints": 1244,
-		"charmPoints": 16560,
+		"charmPoints": 16585,
 		"bossPoints": 15730,
-		"averagePct": 76.41
+		"averagePct": 76.45
 	},
 	{
 		"rank": 72,
@@ -832,8 +832,8 @@
 		"level": 1024,
 		"achievementPoints": 1109,
 		"charmPoints": 14515,
-		"bossPoints": 20255,
-		"averagePct": 76.19
+		"bossPoints": 20265,
+		"averagePct": 76.2
 	},
 	{
 		"rank": 77,
@@ -862,7 +862,7 @@
 		"name": "https://www.tibia.com/community/?name=Davilao||Davilao",
 		"vocation": "Elite Knight",
 		"world": "Collabra",
-		"level": 1392,
+		"level": 1393,
 		"achievementPoints": 989,
 		"charmPoints": 21360,
 		"bossPoints": 15275,
@@ -947,6 +947,17 @@
 	},
 	{
 		"rank": 87,
+		"name": "https://www.tibia.com/community/?name=Miggon%20Mclovin||Miggon Mclovin",
+		"vocation": "Master Sorcerer",
+		"world": "Utobra",
+		"level": 1684,
+		"achievementPoints": 1242,
+		"charmPoints": 22575,
+		"bossPoints": 8250,
+		"averagePct": 74.7
+	},
+	{
+		"rank": 88,
 		"name": "https://www.tibia.com/community/?name=Mage%20Barker||Mage Barker",
 		"vocation": "Elder Druid",
 		"world": "Quintera",
@@ -955,17 +966,6 @@
 		"charmPoints": 18135,
 		"bossPoints": 12460,
 		"averagePct": 74.65
-	},
-	{
-		"rank": 88,
-		"name": "https://www.tibia.com/community/?name=Miggon%20Mclovin||Miggon Mclovin",
-		"vocation": "Master Sorcerer",
-		"world": "Utobra",
-		"level": 1683,
-		"achievementPoints": 1240,
-		"charmPoints": 22575,
-		"bossPoints": 8240,
-		"averagePct": 74.64
 	},
 	{
 		"rank": 89,
@@ -983,7 +983,7 @@
 		"name": "https://www.tibia.com/community/?name=Turyan||Turyan",
 		"vocation": "Royal Paladin",
 		"world": "Descubra",
-		"level": 892,
+		"level": 893,
 		"achievementPoints": 1255,
 		"charmPoints": 19375,
 		"bossPoints": 11085,
@@ -1041,15 +1041,15 @@
 		"level": 1828,
 		"achievementPoints": 1249,
 		"charmPoints": 20735,
-		"bossPoints": 8965,
-		"averagePct": 73.27
+		"bossPoints": 9055,
+		"averagePct": 73.39
 	},
 	{
 		"rank": 96,
 		"name": "https://www.tibia.com/community/?name=Lunatic%20Princess||Lunatic Princess",
 		"vocation": "Elite Knight",
 		"world": "Celesta",
-		"level": 1581,
+		"level": 1582,
 		"achievementPoints": 894,
 		"charmPoints": 23375,
 		"bossPoints": 12900,
@@ -1148,7 +1148,7 @@
 		"name": "https://www.tibia.com/community/?name=Czterolistny%20Pajak||Czterolistny Pajak",
 		"vocation": "Elite Knight",
 		"world": "Refugia",
-		"level": 966,
+		"level": 967,
 		"achievementPoints": 1063,
 		"charmPoints": 16575,
 		"bossPoints": 16075,
@@ -1159,7 +1159,7 @@
 		"name": "https://www.tibia.com/community/?name=Quis||Quis",
 		"vocation": "Elite Knight",
 		"world": "Premia",
-		"level": 968,
+		"level": 969,
 		"achievementPoints": 1262,
 		"charmPoints": 15360,
 		"bossPoints": 13410,
@@ -1173,8 +1173,8 @@
 		"level": 1179,
 		"achievementPoints": 856,
 		"charmPoints": 15880,
-		"bossPoints": 20580,
-		"averagePct": 72.04
+		"bossPoints": 20595,
+		"averagePct": 72.06
 	},
 	{
 		"rank": 108,
@@ -1211,6 +1211,17 @@
 	},
 	{
 		"rank": 111,
+		"name": "https://www.tibia.com/community/?name=Chicofatman||Chicofatman",
+		"vocation": "Elder Druid",
+		"world": "Nevia",
+		"level": 1132,
+		"achievementPoints": 1256,
+		"charmPoints": 18594,
+		"bossPoints": 9960,
+		"averagePct": 71.79
+	},
+	{
+		"rank": 112,
 		"name": "https://www.tibia.com/community/?name=Dark%20Blood%20Of%20Honera||Dark Blood Of Honera",
 		"vocation": "Master Sorcerer",
 		"world": "Nefera",
@@ -1219,17 +1230,6 @@
 		"charmPoints": 16280,
 		"bossPoints": 15425,
 		"averagePct": 71.76
-	},
-	{
-		"rank": 112,
-		"name": "https://www.tibia.com/community/?name=Chicofatman||Chicofatman",
-		"vocation": "Elder Druid",
-		"world": "Nevia",
-		"level": 1132,
-		"achievementPoints": 1256,
-		"charmPoints": 18594,
-		"bossPoints": 9900,
-		"averagePct": 71.71
 	},
 	{
 		"rank": 113,
@@ -1321,6 +1321,17 @@
 	},
 	{
 		"rank": 121,
+		"name": "https://www.tibia.com/community/?name=Arcyklamca||Arcyklamca",
+		"vocation": "Elder Druid",
+		"world": "Ustebra",
+		"level": 1300,
+		"achievementPoints": 780,
+		"charmPoints": 16600,
+		"bossPoints": 20255,
+		"averagePct": 70.65
+	},
+	{
+		"rank": 122,
 		"name": "https://www.tibia.com/community/?name=Guardian'Henry||Guardian'Henry",
 		"vocation": "Elite Knight",
 		"world": "Kalibra",
@@ -1331,7 +1342,7 @@
 		"averagePct": 70.53
 	},
 	{
-		"rank": 122,
+		"rank": 123,
 		"name": "https://www.tibia.com/community/?name=Popolos%20Paladino||Popolos Paladino",
 		"vocation": "Royal Paladin",
 		"world": "Harmonia",
@@ -1340,17 +1351,6 @@
 		"charmPoints": 17775,
 		"bossPoints": 17485,
 		"averagePct": 70.52
-	},
-	{
-		"rank": 123,
-		"name": "https://www.tibia.com/community/?name=Arcyklamca||Arcyklamca",
-		"vocation": "Elder Druid",
-		"world": "Ustebra",
-		"level": 1300,
-		"achievementPoints": 773,
-		"charmPoints": 16600,
-		"bossPoints": 20255,
-		"averagePct": 70.47
 	},
 	{
 		"rank": 124,
@@ -1365,6 +1365,17 @@
 	},
 	{
 		"rank": 125,
+		"name": "https://www.tibia.com/community/?name=Fizoleczek||Fizoleczek",
+		"vocation": "Elite Knight",
+		"world": "Antica",
+		"level": 580,
+		"achievementPoints": 830,
+		"charmPoints": 18675,
+		"bossPoints": 16795,
+		"averagePct": 70.18
+	},
+	{
+		"rank": 126,
 		"name": "https://www.tibia.com/community/?name=Natth%20Morza||Natth Morza",
 		"vocation": "Elite Knight",
 		"world": "Secura",
@@ -1375,7 +1386,7 @@
 		"averagePct": 70.05
 	},
 	{
-		"rank": 126,
+		"rank": 127,
 		"name": "https://www.tibia.com/community/?name=Noob%20Body||Noob Body",
 		"vocation": "Royal Paladin",
 		"world": "Damora",
@@ -1386,7 +1397,7 @@
 		"averagePct": 69.94
 	},
 	{
-		"rank": 127,
+		"rank": 128,
 		"name": "https://www.tibia.com/community/?name=Akarin%20Battlehammer||Akarin Battlehammer",
 		"vocation": "Royal Paladin",
 		"world": "Harmonia",
@@ -1397,29 +1408,29 @@
 		"averagePct": 69.87
 	},
 	{
-		"rank": 128,
+		"rank": 129,
 		"name": "https://www.tibia.com/community/?name=Brighid%20Grand%20Explorateur||Brighid Grand Explorateur",
 		"vocation": "Elite Knight",
 		"world": "Yonabra",
-		"level": 711,
+		"level": 712,
 		"achievementPoints": 1160,
 		"charmPoints": 13170,
 		"bossPoints": 15980,
 		"averagePct": 69.84
 	},
 	{
-		"rank": 128,
+		"rank": 129,
 		"name": "https://www.tibia.com/community/?name=Kiwikator||Kiwikator",
 		"vocation": "Master Sorcerer",
 		"world": "Monza",
-		"level": 1001,
+		"level": 1002,
 		"achievementPoints": 1081,
 		"charmPoints": 12825,
 		"bossPoints": 17840,
 		"averagePct": 69.84
 	},
 	{
-		"rank": 130,
+		"rank": 131,
 		"name": "https://www.tibia.com/community/?name=Szmuggy||Szmuggy",
 		"vocation": "Royal Paladin",
 		"world": "Thyria",
@@ -1430,7 +1441,7 @@
 		"averagePct": 69.82
 	},
 	{
-		"rank": 131,
+		"rank": 132,
 		"name": "https://www.tibia.com/community/?name=Chinese%20Fighting||Chinese Fighting",
 		"vocation": "Elder Druid",
 		"world": "Lobera",
@@ -1441,7 +1452,7 @@
 		"averagePct": 69.8
 	},
 	{
-		"rank": 132,
+		"rank": 133,
 		"name": "https://www.tibia.com/community/?name=Cubbii||Cubbii",
 		"vocation": "Royal Paladin",
 		"world": "Celesta",
@@ -1452,7 +1463,7 @@
 		"averagePct": 69.76
 	},
 	{
-		"rank": 133,
+		"rank": 134,
 		"name": "https://www.tibia.com/community/?name=Royal%20Doniinho||Royal Doniinho",
 		"vocation": "Royal Paladin",
 		"world": "Inabra",
@@ -1463,7 +1474,7 @@
 		"averagePct": 69.72
 	},
 	{
-		"rank": 134,
+		"rank": 135,
 		"name": "https://www.tibia.com/community/?name=Distancehunter||Distancehunter",
 		"vocation": "Royal Paladin",
 		"world": "Antica",
@@ -1474,7 +1485,7 @@
 		"averagePct": 69.68
 	},
 	{
-		"rank": 135,
+		"rank": 136,
 		"name": "https://www.tibia.com/community/?name=Kekw%20Kok||Kekw Kok",
 		"vocation": "Royal Paladin",
 		"world": "Inabra",
@@ -1485,18 +1496,18 @@
 		"averagePct": 69.63
 	},
 	{
-		"rank": 135,
+		"rank": 136,
 		"name": "https://www.tibia.com/community/?name=Male%20Zolte%20Sanki||Male Zolte Sanki",
 		"vocation": "Elder Druid",
 		"world": "Thyria",
-		"level": 1248,
+		"level": 1249,
 		"achievementPoints": 731,
 		"charmPoints": 23225,
 		"bossPoints": 13545,
 		"averagePct": 69.63
 	},
 	{
-		"rank": 137,
+		"rank": 138,
 		"name": "https://www.tibia.com/community/?name=Fire%20Draggon||Fire Draggon",
 		"vocation": "Knight",
 		"world": "Quintera",
@@ -1507,7 +1518,7 @@
 		"averagePct": 69.6
 	},
 	{
-		"rank": 137,
+		"rank": 138,
 		"name": "https://www.tibia.com/community/?name=Kragon||Kragon",
 		"vocation": "Elder Druid",
 		"world": "Belobra",
@@ -1518,7 +1529,7 @@
 		"averagePct": 69.6
 	},
 	{
-		"rank": 139,
+		"rank": 140,
 		"name": "https://www.tibia.com/community/?name=Spirall%20fall||Spirall fall",
 		"vocation": "Elite Knight",
 		"world": "Quelibra",
@@ -1529,7 +1540,7 @@
 		"averagePct": 69.56
 	},
 	{
-		"rank": 140,
+		"rank": 141,
 		"name": "https://www.tibia.com/community/?name=Dakota||Dakota",
 		"vocation": "Elite Knight",
 		"world": "Esmera",
@@ -1540,7 +1551,7 @@
 		"averagePct": 69.54
 	},
 	{
-		"rank": 141,
+		"rank": 142,
 		"name": "https://www.tibia.com/community/?name=Fanas||Fanas",
 		"vocation": "Elder Druid",
 		"world": "Lobera",
@@ -1551,26 +1562,15 @@
 		"averagePct": 69.53
 	},
 	{
-		"rank": 142,
+		"rank": 143,
 		"name": "https://www.tibia.com/community/?name=King%20Bex||King Bex",
 		"vocation": "Elder Druid",
 		"world": "Monza",
-		"level": 1825,
+		"level": 1826,
 		"achievementPoints": 1084,
 		"charmPoints": 14849,
 		"bossPoints": 15365,
 		"averagePct": 69.42
-	},
-	{
-		"rank": 143,
-		"name": "https://www.tibia.com/community/?name=Fizoleczek||Fizoleczek",
-		"vocation": "Elite Knight",
-		"world": "Antica",
-		"level": 580,
-		"achievementPoints": 799,
-		"charmPoints": 18675,
-		"bossPoints": 16795,
-		"averagePct": 69.38
 	},
 	{
 		"rank": 144,
@@ -1591,8 +1591,8 @@
 		"level": 790,
 		"achievementPoints": 1076,
 		"charmPoints": 13885,
-		"bossPoints": 16435,
-		"averagePct": 69.3
+		"bossPoints": 16440,
+		"averagePct": 69.31
 	},
 	{
 		"rank": 146,
@@ -1632,7 +1632,7 @@
 		"name": "https://www.tibia.com/community/?name=Quarter%20To%20Three||Quarter To Three",
 		"vocation": "Royal Paladin",
 		"world": "Secura",
-		"level": 1662,
+		"level": 1663,
 		"achievementPoints": 1234,
 		"charmPoints": 20720,
 		"bossPoints": 6130,
@@ -1640,6 +1640,17 @@
 	},
 	{
 		"rank": 150,
+		"name": "https://www.tibia.com/community/?name=Kareka%20on%20quelibra||Kareka on quelibra",
+		"vocation": "Royal Paladin",
+		"world": "Quelibra",
+		"level": 771,
+		"achievementPoints": 1160,
+		"charmPoints": 16925,
+		"bossPoints": 11465,
+		"averagePct": 69.02
+	},
+	{
+		"rank": 151,
 		"name": "https://www.tibia.com/community/?name=Xan%20Farmer||Xan Farmer",
 		"vocation": "Master Sorcerer",
 		"world": "Refugia",
@@ -1650,7 +1661,7 @@
 		"averagePct": 68.99
 	},
 	{
-		"rank": 151,
+		"rank": 152,
 		"name": "https://www.tibia.com/community/?name=Zipper%20Soul%20Shade||Zipper Soul Shade",
 		"vocation": "Master Sorcerer",
 		"world": "Damora",
@@ -1661,7 +1672,7 @@
 		"averagePct": 68.98
 	},
 	{
-		"rank": 152,
+		"rank": 153,
 		"name": "https://www.tibia.com/community/?name=Chimolina||Chimolina",
 		"vocation": "Elder Druid",
 		"world": "Harmonia",
@@ -1672,18 +1683,18 @@
 		"averagePct": 68.94
 	},
 	{
-		"rank": 153,
-		"name": "https://www.tibia.com/community/?name=Kareka%20on%20quelibra||Kareka on quelibra",
-		"vocation": "Royal Paladin",
-		"world": "Quelibra",
-		"level": 771,
-		"achievementPoints": 1160,
-		"charmPoints": 16925,
-		"bossPoints": 11405,
-		"averagePct": 68.93
+		"rank": 154,
+		"name": "https://www.tibia.com/community/?name=Mallowana%20Ksiezniczka||Mallowana Ksiezniczka",
+		"vocation": "Elite Knight",
+		"world": "Celesta",
+		"level": 1152,
+		"achievementPoints": 911,
+		"charmPoints": 18070,
+		"bossPoints": 14860,
+		"averagePct": 68.8
 	},
 	{
-		"rank": 154,
+		"rank": 155,
 		"name": "https://www.tibia.com/community/?name=Vepeh||Vepeh",
 		"vocation": "Royal Paladin",
 		"world": "Celebra",
@@ -1694,18 +1705,18 @@
 		"averagePct": 68.79
 	},
 	{
-		"rank": 155,
+		"rank": 156,
 		"name": "https://www.tibia.com/community/?name=Kate%20Walker||Kate Walker",
 		"vocation": "Elite Knight",
 		"world": "Nevia",
-		"level": 1039,
+		"level": 1040,
 		"achievementPoints": 1127,
 		"charmPoints": 13535,
 		"bossPoints": 15445,
 		"averagePct": 68.78
 	},
 	{
-		"rank": 156,
+		"rank": 157,
 		"name": "https://www.tibia.com/community/?name=Brobanana||Brobanana",
 		"vocation": "Elite Knight",
 		"world": "Peloria",
@@ -1713,17 +1724,6 @@
 		"achievementPoints": 1126,
 		"charmPoints": 16585,
 		"bossPoints": 12275,
-		"averagePct": 68.76
-	},
-	{
-		"rank": 156,
-		"name": "https://www.tibia.com/community/?name=Mallowana%20Ksiezniczka||Mallowana Ksiezniczka",
-		"vocation": "Elite Knight",
-		"world": "Celesta",
-		"level": 1151,
-		"achievementPoints": 911,
-		"charmPoints": 18070,
-		"bossPoints": 14830,
 		"averagePct": 68.76
 	},
 	{
@@ -1789,8 +1789,8 @@
 		"level": 1622,
 		"achievementPoints": 1157,
 		"charmPoints": 21010,
-		"bossPoints": 6865,
-		"averagePct": 68.46
+		"bossPoints": 6925,
+		"averagePct": 68.54
 	},
 	{
 		"rank": 164,
@@ -1811,8 +1811,8 @@
 		"level": 948,
 		"achievementPoints": 1187,
 		"charmPoints": 17160,
-		"bossPoints": 10195,
-		"averagePct": 68.33
+		"bossPoints": 10255,
+		"averagePct": 68.41
 	},
 	{
 		"rank": 166,
@@ -1863,7 +1863,7 @@
 		"name": "https://www.tibia.com/community/?name=Dorivall||Dorivall",
 		"vocation": "Elder Druid",
 		"world": "Guerribra",
-		"level": 1456,
+		"level": 1457,
 		"achievementPoints": 1148,
 		"charmPoints": 22335,
 		"bossPoints": 5515,
@@ -1931,9 +1931,9 @@
 		"world": "Harmonia",
 		"level": 1487,
 		"achievementPoints": 1106,
-		"charmPoints": 18635,
+		"charmPoints": 18660,
 		"bossPoints": 9925,
-		"averagePct": 67.94
+		"averagePct": 67.98
 	},
 	{
 		"rank": 177,
@@ -2017,22 +2017,11 @@
 		"name": "https://www.tibia.com/community/?name=Aurea%20Atti||Aurea Atti",
 		"vocation": "Elder Druid",
 		"world": "Gentebra",
-		"level": 838,
+		"level": 839,
 		"achievementPoints": 1249,
 		"charmPoints": 12795,
 		"bossPoints": 12900,
 		"averagePct": 67.45
-	},
-	{
-		"rank": 185,
-		"name": "https://www.tibia.com/community/?name=Tritheus%20Ninguemle||Tritheus Ninguemle",
-		"vocation": "Master Sorcerer",
-		"world": "Collabra",
-		"level": 1688,
-		"achievementPoints": 1135,
-		"charmPoints": 22135,
-		"bossPoints": 5275,
-		"averagePct": 67.32
 	},
 	{
 		"rank": 185,
@@ -2042,11 +2031,33 @@
 		"level": 771,
 		"achievementPoints": 930,
 		"charmPoints": 12799,
-		"bossPoints": 18875,
+		"bossPoints": 18965,
+		"averagePct": 67.44
+	},
+	{
+		"rank": 186,
+		"name": "https://www.tibia.com/community/?name=Juankz||Juankz",
+		"vocation": "Elite Knight",
+		"world": "Lobera",
+		"level": 871,
+		"achievementPoints": 1208,
+		"charmPoints": 16735,
+		"bossPoints": 9495,
 		"averagePct": 67.32
 	},
 	{
-		"rank": 187,
+		"rank": 186,
+		"name": "https://www.tibia.com/community/?name=Tritheus%20Ninguemle||Tritheus Ninguemle",
+		"vocation": "Master Sorcerer",
+		"world": "Collabra",
+		"level": 1689,
+		"achievementPoints": 1135,
+		"charmPoints": 22135,
+		"bossPoints": 5275,
+		"averagePct": 67.32
+	},
+	{
+		"rank": 188,
 		"name": "https://www.tibia.com/community/?name=Ka%20Rio%20Ka||Ka Rio Ka",
 		"vocation": "Elite Knight",
 		"world": "Descubra",
@@ -2057,7 +2068,7 @@
 		"averagePct": 67.28
 	},
 	{
-		"rank": 188,
+		"rank": 189,
 		"name": "https://www.tibia.com/community/?name=Luziadas||Luziadas",
 		"vocation": "Elite Knight",
 		"world": "Menera",
@@ -2066,17 +2077,6 @@
 		"charmPoints": 20250,
 		"bossPoints": 7770,
 		"averagePct": 67.25
-	},
-	{
-		"rank": 189,
-		"name": "https://www.tibia.com/community/?name=Juankz||Juankz",
-		"vocation": "Elite Knight",
-		"world": "Lobera",
-		"level": 871,
-		"achievementPoints": 1208,
-		"charmPoints": 16735,
-		"bossPoints": 9435,
-		"averagePct": 67.24
 	},
 	{
 		"rank": 190,
@@ -2096,12 +2096,12 @@
 		"world": "Bona",
 		"level": 900,
 		"achievementPoints": 1132,
-		"charmPoints": 11380,
-		"bossPoints": 16275,
-		"averagePct": 67.01
+		"charmPoints": 11430,
+		"bossPoints": 16335,
+		"averagePct": 67.16
 	},
 	{
-		"rank": 191,
+		"rank": 192,
 		"name": "https://www.tibia.com/community/?name=Tanor||Tanor",
 		"vocation": "Royal Paladin",
 		"world": "Refugia",
@@ -2163,11 +2163,22 @@
 		"level": 809,
 		"achievementPoints": 1089,
 		"charmPoints": 10170,
-		"bossPoints": 18010,
-		"averagePct": 66.55
+		"bossPoints": 18040,
+		"averagePct": 66.59
 	},
 	{
 		"rank": 198,
+		"name": "https://www.tibia.com/community/?name=Gustazor||Gustazor",
+		"vocation": "Master Sorcerer",
+		"world": "Lutabra",
+		"level": 1058,
+		"achievementPoints": 1223,
+		"charmPoints": 12844,
+		"bossPoints": 12600,
+		"averagePct": 66.44
+	},
+	{
+		"rank": 199,
 		"name": "https://www.tibia.com/community/?name=Nasty%20Kasper||Nasty Kasper",
 		"vocation": "Royal Paladin",
 		"world": "Antica",
@@ -2176,17 +2187,6 @@
 		"charmPoints": 19635,
 		"bossPoints": 5450,
 		"averagePct": 66.42
-	},
-	{
-		"rank": 199,
-		"name": "https://www.tibia.com/community/?name=Gustazor||Gustazor",
-		"vocation": "Master Sorcerer",
-		"world": "Lutabra",
-		"level": 1058,
-		"achievementPoints": 1223,
-		"charmPoints": 12844,
-		"bossPoints": 12570,
-		"averagePct": 66.4
 	},
 	{
 		"rank": 200,
@@ -2207,8 +2207,8 @@
 		"level": 710,
 		"achievementPoints": 974,
 		"charmPoints": 10895,
-		"bossPoints": 19195,
-		"averagePct": 66.21
+		"bossPoints": 19200,
+		"averagePct": 66.22
 	},
 	{
 		"rank": 202,
@@ -2229,11 +2229,22 @@
 		"level": 717,
 		"achievementPoints": 1051,
 		"charmPoints": 14153,
-		"bossPoints": 14295,
-		"averagePct": 66.14
+		"bossPoints": 14305,
+		"averagePct": 66.16
 	},
 	{
 		"rank": 204,
+		"name": "https://www.tibia.com/community/?name=Luconn||Luconn",
+		"vocation": "Elite Knight",
+		"world": "Secura",
+		"level": 1027,
+		"achievementPoints": 879,
+		"charmPoints": 20450,
+		"bossPoints": 11010,
+		"averagePct": 66.12
+	},
+	{
+		"rank": 205,
 		"name": "https://www.tibia.com/community/?name=Andy%20Traveller||Andy Traveller",
 		"vocation": "Elite Knight",
 		"world": "Ustebra",
@@ -2244,7 +2255,7 @@
 		"averagePct": 66.1
 	},
 	{
-		"rank": 205,
+		"rank": 206,
 		"name": "https://www.tibia.com/community/?name=Silverx||Silverx",
 		"vocation": "Elite Knight",
 		"world": "Ustebra",
@@ -2255,29 +2266,29 @@
 		"averagePct": 66.06
 	},
 	{
-		"rank": 205,
+		"rank": 206,
 		"name": "https://www.tibia.com/community/?name=Cynitha%20the%20Unholy||Cynitha the Unholy",
 		"vocation": "Elite Knight",
 		"world": "Monza",
-		"level": 1109,
+		"level": 1110,
 		"achievementPoints": 914,
 		"charmPoints": 16239,
 		"bossPoints": 14675,
 		"averagePct": 66.06
 	},
 	{
-		"rank": 207,
+		"rank": 208,
 		"name": "https://www.tibia.com/community/?name=Slodka%20Ulcia||Slodka Ulcia",
 		"vocation": "Royal Paladin",
 		"world": "Secura",
-		"level": 611,
+		"level": 612,
 		"achievementPoints": 901,
 		"charmPoints": 15705,
 		"bossPoints": 15470,
 		"averagePct": 66.05
 	},
 	{
-		"rank": 208,
+		"rank": 209,
 		"name": "https://www.tibia.com/community/?name=Vand%20Woodstock||Vand Woodstock",
 		"vocation": "Elder Druid",
 		"world": "Inabra",
@@ -2288,7 +2299,18 @@
 		"averagePct": 66
 	},
 	{
-		"rank": 209,
+		"rank": 210,
+		"name": "https://www.tibia.com/community/?name=Sujazip||Sujazip",
+		"vocation": "Elder Druid",
+		"world": "Rasteibra",
+		"level": 1027,
+		"achievementPoints": 853,
+		"charmPoints": 15350,
+		"bossPoints": 16700,
+		"averagePct": 65.98
+	},
+	{
+		"rank": 211,
 		"name": "https://www.tibia.com/community/?name=Hipnotic%20Archer||Hipnotic Archer",
 		"vocation": "Royal Paladin",
 		"world": "Havera",
@@ -2297,28 +2319,6 @@
 		"charmPoints": 13195,
 		"bossPoints": 13440,
 		"averagePct": 65.96
-	},
-	{
-		"rank": 209,
-		"name": "https://www.tibia.com/community/?name=Luconn||Luconn",
-		"vocation": "Elite Knight",
-		"world": "Secura",
-		"level": 1027,
-		"achievementPoints": 879,
-		"charmPoints": 20450,
-		"bossPoints": 10890,
-		"averagePct": 65.96
-	},
-	{
-		"rank": 211,
-		"name": "https://www.tibia.com/community/?name=Sujazip||Sujazip",
-		"vocation": "Elder Druid",
-		"world": "Rasteibra",
-		"level": 1029,
-		"achievementPoints": 853,
-		"charmPoints": 15350,
-		"bossPoints": 16670,
-		"averagePct": 65.94
 	},
 	{
 		"rank": 212,
@@ -2333,6 +2333,17 @@
 	},
 	{
 		"rank": 213,
+		"name": "https://www.tibia.com/community/?name=Woo%20Dy||Woo Dy",
+		"vocation": "Elite Knight",
+		"world": "Lutabra",
+		"level": 869,
+		"achievementPoints": 1220,
+		"charmPoints": 8538,
+		"bossPoints": 16655,
+		"averagePct": 65.8
+	},
+	{
+		"rank": 214,
 		"name": "https://www.tibia.com/community/?name=Delirium%20Tremen||Delirium Tremen",
 		"vocation": "Royal Paladin",
 		"world": "Gladera",
@@ -2343,7 +2354,7 @@
 		"averagePct": 65.78
 	},
 	{
-		"rank": 214,
+		"rank": 215,
 		"name": "https://www.tibia.com/community/?name=Janni||Janni",
 		"vocation": "Royal Paladin",
 		"world": "Secura",
@@ -2355,17 +2366,28 @@
 	},
 	{
 		"rank": 215,
-		"name": "https://www.tibia.com/community/?name=Woo%20Dy||Woo Dy",
+		"name": "https://www.tibia.com/community/?name=Gutzim||Gutzim",
 		"vocation": "Elite Knight",
-		"world": "Lutabra",
-		"level": 869,
-		"achievementPoints": 1220,
-		"charmPoints": 8538,
-		"bossPoints": 16565,
+		"world": "Inabra",
+		"level": 664,
+		"achievementPoints": 969,
+		"charmPoints": 12995,
+		"bossPoints": 16745,
+		"averagePct": 65.72
+	},
+	{
+		"rank": 217,
+		"name": "https://www.tibia.com/community/?name=Rhandy%20Sawyer||Rhandy Sawyer",
+		"vocation": "Royal Paladin",
+		"world": "Yonabra",
+		"level": 760,
+		"achievementPoints": 1214,
+		"charmPoints": 13055,
+		"bossPoints": 11990,
 		"averagePct": 65.68
 	},
 	{
-		"rank": 215,
+		"rank": 217,
 		"name": "https://www.tibia.com/community/?name=Eternal%20Level%20Baixo||Eternal Level Baixo",
 		"vocation": "Royal Paladin",
 		"world": "Descubra",
@@ -2374,28 +2396,6 @@
 		"charmPoints": 12545,
 		"bossPoints": 13890,
 		"averagePct": 65.68
-	},
-	{
-		"rank": 216,
-		"name": "https://www.tibia.com/community/?name=Gutzim||Gutzim",
-		"vocation": "Elite Knight",
-		"world": "Inabra",
-		"level": 663,
-		"achievementPoints": 969,
-		"charmPoints": 12995,
-		"bossPoints": 16715,
-		"averagePct": 65.68
-	},
-	{
-		"rank": 218,
-		"name": "https://www.tibia.com/community/?name=Rhandy%20Sawyer||Rhandy Sawyer",
-		"vocation": "Royal Paladin",
-		"world": "Yonabra",
-		"level": 760,
-		"achievementPoints": 1214,
-		"charmPoints": 13055,
-		"bossPoints": 11960,
-		"averagePct": 65.64
 	},
 	{
 		"rank": 219,
@@ -2420,22 +2420,22 @@
 		"averagePct": 65.55
 	},
 	{
-		"rank": 221,
+		"rank": 220,
 		"name": "https://www.tibia.com/community/?name=Cuttelo||Cuttelo",
 		"vocation": "Royal Paladin",
 		"world": "Ferobra",
 		"level": 761,
 		"achievementPoints": 1211,
-		"charmPoints": 12405,
+		"charmPoints": 12455,
 		"bossPoints": 12570,
-		"averagePct": 65.48
+		"averagePct": 65.55
 	},
 	{
 		"rank": 222,
 		"name": "https://www.tibia.com/community/?name=Averlo||Averlo",
 		"vocation": "Elder Druid",
 		"world": "Bona",
-		"level": 863,
+		"level": 864,
 		"achievementPoints": 698,
 		"charmPoints": 16305,
 		"bossPoints": 18250,
@@ -2446,7 +2446,7 @@
 		"name": "https://www.tibia.com/community/?name=Dragonidas||Dragonidas",
 		"vocation": "Master Sorcerer",
 		"world": "Monza",
-		"level": 1288,
+		"level": 1289,
 		"achievementPoints": 1115,
 		"charmPoints": 15590,
 		"bossPoints": 11040,
@@ -2476,6 +2476,17 @@
 	},
 	{
 		"rank": 226,
+		"name": "https://www.tibia.com/community/?name=Sweaty%20Kamish||Sweaty Kamish",
+		"vocation": "Elite Knight",
+		"world": "Secura",
+		"level": 643,
+		"achievementPoints": 1087,
+		"charmPoints": 12030,
+		"bossPoints": 15180,
+		"averagePct": 65.29
+	},
+	{
+		"rank": 227,
 		"name": "https://www.tibia.com/community/?name=Ilutin%20Shar||Ilutin Shar",
 		"vocation": "Sorcerer",
 		"world": "Belobra",
@@ -2486,18 +2497,18 @@
 		"averagePct": 65.25
 	},
 	{
-		"rank": 226,
-		"name": "https://www.tibia.com/community/?name=Sweaty%20Kamish||Sweaty Kamish",
-		"vocation": "Elite Knight",
-		"world": "Secura",
-		"level": 643,
-		"achievementPoints": 1087,
-		"charmPoints": 12030,
-		"bossPoints": 15150,
-		"averagePct": 65.25
+		"rank": 228,
+		"name": "https://www.tibia.com/community/?name=Prof%20Victor||Prof Victor",
+		"vocation": "Elder Druid",
+		"world": "Lutabra",
+		"level": 622,
+		"achievementPoints": 1070,
+		"charmPoints": 13460,
+		"bossPoints": 13975,
+		"averagePct": 65.23
 	},
 	{
-		"rank": 228,
+		"rank": 229,
 		"name": "https://www.tibia.com/community/?name=Arcai||Arcai",
 		"vocation": "Master Sorcerer",
 		"world": "Pulsera",
@@ -2508,7 +2519,7 @@
 		"averagePct": 65.2
 	},
 	{
-		"rank": 229,
+		"rank": 230,
 		"name": "https://www.tibia.com/community/?name=Heisenbug||Heisenbug",
 		"vocation": "Royal Paladin",
 		"world": "Yovera",
@@ -2517,17 +2528,6 @@
 		"charmPoints": 11914,
 		"bossPoints": 17000,
 		"averagePct": 65.12
-	},
-	{
-		"rank": 230,
-		"name": "https://www.tibia.com/community/?name=Prof%20Victor||Prof Victor",
-		"vocation": "Elder Druid",
-		"world": "Lutabra",
-		"level": 622,
-		"achievementPoints": 1070,
-		"charmPoints": 13460,
-		"bossPoints": 13885,
-		"averagePct": 65.11
 	},
 	{
 		"rank": 231,
@@ -2556,7 +2556,7 @@
 		"name": "https://www.tibia.com/community/?name=Exorinho||Exorinho",
 		"vocation": "Elite Knight",
 		"world": "Thyria",
-		"level": 1468,
+		"level": 1469,
 		"achievementPoints": 807,
 		"charmPoints": 23025,
 		"bossPoints": 8870,
@@ -2564,6 +2564,17 @@
 	},
 	{
 		"rank": 234,
+		"name": "https://www.tibia.com/community/?name=Polly%20Rockt%20Knight||Polly Rockt Knight",
+		"vocation": "Elite Knight",
+		"world": "Calmera",
+		"level": 669,
+		"achievementPoints": 1139,
+		"charmPoints": 11730,
+		"bossPoints": 14270,
+		"averagePct": 64.98
+	},
+	{
+		"rank": 235,
 		"name": "https://www.tibia.com/community/?name=Walder%20Martz||Walder Martz",
 		"vocation": "Royal Paladin",
 		"world": "Nefera",
@@ -2574,18 +2585,18 @@
 		"averagePct": 64.97
 	},
 	{
-		"rank": 234,
+		"rank": 235,
 		"name": "https://www.tibia.com/community/?name=Molinenko||Molinenko",
 		"vocation": "Elder Druid",
 		"world": "Secura",
-		"level": 1255,
+		"level": 1256,
 		"achievementPoints": 1025,
 		"charmPoints": 18160,
 		"bossPoints": 9760,
 		"averagePct": 64.97
 	},
 	{
-		"rank": 236,
+		"rank": 237,
 		"name": "https://www.tibia.com/community/?name=Floky%20Monkey||Floky Monkey",
 		"vocation": "Master Sorcerer",
 		"world": "Thyria",
@@ -2596,7 +2607,7 @@
 		"averagePct": 64.96
 	},
 	{
-		"rank": 237,
+		"rank": 238,
 		"name": "https://www.tibia.com/community/?name=Rykzar||Rykzar",
 		"vocation": "Elder Druid",
 		"world": "Pacera",
@@ -2605,17 +2616,6 @@
 		"charmPoints": 14750,
 		"bossPoints": 11145,
 		"averagePct": 64.94
-	},
-	{
-		"rank": 238,
-		"name": "https://www.tibia.com/community/?name=Polly%20Rockt%20Knight||Polly Rockt Knight",
-		"vocation": "Elite Knight",
-		"world": "Calmera",
-		"level": 669,
-		"achievementPoints": 1139,
-		"charmPoints": 11730,
-		"bossPoints": 14210,
-		"averagePct": 64.9
 	},
 	{
 		"rank": 239,
@@ -2707,25 +2707,25 @@
 	},
 	{
 		"rank": 247,
+		"name": "https://www.tibia.com/community/?name=Viiniis||Viiniis",
+		"vocation": "Elite Knight",
+		"world": "Inabra",
+		"level": 866,
+		"achievementPoints": 1067,
+		"charmPoints": 17005,
+		"bossPoints": 9770,
+		"averagePct": 64.45
+	},
+	{
+		"rank": 247,
 		"name": "https://www.tibia.com/community/?name=Nidro||Nidro",
 		"vocation": "Royal Paladin",
 		"world": "Nevia",
-		"level": 972,
+		"level": 973,
 		"achievementPoints": 655,
 		"charmPoints": 19550,
 		"bossPoints": 14975,
 		"averagePct": 64.45
-	},
-	{
-		"rank": 248,
-		"name": "https://www.tibia.com/community/?name=Darkbookmagic||Darkbookmagic",
-		"vocation": "Elite Knight",
-		"world": "Peloria",
-		"level": 1187,
-		"achievementPoints": 1069,
-		"charmPoints": 21075,
-		"bossPoints": 5490,
-		"averagePct": 64.43
 	},
 	{
 		"rank": 249,
@@ -2735,11 +2735,22 @@
 		"level": 563,
 		"achievementPoints": 876,
 		"charmPoints": 12485,
-		"bossPoints": 18035,
-		"averagePct": 64.36
+		"bossPoints": 18095,
+		"averagePct": 64.44
 	},
 	{
 		"rank": 250,
+		"name": "https://www.tibia.com/community/?name=Darkbookmagic||Darkbookmagic",
+		"vocation": "Elite Knight",
+		"world": "Peloria",
+		"level": 1188,
+		"achievementPoints": 1069,
+		"charmPoints": 21075,
+		"bossPoints": 5490,
+		"averagePct": 64.43
+	},
+	{
+		"rank": 251,
 		"name": "https://www.tibia.com/community/?name=Michael%20Devil||Michael Devil",
 		"vocation": "Elite Knight",
 		"world": "Harmonia",
@@ -2750,7 +2761,7 @@
 		"averagePct": 64.35
 	},
 	{
-		"rank": 250,
+		"rank": 251,
 		"name": "https://www.tibia.com/community/?name=Shidosz||Shidosz",
 		"vocation": "Elder Druid",
 		"world": "Nefera",
@@ -2761,7 +2772,7 @@
 		"averagePct": 64.35
 	},
 	{
-		"rank": 252,
+		"rank": 253,
 		"name": "https://www.tibia.com/community/?name=Carrasku||Carrasku",
 		"vocation": "Royal Paladin",
 		"world": "Serdebra",
@@ -2772,7 +2783,18 @@
 		"averagePct": 64.34
 	},
 	{
-		"rank": 253,
+		"rank": 254,
+		"name": "https://www.tibia.com/community/?name=Lazy%20Radzio||Lazy Radzio",
+		"vocation": "Elder Druid",
+		"world": "Gentebra",
+		"level": 983,
+		"achievementPoints": 1228,
+		"charmPoints": 16775,
+		"bossPoints": 6845,
+		"averagePct": 64.32
+	},
+	{
+		"rank": 255,
 		"name": "https://www.tibia.com/community/?name=Theuzikat||Theuzikat",
 		"vocation": "Elder Druid",
 		"world": "Inabra",
@@ -2783,7 +2805,18 @@
 		"averagePct": 64.31
 	},
 	{
-		"rank": 254,
+		"rank": 256,
+		"name": "https://www.tibia.com/community/?name=Maurolkit||Maurolkit",
+		"vocation": "Elite Knight",
+		"world": "Secura",
+		"level": 1638,
+		"achievementPoints": 1061,
+		"charmPoints": 15320,
+		"bossPoints": 11525,
+		"averagePct": 64.3
+	},
+	{
+		"rank": 257,
 		"name": "https://www.tibia.com/community/?name=Stugaan||Stugaan",
 		"vocation": "Elite Knight",
 		"world": "Retalia",
@@ -2794,40 +2827,7 @@
 		"averagePct": 64.29
 	},
 	{
-		"rank": 254,
-		"name": "https://www.tibia.com/community/?name=Viiniis||Viiniis",
-		"vocation": "Elite Knight",
-		"world": "Inabra",
-		"level": 865,
-		"achievementPoints": 1067,
-		"charmPoints": 16905,
-		"bossPoints": 9760,
-		"averagePct": 64.29
-	},
-	{
-		"rank": 255,
-		"name": "https://www.tibia.com/community/?name=Maurolkit||Maurolkit",
-		"vocation": "Elite Knight",
-		"world": "Secura",
-		"level": 1638,
-		"achievementPoints": 1061,
-		"charmPoints": 15320,
-		"bossPoints": 11515,
-		"averagePct": 64.29
-	},
-	{
-		"rank": 257,
-		"name": "https://www.tibia.com/community/?name=Lazy%20Radzio||Lazy Radzio",
-		"vocation": "Elder Druid",
-		"world": "Gentebra",
-		"level": 983,
-		"achievementPoints": 1228,
-		"charmPoints": 16775,
-		"bossPoints": 6805,
-		"averagePct": 64.26
-	},
-	{
-		"rank": 257,
+		"rank": 258,
 		"name": "https://www.tibia.com/community/?name=Arwa%20the%20Hunter||Arwa the Hunter",
 		"vocation": "Royal Paladin",
 		"world": "Nevia",
@@ -2856,8 +2856,8 @@
 		"level": 622,
 		"achievementPoints": 1070,
 		"charmPoints": 9870,
-		"bossPoints": 16830,
-		"averagePct": 64.05
+		"bossPoints": 16890,
+		"averagePct": 64.13
 	},
 	{
 		"rank": 261,
@@ -2872,6 +2872,17 @@
 	},
 	{
 		"rank": 262,
+		"name": "https://www.tibia.com/community/?name=Pangping||Pangping",
+		"vocation": "Royal Paladin",
+		"world": "Damora",
+		"level": 822,
+		"achievementPoints": 873,
+		"charmPoints": 10870,
+		"bossPoints": 19460,
+		"averagePct": 63.94
+	},
+	{
+		"rank": 263,
 		"name": "https://www.tibia.com/community/?name=Vo%20Dee||Vo Dee",
 		"vocation": "Royal Paladin",
 		"world": "Secura",
@@ -2880,17 +2891,6 @@
 		"charmPoints": 16215,
 		"bossPoints": 11465,
 		"averagePct": 63.93
-	},
-	{
-		"rank": 263,
-		"name": "https://www.tibia.com/community/?name=Pangping||Pangping",
-		"vocation": "Royal Paladin",
-		"world": "Damora",
-		"level": 822,
-		"achievementPoints": 873,
-		"charmPoints": 10870,
-		"bossPoints": 19430,
-		"averagePct": 63.9
 	},
 	{
 		"rank": 264,
@@ -2915,7 +2915,18 @@
 		"averagePct": 63.81
 	},
 	{
-		"rank": 266,
+		"rank": 265,
+		"name": "https://www.tibia.com/community/?name=Uscu||Uscu",
+		"vocation": "Elder Druid",
+		"world": "Quelibra",
+		"level": 649,
+		"achievementPoints": 807,
+		"charmPoints": 12760,
+		"bossPoints": 18655,
+		"averagePct": 63.81
+	},
+	{
+		"rank": 267,
 		"name": "https://www.tibia.com/community/?name=Grisam||Grisam",
 		"vocation": "Elite Knight",
 		"world": "Wildera",
@@ -2926,7 +2937,7 @@
 		"averagePct": 63.78
 	},
 	{
-		"rank": 267,
+		"rank": 268,
 		"name": "https://www.tibia.com/community/?name=Hero%20Reis||Hero Reis",
 		"vocation": "Royal Paladin",
 		"world": "Astera",
@@ -2937,17 +2948,6 @@
 		"averagePct": 63.72
 	},
 	{
-		"rank": 267,
-		"name": "https://www.tibia.com/community/?name=Uscu||Uscu",
-		"vocation": "Elder Druid",
-		"world": "Quelibra",
-		"level": 649,
-		"achievementPoints": 807,
-		"charmPoints": 12760,
-		"bossPoints": 18595,
-		"averagePct": 63.72
-	},
-	{
 		"rank": 269,
 		"name": "https://www.tibia.com/community/?name=Queen%20Liss||Queen Liss",
 		"vocation": "Elder Druid",
@@ -2955,8 +2955,8 @@
 		"level": 1162,
 		"achievementPoints": 1042,
 		"charmPoints": 10635,
-		"bossPoints": 16255,
-		"averagePct": 63.63
+		"bossPoints": 16285,
+		"averagePct": 63.67
 	},
 	{
 		"rank": 270,
@@ -3010,8 +3010,8 @@
 		"level": 501,
 		"achievementPoints": 1075,
 		"charmPoints": 13174,
-		"bossPoints": 12840,
-		"averagePct": 63.42
+		"bossPoints": 12850,
+		"averagePct": 63.44
 	},
 	{
 		"rank": 275,
@@ -3026,25 +3026,25 @@
 	},
 	{
 		"rank": 276,
-		"name": "https://www.tibia.com/community/?name=Prostaczek||Prostaczek",
-		"vocation": "Royal Paladin",
-		"world": "Monza",
-		"level": 1850,
-		"achievementPoints": 845,
-		"charmPoints": 13769,
-		"bossPoints": 16480,
-		"averagePct": 63.26
-	},
-	{
-		"rank": 277,
 		"name": "https://www.tibia.com/community/?name=Pacssivia||Pacssivia",
 		"vocation": "Elder Druid",
 		"world": "Belobra",
 		"level": 762,
 		"achievementPoints": 1112,
 		"charmPoints": 10928,
-		"bossPoints": 14315,
-		"averagePct": 63.22
+		"bossPoints": 14375,
+		"averagePct": 63.3
+	},
+	{
+		"rank": 277,
+		"name": "https://www.tibia.com/community/?name=Prostaczek||Prostaczek",
+		"vocation": "Royal Paladin",
+		"world": "Monza",
+		"level": 1851,
+		"achievementPoints": 845,
+		"charmPoints": 13769,
+		"bossPoints": 16480,
+		"averagePct": 63.26
 	},
 	{
 		"rank": 278,
@@ -3092,6 +3092,17 @@
 	},
 	{
 		"rank": 282,
+		"name": "https://www.tibia.com/community/?name=Boybarian||Boybarian",
+		"vocation": "Elite Knight",
+		"world": "Firmera",
+		"level": 704,
+		"achievementPoints": 960,
+		"charmPoints": 14375,
+		"bossPoints": 13395,
+		"averagePct": 62.9
+	},
+	{
+		"rank": 283,
 		"name": "https://www.tibia.com/community/?name=Inge%20Naning||Inge Naning",
 		"vocation": "Master Sorcerer",
 		"world": "Nevia",
@@ -3102,18 +3113,7 @@
 		"averagePct": 62.85
 	},
 	{
-		"rank": 283,
-		"name": "https://www.tibia.com/community/?name=Boybarian||Boybarian",
-		"vocation": "Elite Knight",
-		"world": "Firmera",
-		"level": 704,
-		"achievementPoints": 960,
-		"charmPoints": 14375,
-		"bossPoints": 13335,
-		"averagePct": 62.82
-	},
-	{
-		"rank": 283,
+		"rank": 284,
 		"name": "https://www.tibia.com/community/?name=Neko%20Sama||Neko Sama",
 		"vocation": "Royal Paladin",
 		"world": "Quintera",
@@ -3128,7 +3128,7 @@
 		"name": "https://www.tibia.com/community/?name=Helos%20Ripion||Helos Ripion",
 		"vocation": "Elite Knight",
 		"world": "Ferobra",
-		"level": 840,
+		"level": 841,
 		"achievementPoints": 1074,
 		"charmPoints": 9854,
 		"bossPoints": 15845,
@@ -3139,7 +3139,7 @@
 		"name": "https://www.tibia.com/community/?name=Toddzera%20Armstrong||Toddzera Armstrong",
 		"vocation": "Master Sorcerer",
 		"world": "Collabra",
-		"level": 1295,
+		"level": 1296,
 		"achievementPoints": 709,
 		"charmPoints": 19130,
 		"bossPoints": 13155,
@@ -3234,29 +3234,51 @@
 		"averagePct": 62.67
 	},
 	{
-		"rank": 295,
+		"rank": 294,
+		"name": "https://www.tibia.com/community/?name=Sedz||Sedz",
+		"vocation": "Elite Knight",
+		"world": "Ombra",
+		"level": 1120,
+		"achievementPoints": 860,
+		"charmPoints": 11900,
+		"bossPoints": 17695,
+		"averagePct": 62.67
+	},
+	{
+		"rank": 296,
+		"name": "https://www.tibia.com/community/?name=Lauaviin||Lauaviin",
+		"vocation": "Royal Paladin",
+		"world": "Premia",
+		"level": 861,
+		"achievementPoints": 1144,
+		"charmPoints": 17470,
+		"bossPoints": 6490,
+		"averagePct": 62.65
+	},
+	{
+		"rank": 296,
+		"name": "https://www.tibia.com/community/?name=Ayy%20Eff%20Kayy||Ayy Eff Kayy",
+		"vocation": "Master Sorcerer",
+		"world": "Astera",
+		"level": 1165,
+		"achievementPoints": 974,
+		"charmPoints": 20060,
+		"bossPoints": 7035,
+		"averagePct": 62.65
+	},
+	{
+		"rank": 298,
 		"name": "https://www.tibia.com/community/?name=Issmahan||Issmahan",
 		"vocation": "Elder Druid",
 		"world": "Premia",
-		"level": 1194,
+		"level": 1195,
 		"achievementPoints": 1244,
 		"charmPoints": 14085,
 		"bossPoints": 8070,
 		"averagePct": 62.61
 	},
 	{
-		"rank": 296,
-		"name": "https://www.tibia.com/community/?name=Sedz||Sedz",
-		"vocation": "Elite Knight",
-		"world": "Ombra",
-		"level": 1120,
-		"achievementPoints": 857,
-		"charmPoints": 11900,
-		"bossPoints": 17695,
-		"averagePct": 62.59
-	},
-	{
-		"rank": 297,
+		"rank": 299,
 		"name": "https://www.tibia.com/community/?name=Wrath%20Tempest||Wrath Tempest",
 		"vocation": "Royal Paladin",
 		"world": "Nefera",
@@ -3267,7 +3289,7 @@
 		"averagePct": 62.55
 	},
 	{
-		"rank": 298,
+		"rank": 300,
 		"name": "https://www.tibia.com/community/?name=Zompa||Zompa",
 		"vocation": "Royal Paladin",
 		"world": "Collabra",
@@ -3276,28 +3298,6 @@
 		"charmPoints": 11040,
 		"bossPoints": 14685,
 		"averagePct": 62.54
-	},
-	{
-		"rank": 299,
-		"name": "https://www.tibia.com/community/?name=Ayy%20Eff%20Kayy||Ayy Eff Kayy",
-		"vocation": "Master Sorcerer",
-		"world": "Astera",
-		"level": 1165,
-		"achievementPoints": 974,
-		"charmPoints": 20060,
-		"bossPoints": 6945,
-		"averagePct": 62.53
-	},
-	{
-		"rank": 300,
-		"name": "https://www.tibia.com/community/?name=Lauaviin||Lauaviin",
-		"vocation": "Royal Paladin",
-		"world": "Premia",
-		"level": 861,
-		"achievementPoints": 1138,
-		"charmPoints": 17470,
-		"bossPoints": 6490,
-		"averagePct": 62.5
 	},
 	{
 		"rank": 301,
@@ -3345,6 +3345,17 @@
 	},
 	{
 		"rank": 305,
+		"name": "https://www.tibia.com/community/?name=Roffa%20Godz||Roffa Godz",
+		"vocation": "Elder Druid",
+		"world": "Vunira",
+		"level": 1083,
+		"achievementPoints": 756,
+		"charmPoints": 21625,
+		"bossPoints": 9385,
+		"averagePct": 62.42
+	},
+	{
+		"rank": 306,
 		"name": "https://www.tibia.com/community/?name=Caio%20Sama||Caio Sama",
 		"vocation": "Elite Knight",
 		"world": "Nefera",
@@ -3355,26 +3366,15 @@
 		"averagePct": 62.41
 	},
 	{
-		"rank": 306,
+		"rank": 307,
 		"name": "https://www.tibia.com/community/?name=Zago%20Hell%20Druid||Zago Hell Druid",
 		"vocation": "Elder Druid",
 		"world": "Secura",
 		"level": 1375,
 		"achievementPoints": 1033,
 		"charmPoints": 18450,
-		"bossPoints": 7330,
-		"averagePct": 62.31
-	},
-	{
-		"rank": 307,
-		"name": "https://www.tibia.com/community/?name=Roffa%20Godz||Roffa Godz",
-		"vocation": "Elder Druid",
-		"world": "Vunira",
-		"level": 1083,
-		"achievementPoints": 756,
-		"charmPoints": 21525,
-		"bossPoints": 9385,
-		"averagePct": 62.28
+		"bossPoints": 7390,
+		"averagePct": 62.39
 	},
 	{
 		"rank": 308,
@@ -3395,8 +3395,8 @@
 		"level": 1398,
 		"achievementPoints": 1158,
 		"charmPoints": 11798,
-		"bossPoints": 11805,
-		"averagePct": 62.23
+		"bossPoints": 11815,
+		"averagePct": 62.24
 	},
 	{
 		"rank": 310,
@@ -3447,7 +3447,7 @@
 		"name": "https://www.tibia.com/community/?name=Kaksonowable||Kaksonowable",
 		"vocation": "Elite Knight",
 		"world": "Monza",
-		"level": 1287,
+		"level": 1288,
 		"achievementPoints": 923,
 		"charmPoints": 21125,
 		"bossPoints": 6485,
@@ -3465,7 +3465,18 @@
 		"averagePct": 62.07
 	},
 	{
-		"rank": 316,
+		"rank": 315,
+		"name": "https://www.tibia.com/community/?name=Gaby%20Astim||Gaby Astim",
+		"vocation": "Elder Druid",
+		"world": "Astera",
+		"level": 1125,
+		"achievementPoints": 1052,
+		"charmPoints": 14960,
+		"bossPoints": 10415,
+		"averagePct": 62.07
+	},
+	{
+		"rank": 317,
 		"name": "https://www.tibia.com/community/?name=Awen||Awen",
 		"vocation": "Elder Druid",
 		"world": "Gentebra",
@@ -3474,17 +3485,6 @@
 		"charmPoints": 10197,
 		"bossPoints": 14290,
 		"averagePct": 62.03
-	},
-	{
-		"rank": 317,
-		"name": "https://www.tibia.com/community/?name=Gaby%20Astim||Gaby Astim",
-		"vocation": "Elder Druid",
-		"world": "Astera",
-		"level": 1125,
-		"achievementPoints": 1052,
-		"charmPoints": 14960,
-		"bossPoints": 10385,
-		"averagePct": 62.02
 	},
 	{
 		"rank": 318,
@@ -3620,6 +3620,28 @@
 	},
 	{
 		"rank": 330,
+		"name": "https://www.tibia.com/community/?name=Zafis%20Cain||Zafis Cain",
+		"vocation": "Elite Knight",
+		"world": "Celesta",
+		"level": 1365,
+		"achievementPoints": 951,
+		"charmPoints": 17579,
+		"bossPoints": 9160,
+		"averagePct": 61.45
+	},
+	{
+		"rank": 331,
+		"name": "https://www.tibia.com/community/?name=Bella%20Ragazza||Bella Ragazza",
+		"vocation": "Elder Druid",
+		"world": "Harmonia",
+		"level": 1096,
+		"achievementPoints": 1006,
+		"charmPoints": 15202,
+		"bossPoints": 10580,
+		"averagePct": 61.44
+	},
+	{
+		"rank": 331,
 		"name": "https://www.tibia.com/community/?name=Picture||Picture",
 		"vocation": "Elite Knight",
 		"world": "Antica",
@@ -3630,18 +3652,7 @@
 		"averagePct": 61.44
 	},
 	{
-		"rank": 331,
-		"name": "https://www.tibia.com/community/?name=Zafis%20Cain||Zafis Cain",
-		"vocation": "Elite Knight",
-		"world": "Celesta",
-		"level": 1365,
-		"achievementPoints": 951,
-		"charmPoints": 17579,
-		"bossPoints": 9150,
-		"averagePct": 61.43
-	},
-	{
-		"rank": 332,
+		"rank": 333,
 		"name": "https://www.tibia.com/community/?name=Miki%20Greg||Miki Greg",
 		"vocation": "Royal Paladin",
 		"world": "Descubra",
@@ -3652,7 +3663,18 @@
 		"averagePct": 61.42
 	},
 	{
-		"rank": 333,
+		"rank": 334,
+		"name": "https://www.tibia.com/community/?name=Judge||Judge",
+		"vocation": "Royal Paladin",
+		"world": "Celebra",
+		"level": 1431,
+		"achievementPoints": 890,
+		"charmPoints": 14120,
+		"bossPoints": 13820,
+		"averagePct": 61.32
+	},
+	{
+		"rank": 334,
 		"name": "https://www.tibia.com/community/?name=Nobsile||Nobsile",
 		"vocation": "Elder Druid",
 		"world": "Guerribra",
@@ -3663,7 +3685,7 @@
 		"averagePct": 61.32
 	},
 	{
-		"rank": 334,
+		"rank": 336,
 		"name": "https://www.tibia.com/community/?name=Andrewsek||Andrewsek",
 		"vocation": "Elite Knight",
 		"world": "Gladera",
@@ -3674,7 +3696,7 @@
 		"averagePct": 61.3
 	},
 	{
-		"rank": 334,
+		"rank": 336,
 		"name": "https://www.tibia.com/community/?name=Awph||Awph",
 		"vocation": "Royal Paladin",
 		"world": "Ustebra",
@@ -3685,29 +3707,18 @@
 		"averagePct": 61.3
 	},
 	{
-		"rank": 336,
-		"name": "https://www.tibia.com/community/?name=Bella%20Ragazza||Bella Ragazza",
-		"vocation": "Elder Druid",
-		"world": "Harmonia",
-		"level": 1096,
-		"achievementPoints": 1006,
-		"charmPoints": 15152,
-		"bossPoints": 10520,
-		"averagePct": 61.29
-	},
-	{
-		"rank": 337,
-		"name": "https://www.tibia.com/community/?name=Judge||Judge",
-		"vocation": "Royal Paladin",
-		"world": "Celebra",
-		"level": 1431,
-		"achievementPoints": 890,
-		"charmPoints": 14120,
-		"bossPoints": 13790,
-		"averagePct": 61.28
-	},
-	{
 		"rank": 338,
+		"name": "https://www.tibia.com/community/?name=Drop%20Guard||Drop Guard",
+		"vocation": "Elite Knight",
+		"world": "Lutabra",
+		"level": 1270,
+		"achievementPoints": 1184,
+		"charmPoints": 12125,
+		"bossPoints": 10220,
+		"averagePct": 61.22
+	},
+	{
+		"rank": 339,
 		"name": "https://www.tibia.com/community/?name=Ec%20kows||Ec kows",
 		"vocation": "Master Sorcerer",
 		"world": "Monza",
@@ -3718,26 +3729,15 @@
 		"averagePct": 61.2
 	},
 	{
-		"rank": 339,
+		"rank": 340,
 		"name": "https://www.tibia.com/community/?name=Yunden||Yunden",
 		"vocation": "Royal Paladin",
 		"world": "Nevia",
 		"level": 680,
-		"achievementPoints": 1113,
+		"achievementPoints": 1114,
 		"charmPoints": 9430,
-		"bossPoints": 14310,
-		"averagePct": 61.14
-	},
-	{
-		"rank": 340,
-		"name": "https://www.tibia.com/community/?name=Drop%20Guard||Drop Guard",
-		"vocation": "Elite Knight",
-		"world": "Lutabra",
-		"level": 1270,
-		"achievementPoints": 1184,
-		"charmPoints": 12125,
-		"bossPoints": 10150,
-		"averagePct": 61.13
+		"bossPoints": 14315,
+		"averagePct": 61.17
 	},
 	{
 		"rank": 341,
@@ -3774,6 +3774,17 @@
 	},
 	{
 		"rank": 344,
+		"name": "https://www.tibia.com/community/?name=The%20Ek||The Ek",
+		"vocation": "Elite Knight",
+		"world": "Yonabra",
+		"level": 922,
+		"achievementPoints": 973,
+		"charmPoints": 14080,
+		"bossPoints": 12070,
+		"averagePct": 61.04
+	},
+	{
+		"rank": 345,
 		"name": "https://www.tibia.com/community/?name=Fouls%20Souls||Fouls Souls",
 		"vocation": "Elite Knight",
 		"world": "Pacera",
@@ -3782,17 +3793,6 @@
 		"charmPoints": 17535,
 		"bossPoints": 4040,
 		"averagePct": 61.01
-	},
-	{
-		"rank": 345,
-		"name": "https://www.tibia.com/community/?name=The%20Ek||The Ek",
-		"vocation": "Elite Knight",
-		"world": "Yonabra",
-		"level": 921,
-		"achievementPoints": 973,
-		"charmPoints": 14080,
-		"bossPoints": 12040,
-		"averagePct": 60.99
 	},
 	{
 		"rank": 346,
@@ -3810,7 +3810,7 @@
 		"name": "https://www.tibia.com/community/?name=Kotzy||Kotzy",
 		"vocation": "Elder Druid",
 		"world": "Luminera",
-		"level": 844,
+		"level": 845,
 		"achievementPoints": 997,
 		"charmPoints": 11735,
 		"bossPoints": 13945,
@@ -3833,10 +3833,10 @@
 		"vocation": "Royal Paladin",
 		"world": "Antica",
 		"level": 516,
-		"achievementPoints": 725,
+		"achievementPoints": 727,
 		"charmPoints": 13350,
 		"bossPoints": 17320,
-		"averagePct": 60.72
+		"averagePct": 60.77
 	},
 	{
 		"rank": 350,
@@ -3861,7 +3861,18 @@
 		"averagePct": 60.65
 	},
 	{
-		"rank": 352,
+		"rank": 351,
+		"name": "https://www.tibia.com/community/?name=Medyc||Medyc",
+		"vocation": "Elder Druid",
+		"world": "Celesta",
+		"level": 1590,
+		"achievementPoints": 659,
+		"charmPoints": 13076,
+		"bossPoints": 18805,
+		"averagePct": 60.65
+	},
+	{
+		"rank": 353,
 		"name": "https://www.tibia.com/community/?name=Arphaxad||Arphaxad",
 		"vocation": "Elder Druid",
 		"world": "Wintera",
@@ -3873,6 +3884,17 @@
 	},
 	{
 		"rank": 353,
+		"name": "https://www.tibia.com/community/?name=Siamix||Siamix",
+		"vocation": "Elite Knight",
+		"world": "Quelibra",
+		"level": 633,
+		"achievementPoints": 954,
+		"charmPoints": 10465,
+		"bossPoints": 15890,
+		"averagePct": 60.63
+	},
+	{
+		"rank": 355,
 		"name": "https://www.tibia.com/community/?name=Paladino%20Randel||Paladino Randel",
 		"vocation": "Royal Paladin",
 		"world": "Belobra",
@@ -3883,28 +3905,6 @@
 		"averagePct": 60.61
 	},
 	{
-		"rank": 354,
-		"name": "https://www.tibia.com/community/?name=Siamix||Siamix",
-		"vocation": "Elite Knight",
-		"world": "Quelibra",
-		"level": 633,
-		"achievementPoints": 954,
-		"charmPoints": 10465,
-		"bossPoints": 15860,
-		"averagePct": 60.59
-	},
-	{
-		"rank": 355,
-		"name": "https://www.tibia.com/community/?name=Medyc||Medyc",
-		"vocation": "Elder Druid",
-		"world": "Celesta",
-		"level": 1590,
-		"achievementPoints": 659,
-		"charmPoints": 13026,
-		"bossPoints": 18805,
-		"averagePct": 60.58
-	},
-	{
 		"rank": 356,
 		"name": "https://www.tibia.com/community/?name=Daso%20II||Daso II",
 		"vocation": "Royal Paladin",
@@ -3912,8 +3912,8 @@
 		"level": 1307,
 		"achievementPoints": 1179,
 		"charmPoints": 12484,
-		"bossPoints": 9455,
-		"averagePct": 60.56
+		"bossPoints": 9485,
+		"averagePct": 60.6
 	},
 	{
 		"rank": 357,
@@ -3942,7 +3942,7 @@
 		"name": "https://www.tibia.com/community/?name=Exterminador||Exterminador",
 		"vocation": "Master Sorcerer",
 		"world": "Inabra",
-		"level": 1123,
+		"level": 1122,
 		"achievementPoints": 1265,
 		"charmPoints": 19960,
 		"bossPoints": 0,
@@ -3964,7 +3964,7 @@
 		"name": "https://www.tibia.com/community/?name=Toxic%20Lilly||Toxic Lilly",
 		"vocation": "Royal Paladin",
 		"world": "Premia",
-		"level": 658,
+		"level": 659,
 		"achievementPoints": 1078,
 		"charmPoints": 11535,
 		"bossPoints": 12285,
@@ -3978,8 +3978,8 @@
 		"level": 548,
 		"achievementPoints": 1006,
 		"charmPoints": 11215,
-		"bossPoints": 13980,
-		"averagePct": 60.44
+		"bossPoints": 13985,
+		"averagePct": 60.45
 	},
 	{
 		"rank": 363,
@@ -4129,7 +4129,7 @@
 		"name": "https://www.tibia.com/community/?name=Bocian%20Damora||Bocian Damora",
 		"vocation": "Master Sorcerer",
 		"world": "Nadora",
-		"level": 605,
+		"level": 604,
 		"achievementPoints": 1049,
 		"charmPoints": 10669,
 		"bossPoints": 13500,
@@ -4159,6 +4159,28 @@
 	},
 	{
 		"rank": 379,
+		"name": "https://www.tibia.com/community/?name=Rado%20of%20Elera||Rado of Elera",
+		"vocation": "Elite Knight",
+		"world": "Vunira",
+		"level": 872,
+		"achievementPoints": 1264,
+		"charmPoints": 15455,
+		"bossPoints": 4425,
+		"averagePct": 60.13
+	},
+	{
+		"rank": 380,
+		"name": "https://www.tibia.com/community/?name=Starsza%20Siostra%20Pietruchy||Starsza Siostra Pietruchy",
+		"vocation": "Royal Paladin",
+		"world": "Nevia",
+		"level": 326,
+		"achievementPoints": 978,
+		"charmPoints": 9845,
+		"bossPoints": 15695,
+		"averagePct": 60.12
+	},
+	{
+		"rank": 381,
 		"name": "https://www.tibia.com/community/?name=Jadxz||Jadxz",
 		"vocation": "Elder Druid",
 		"world": "Quintera",
@@ -4169,7 +4191,7 @@
 		"averagePct": 60.11
 	},
 	{
-		"rank": 379,
+		"rank": 381,
 		"name": "https://www.tibia.com/community/?name=Mystic%20Glance||Mystic Glance",
 		"vocation": "Elder Druid",
 		"world": "Vunira",
@@ -4180,7 +4202,7 @@
 		"averagePct": 60.11
 	},
 	{
-		"rank": 380,
+		"rank": 382,
 		"name": "https://www.tibia.com/community/?name=Wonk%20Wonk||Wonk Wonk",
 		"vocation": "Elite Knight",
 		"world": "Wildera",
@@ -4191,18 +4213,7 @@
 		"averagePct": 60.11
 	},
 	{
-		"rank": 381,
-		"name": "https://www.tibia.com/community/?name=Starsza%20Siostra%20Pietruchy||Starsza Siostra Pietruchy",
-		"vocation": "Royal Paladin",
-		"world": "Nevia",
-		"level": 326,
-		"achievementPoints": 978,
-		"charmPoints": 9845,
-		"bossPoints": 15690,
-		"averagePct": 60.11
-	},
-	{
-		"rank": 383,
+		"rank": 384,
 		"name": "https://www.tibia.com/community/?name=Krwawy%20Larck||Krwawy Larck",
 		"vocation": "Royal Paladin",
 		"world": "Thyria",
@@ -4213,7 +4224,7 @@
 		"averagePct": 60.1
 	},
 	{
-		"rank": 384,
+		"rank": 385,
 		"name": "https://www.tibia.com/community/?name=Awesome%20Bow||Awesome Bow",
 		"vocation": "Royal Paladin",
 		"world": "Descubra",
@@ -4224,7 +4235,7 @@
 		"averagePct": 60.09
 	},
 	{
-		"rank": 385,
+		"rank": 386,
 		"name": "https://www.tibia.com/community/?name=Mistic%20Vini||Mistic Vini",
 		"vocation": "Master Sorcerer",
 		"world": "Gentebra",
@@ -4235,7 +4246,7 @@
 		"averagePct": 60.08
 	},
 	{
-		"rank": 386,
+		"rank": 387,
 		"name": "https://www.tibia.com/community/?name=Icuu||Icuu",
 		"vocation": "Elder Druid",
 		"world": "Ombra",
@@ -4246,7 +4257,7 @@
 		"averagePct": 60.07
 	},
 	{
-		"rank": 387,
+		"rank": 388,
 		"name": "https://www.tibia.com/community/?name=Silent%20Kishi||Silent Kishi",
 		"vocation": "Elite Knight",
 		"world": "Venebra",
@@ -4257,7 +4268,7 @@
 		"averagePct": 60.05
 	},
 	{
-		"rank": 388,
+		"rank": 389,
 		"name": "https://www.tibia.com/community/?name=Zegzo||Zegzo",
 		"vocation": "Royal Paladin",
 		"world": "Kalibra",
@@ -4266,17 +4277,6 @@
 		"charmPoints": 16425,
 		"bossPoints": 3890,
 		"averagePct": 60.02
-	},
-	{
-		"rank": 389,
-		"name": "https://www.tibia.com/community/?name=Rado%20of%20Elera||Rado of Elera",
-		"vocation": "Elite Knight",
-		"world": "Vunira",
-		"level": 872,
-		"achievementPoints": 1264,
-		"charmPoints": 15455,
-		"bossPoints": 4325,
-		"averagePct": 59.99
 	},
 	{
 		"rank": 390,
@@ -4371,7 +4371,7 @@
 		"name": "https://www.tibia.com/community/?name=Ki%20Naitao%20Olim||Ki Naitao Olim",
 		"vocation": "Elite Knight",
 		"world": "Belobra",
-		"level": 1827,
+		"level": 1828,
 		"achievementPoints": 1287,
 		"charmPoints": 19110,
 		"bossPoints": 0,
@@ -4412,6 +4412,17 @@
 	},
 	{
 		"rank": 402,
+		"name": "https://www.tibia.com/community/?name=Lethark||Lethark",
+		"vocation": "Royal Paladin",
+		"world": "Esmera",
+		"level": 1154,
+		"achievementPoints": 913,
+		"charmPoints": 12730,
+		"bossPoints": 13670,
+		"averagePct": 59.76
+	},
+	{
+		"rank": 402,
 		"name": "https://www.tibia.com/community/?name=Paramagnetyk||Paramagnetyk",
 		"vocation": "Elite Knight",
 		"world": "Monza",
@@ -4422,7 +4433,7 @@
 		"averagePct": 59.76
 	},
 	{
-		"rank": 403,
+		"rank": 404,
 		"name": "https://www.tibia.com/community/?name=Elaion%20Fyod||Elaion Fyod",
 		"vocation": "Elder Druid",
 		"world": "Refugia",
@@ -4433,7 +4444,7 @@
 		"averagePct": 59.73
 	},
 	{
-		"rank": 404,
+		"rank": 405,
 		"name": "https://www.tibia.com/community/?name=Speedbolt||Speedbolt",
 		"vocation": "Royal Paladin",
 		"world": "Gladera",
@@ -4444,29 +4455,29 @@
 		"averagePct": 59.7
 	},
 	{
-		"rank": 405,
+		"rank": 406,
+		"name": "https://www.tibia.com/community/?name=Horon%20Aoldas||Horon Aoldas",
+		"vocation": "Master Sorcerer",
+		"world": "Vunira",
+		"level": 557,
+		"achievementPoints": 1232,
+		"charmPoints": 14275,
+		"bossPoints": 5940,
+		"averagePct": 59.69
+	},
+	{
+		"rank": 406,
 		"name": "https://www.tibia.com/community/?name=Animoza||Animoza",
 		"vocation": "Royal Paladin",
 		"world": "Monza",
-		"level": 2001,
+		"level": 2002,
 		"achievementPoints": 1143,
 		"charmPoints": 10902,
 		"bossPoints": 11140,
 		"averagePct": 59.69
 	},
 	{
-		"rank": 406,
-		"name": "https://www.tibia.com/community/?name=Horon%20Aoldas||Horon Aoldas",
-		"vocation": "Master Sorcerer",
-		"world": "Vunira",
-		"level": 558,
-		"achievementPoints": 1232,
-		"charmPoints": 14275,
-		"bossPoints": 5930,
-		"averagePct": 59.68
-	},
-	{
-		"rank": 406,
+		"rank": 408,
 		"name": "https://www.tibia.com/community/?name=Koolhaus||Koolhaus",
 		"vocation": "Elite Knight",
 		"world": "Secura",
@@ -4477,29 +4488,40 @@
 		"averagePct": 59.68
 	},
 	{
-		"rank": 408,
+		"rank": 409,
 		"name": "https://www.tibia.com/community/?name=Gilby||Gilby",
 		"vocation": "Elder Druid",
 		"world": "Gentebra",
-		"level": 1064,
+		"level": 1065,
 		"achievementPoints": 785,
 		"charmPoints": 11784,
 		"bossPoints": 17015,
 		"averagePct": 59.66
 	},
 	{
-		"rank": 409,
-		"name": "https://www.tibia.com/community/?name=Lethark||Lethark",
-		"vocation": "Royal Paladin",
-		"world": "Esmera",
-		"level": 1154,
-		"achievementPoints": 913,
-		"charmPoints": 12730,
-		"bossPoints": 13580,
-		"averagePct": 59.64
+		"rank": 410,
+		"name": "https://www.tibia.com/community/?name=Zalina%20Myth||Zalina Myth",
+		"vocation": "Elite Knight",
+		"world": "Vunira",
+		"level": 749,
+		"achievementPoints": 1139,
+		"charmPoints": 9634,
+		"bossPoints": 12470,
+		"averagePct": 59.61
 	},
 	{
-		"rank": 410,
+		"rank": 411,
+		"name": "https://www.tibia.com/community/?name=Rapa%20Dura||Rapa Dura",
+		"vocation": "Elite Knight",
+		"world": "Collabra",
+		"level": 1003,
+		"achievementPoints": 1031,
+		"charmPoints": 10418,
+		"bossPoints": 13700,
+		"averagePct": 59.59
+	},
+	{
+		"rank": 412,
 		"name": "https://www.tibia.com/community/?name=Hobbysta%20Pakus||Hobbysta Pakus",
 		"vocation": "Master Sorcerer",
 		"world": "Peloria",
@@ -4510,18 +4532,7 @@
 		"averagePct": 59.56
 	},
 	{
-		"rank": 411,
-		"name": "https://www.tibia.com/community/?name=Rapa%20Dura||Rapa Dura",
-		"vocation": "Elite Knight",
-		"world": "Collabra",
-		"level": 1003,
-		"achievementPoints": 1031,
-		"charmPoints": 10418,
-		"bossPoints": 13670,
-		"averagePct": 59.55
-	},
-	{
-		"rank": 412,
+		"rank": 413,
 		"name": "https://www.tibia.com/community/?name=Exalted%20Herb||Exalted Herb",
 		"vocation": "Elder Druid",
 		"world": "Yonabra",
@@ -4532,7 +4543,7 @@
 		"averagePct": 59.48
 	},
 	{
-		"rank": 413,
+		"rank": 414,
 		"name": "https://www.tibia.com/community/?name=Kim%20Toxica||Kim Toxica",
 		"vocation": "Elite Knight",
 		"world": "Luminera",
@@ -4543,7 +4554,7 @@
 		"averagePct": 59.47
 	},
 	{
-		"rank": 414,
+		"rank": 415,
 		"name": "https://www.tibia.com/community/?name=Warrior'Ricky||Warrior'Ricky",
 		"vocation": "Elite Knight",
 		"world": "Peloria",
@@ -4552,17 +4563,6 @@
 		"charmPoints": 11500,
 		"bossPoints": 12845,
 		"averagePct": 59.44
-	},
-	{
-		"rank": 415,
-		"name": "https://www.tibia.com/community/?name=Zalina%20Myth||Zalina Myth",
-		"vocation": "Elite Knight",
-		"world": "Vunira",
-		"level": 748,
-		"achievementPoints": 1139,
-		"charmPoints": 9634,
-		"bossPoints": 12340,
-		"averagePct": 59.43
 	},
 	{
 		"rank": 416,
@@ -4577,17 +4577,39 @@
 	},
 	{
 		"rank": 416,
+		"name": "https://www.tibia.com/community/?name=Bjo||Bjo",
+		"vocation": "Master Sorcerer",
+		"world": "Quelibra",
+		"level": 1202,
+		"achievementPoints": 1136,
+		"charmPoints": 15130,
+		"bossPoints": 6680,
+		"averagePct": 59.42
+	},
+	{
+		"rank": 417,
 		"name": "https://www.tibia.com/community/?name=Gakild||Gakild",
 		"vocation": "Royal Paladin",
 		"world": "Yonabra",
-		"level": 1192,
+		"level": 1193,
 		"achievementPoints": 1067,
 		"charmPoints": 19430,
 		"bossPoints": 3525,
 		"averagePct": 59.42
 	},
 	{
-		"rank": 418,
+		"rank": 419,
+		"name": "https://www.tibia.com/community/?name=Ancora%20Camisadez||Ancora Camisadez",
+		"vocation": "Elite Knight",
+		"world": "Honbra",
+		"level": 1226,
+		"achievementPoints": 856,
+		"charmPoints": 12760,
+		"bossPoints": 14455,
+		"averagePct": 59.4
+	},
+	{
+		"rank": 420,
 		"name": "https://www.tibia.com/community/?name=Paula%20Ines||Paula Ines",
 		"vocation": "Master Sorcerer",
 		"world": "Gladera",
@@ -4598,7 +4620,7 @@
 		"averagePct": 59.37
 	},
 	{
-		"rank": 419,
+		"rank": 421,
 		"name": "https://www.tibia.com/community/?name=Tio%20Cidinho||Tio Cidinho",
 		"vocation": "Paladin",
 		"world": "Venebra",
@@ -4609,7 +4631,7 @@
 		"averagePct": 59.35
 	},
 	{
-		"rank": 420,
+		"rank": 422,
 		"name": "https://www.tibia.com/community/?name=Warriior%20Skeet||Warriior Skeet",
 		"vocation": "Elite Knight",
 		"world": "Astera",
@@ -4620,18 +4642,7 @@
 		"averagePct": 59.33
 	},
 	{
-		"rank": 421,
-		"name": "https://www.tibia.com/community/?name=Ancora%20Camisadez||Ancora Camisadez",
-		"vocation": "Elite Knight",
-		"world": "Honbra",
-		"level": 1226,
-		"achievementPoints": 856,
-		"charmPoints": 12760,
-		"bossPoints": 14395,
-		"averagePct": 59.32
-	},
-	{
-		"rank": 422,
+		"rank": 423,
 		"name": "https://www.tibia.com/community/?name=Niix%20Insanity||Niix Insanity",
 		"vocation": "Master Sorcerer",
 		"world": "Jadebra",
@@ -4642,18 +4653,18 @@
 		"averagePct": 59.3
 	},
 	{
-		"rank": 422,
-		"name": "https://www.tibia.com/community/?name=Bjo||Bjo",
+		"rank": 424,
+		"name": "https://www.tibia.com/community/?name=Sir%20Redor||Sir Redor",
 		"vocation": "Master Sorcerer",
-		"world": "Quelibra",
-		"level": 1202,
-		"achievementPoints": 1136,
-		"charmPoints": 15130,
-		"bossPoints": 6590,
-		"averagePct": 59.3
+		"world": "Secura",
+		"level": 1583,
+		"achievementPoints": 905,
+		"charmPoints": 14779,
+		"bossPoints": 11335,
+		"averagePct": 59.28
 	},
 	{
-		"rank": 424,
+		"rank": 425,
 		"name": "https://www.tibia.com/community/?name=Amazing%20Paladino||Amazing Paladino",
 		"vocation": "Royal Paladin",
 		"world": "Gladera",
@@ -4664,7 +4675,7 @@
 		"averagePct": 59.27
 	},
 	{
-		"rank": 424,
+		"rank": 425,
 		"name": "https://www.tibia.com/community/?name=Kado%20Leads||Kado Leads",
 		"vocation": "Master Sorcerer",
 		"world": "Celebra",
@@ -4673,17 +4684,6 @@
 		"charmPoints": 13185,
 		"bossPoints": 17445,
 		"averagePct": 59.27
-	},
-	{
-		"rank": 426,
-		"name": "https://www.tibia.com/community/?name=Sir%20Redor||Sir Redor",
-		"vocation": "Master Sorcerer",
-		"world": "Secura",
-		"level": 1582,
-		"achievementPoints": 905,
-		"charmPoints": 14779,
-		"bossPoints": 11325,
-		"averagePct": 59.26
 	},
 	{
 		"rank": 427,
@@ -4720,6 +4720,17 @@
 	},
 	{
 		"rank": 430,
+		"name": "https://www.tibia.com/community/?name=Enraged%20Adventurer||Enraged Adventurer",
+		"vocation": "Elder Druid",
+		"world": "Honbra",
+		"level": 506,
+		"achievementPoints": 1109,
+		"charmPoints": 11015,
+		"bossPoints": 11295,
+		"averagePct": 59.19
+	},
+	{
+		"rank": 431,
 		"name": "https://www.tibia.com/community/?name=Niime||Niime",
 		"vocation": "Elder Druid",
 		"world": "Inabra",
@@ -4730,7 +4741,7 @@
 		"averagePct": 59.18
 	},
 	{
-		"rank": 431,
+		"rank": 432,
 		"name": "https://www.tibia.com/community/?name=Prowaters||Prowaters",
 		"vocation": "Elite Knight",
 		"world": "Thyria",
@@ -4739,17 +4750,6 @@
 		"charmPoints": 15530,
 		"bossPoints": 4840,
 		"averagePct": 59.17
-	},
-	{
-		"rank": 432,
-		"name": "https://www.tibia.com/community/?name=Enraged%20Adventurer||Enraged Adventurer",
-		"vocation": "Elder Druid",
-		"world": "Honbra",
-		"level": 506,
-		"achievementPoints": 1109,
-		"charmPoints": 11015,
-		"bossPoints": 11235,
-		"averagePct": 59.11
 	},
 	{
 		"rank": 433,
@@ -4814,11 +4814,22 @@
 		"level": 868,
 		"achievementPoints": 836,
 		"charmPoints": 11045,
-		"bossPoints": 16230,
-		"averagePct": 58.88
+		"bossPoints": 16240,
+		"averagePct": 58.89
 	},
 	{
 		"rank": 439,
+		"name": "https://www.tibia.com/community/?name=Dressaa%20Lindsei||Dressaa Lindsei",
+		"vocation": "Elite Knight",
+		"world": "Quelibra",
+		"level": 806,
+		"achievementPoints": 1037,
+		"charmPoints": 11005,
+		"bossPoints": 12450,
+		"averagePct": 58.88
+	},
+	{
+		"rank": 440,
 		"name": "https://www.tibia.com/community/?name=Aquro%20Cacox||Aquro Cacox",
 		"vocation": "Royal Paladin",
 		"world": "Descubra",
@@ -4829,29 +4840,29 @@
 		"averagePct": 58.87
 	},
 	{
-		"rank": 440,
+		"rank": 441,
+		"name": "https://www.tibia.com/community/?name=Rolan%20Aneon||Rolan Aneon",
+		"vocation": "Royal Paladin",
+		"world": "Peloria",
+		"level": 660,
+		"achievementPoints": 1151,
+		"charmPoints": 14090,
+		"bossPoints": 7050,
+		"averagePct": 58.85
+	},
+	{
+		"rank": 441,
 		"name": "https://www.tibia.com/community/?name=Nimue%20Lanuin||Nimue Lanuin",
 		"vocation": "Elite Knight",
 		"world": "Gentebra",
-		"level": 1445,
+		"level": 1446,
 		"achievementPoints": 859,
 		"charmPoints": 18725,
 		"bossPoints": 7795,
 		"averagePct": 58.85
 	},
 	{
-		"rank": 441,
-		"name": "https://www.tibia.com/community/?name=Dressaa%20Lindsei||Dressaa Lindsei",
-		"vocation": "Elite Knight",
-		"world": "Quelibra",
-		"level": 806,
-		"achievementPoints": 1037,
-		"charmPoints": 11005,
-		"bossPoints": 12420,
-		"averagePct": 58.84
-	},
-	{
-		"rank": 442,
+		"rank": 443,
 		"name": "https://www.tibia.com/community/?name=Lord%20Tenchi||Lord Tenchi",
 		"vocation": "Elite Knight",
 		"world": "Kalibra",
@@ -4862,7 +4873,7 @@
 		"averagePct": 58.83
 	},
 	{
-		"rank": 443,
+		"rank": 444,
 		"name": "https://www.tibia.com/community/?name=Forseti%20Ases||Forseti Ases",
 		"vocation": "Elite Knight",
 		"world": "Yonabra",
@@ -4873,44 +4884,33 @@
 		"averagePct": 58.81
 	},
 	{
-		"rank": 444,
+		"rank": 445,
 		"name": "https://www.tibia.com/community/?name=Gaatix||Gaatix",
 		"vocation": "Royal Paladin",
 		"world": "Nevia",
-		"level": 809,
+		"level": 808,
 		"achievementPoints": 806,
 		"charmPoints": 9870,
 		"bossPoints": 17970,
 		"averagePct": 58.8
 	},
 	{
-		"rank": 445,
+		"rank": 446,
 		"name": "https://www.tibia.com/community/?name=Roya%20Rain||Roya Rain",
 		"vocation": "Master Sorcerer",
 		"world": "Nadora",
-		"level": 920,
+		"level": 921,
 		"achievementPoints": 1067,
 		"charmPoints": 12805,
 		"bossPoints": 9940,
 		"averagePct": 58.79
 	},
 	{
-		"rank": 446,
-		"name": "https://www.tibia.com/community/?name=Rolan%20Aneon||Rolan Aneon",
-		"vocation": "Royal Paladin",
-		"world": "Peloria",
-		"level": 660,
-		"achievementPoints": 1151,
-		"charmPoints": 14040,
-		"bossPoints": 7050,
-		"averagePct": 58.78
-	},
-	{
-		"rank": 446,
+		"rank": 447,
 		"name": "https://www.tibia.com/community/?name=Venganza||Venganza",
 		"vocation": "Royal Paladin",
 		"world": "Calmera",
-		"level": 1374,
+		"level": 1375,
 		"achievementPoints": 881,
 		"charmPoints": 22925,
 		"bossPoints": 2960,
@@ -4946,11 +4946,22 @@
 		"level": 563,
 		"achievementPoints": 998,
 		"charmPoints": 15335,
-		"bossPoints": 8580,
-		"averagePct": 58.73
+		"bossPoints": 8590,
+		"averagePct": 58.74
 	},
 	{
 		"rank": 451,
+		"name": "https://www.tibia.com/community/?name=Osbourne%20Ozzy||Osbourne Ozzy",
+		"vocation": "Elite Knight",
+		"world": "Celebra",
+		"level": 1370,
+		"achievementPoints": 998,
+		"charmPoints": 19135,
+		"bossPoints": 4605,
+		"averagePct": 58.69
+	},
+	{
+		"rank": 452,
 		"name": "https://www.tibia.com/community/?name=Gesiian||Gesiian",
 		"vocation": "Elite Knight",
 		"world": "Kalibra",
@@ -4961,7 +4972,7 @@
 		"averagePct": 58.65
 	},
 	{
-		"rank": 452,
+		"rank": 453,
 		"name": "https://www.tibia.com/community/?name=Askrates||Askrates",
 		"vocation": "Elite Knight",
 		"world": "Secura",
@@ -4972,7 +4983,7 @@
 		"averagePct": 58.64
 	},
 	{
-		"rank": 453,
+		"rank": 454,
 		"name": "https://www.tibia.com/community/?name=Acabyh||Acabyh",
 		"vocation": "Elder Druid",
 		"world": "Serdebra",
@@ -4983,26 +4994,15 @@
 		"averagePct": 58.62
 	},
 	{
-		"rank": 454,
+		"rank": 455,
 		"name": "https://www.tibia.com/community/?name=Chitaozinho%20de%20Ouro||Chitaozinho de Ouro",
 		"vocation": "Master Sorcerer",
 		"world": "Obscubra",
 		"level": 1352,
 		"achievementPoints": 1054,
 		"charmPoints": 17800,
-		"bossPoints": 4855,
-		"averagePct": 58.6
-	},
-	{
-		"rank": 454,
-		"name": "https://www.tibia.com/community/?name=Osbourne%20Ozzy||Osbourne Ozzy",
-		"vocation": "Elite Knight",
-		"world": "Celebra",
-		"level": 1370,
-		"achievementPoints": 998,
-		"charmPoints": 19135,
-		"bossPoints": 4535,
-		"averagePct": 58.6
+		"bossPoints": 4865,
+		"averagePct": 58.61
 	},
 	{
 		"rank": 456,
@@ -5064,7 +5064,7 @@
 		"name": "https://www.tibia.com/community/?name=Motoka%20Gangsta||Motoka Gangsta",
 		"vocation": "Elder Druid",
 		"world": "Wintera",
-		"level": 452,
+		"level": 453,
 		"achievementPoints": 1116,
 		"charmPoints": 15435,
 		"bossPoints": 6070,
@@ -5086,7 +5086,7 @@
 		"name": "https://www.tibia.com/community/?name=Anti%20Druid||Anti Druid",
 		"vocation": "Elder Druid",
 		"world": "Nevia",
-		"level": 753,
+		"level": 754,
 		"achievementPoints": 1023,
 		"charmPoints": 12255,
 		"bossPoints": 11030,
@@ -5149,6 +5149,17 @@
 	},
 	{
 		"rank": 469,
+		"name": "https://www.tibia.com/community/?name=Shufuku%20Seikatsu||Shufuku Seikatsu",
+		"vocation": "Elder Druid",
+		"world": "Nadora",
+		"level": 826,
+		"achievementPoints": 928,
+		"charmPoints": 17100,
+		"bossPoints": 7660,
+		"averagePct": 58.16
+	},
+	{
+		"rank": 470,
 		"name": "https://www.tibia.com/community/?name=Seather||Seather",
 		"vocation": "Royal Paladin",
 		"world": "Antica",
@@ -5159,7 +5170,7 @@
 		"averagePct": 58.15
 	},
 	{
-		"rank": 470,
+		"rank": 471,
 		"name": "https://www.tibia.com/community/?name=Leonel%20Royalheart||Leonel Royalheart",
 		"vocation": "Royal Paladin",
 		"world": "Yonabra",
@@ -5170,7 +5181,18 @@
 		"averagePct": 58.14
 	},
 	{
-		"rank": 471,
+		"rank": 472,
+		"name": "https://www.tibia.com/community/?name=Mareckinho||Mareckinho",
+		"vocation": "Elite Knight",
+		"world": "Damora",
+		"level": 709,
+		"achievementPoints": 1072,
+		"charmPoints": 14130,
+		"bossPoints": 7980,
+		"averagePct": 58.13
+	},
+	{
+		"rank": 473,
 		"name": "https://www.tibia.com/community/?name=Mocarz%20Kamsy||Mocarz Kamsy",
 		"vocation": "Elite Knight",
 		"world": "Antica",
@@ -5181,18 +5203,7 @@
 		"averagePct": 58.12
 	},
 	{
-		"rank": 471,
-		"name": "https://www.tibia.com/community/?name=Mareckinho||Mareckinho",
-		"vocation": "Elite Knight",
-		"world": "Damora",
-		"level": 709,
-		"achievementPoints": 1072,
-		"charmPoints": 14130,
-		"bossPoints": 7970,
-		"averagePct": 58.12
-	},
-	{
-		"rank": 473,
+		"rank": 474,
 		"name": "https://www.tibia.com/community/?name=Lobinho||Lobinho",
 		"vocation": "Royal Paladin",
 		"world": "Collabra",
@@ -5203,18 +5214,18 @@
 		"averagePct": 58.11
 	},
 	{
-		"rank": 474,
-		"name": "https://www.tibia.com/community/?name=Shufuku%20Seikatsu||Shufuku Seikatsu",
-		"vocation": "Elder Druid",
-		"world": "Nadora",
-		"level": 826,
-		"achievementPoints": 928,
-		"charmPoints": 17100,
-		"bossPoints": 7590,
-		"averagePct": 58.07
+		"rank": 475,
+		"name": "https://www.tibia.com/community/?name=Kedlowski||Kedlowski",
+		"vocation": "Master Sorcerer",
+		"world": "Celesta",
+		"level": 1739,
+		"achievementPoints": 1058,
+		"charmPoints": 17245,
+		"bossPoints": 4960,
+		"averagePct": 58.06
 	},
 	{
-		"rank": 475,
+		"rank": 476,
 		"name": "https://www.tibia.com/community/?name=Rebimba||Rebimba",
 		"vocation": "Master Sorcerer",
 		"world": "Kalibra",
@@ -5225,7 +5236,18 @@
 		"averagePct": 58.02
 	},
 	{
-		"rank": 476,
+		"rank": 477,
+		"name": "https://www.tibia.com/community/?name=Testn||Testn",
+		"vocation": "Master Sorcerer",
+		"world": "Yonabra",
+		"level": 1022,
+		"achievementPoints": 1125,
+		"charmPoints": 8775,
+		"bossPoints": 12445,
+		"averagePct": 58.01
+	},
+	{
+		"rank": 478,
 		"name": "https://www.tibia.com/community/?name=Cieniaseq||Cieniaseq",
 		"vocation": "Elder Druid",
 		"world": "Refugia",
@@ -5236,7 +5258,7 @@
 		"averagePct": 58
 	},
 	{
-		"rank": 476,
+		"rank": 478,
 		"name": "https://www.tibia.com/community/?name=Vampiro%20Marc||Vampiro Marc",
 		"vocation": "Elder Druid",
 		"world": "Yonabra",
@@ -5247,37 +5269,15 @@
 		"averagePct": 58
 	},
 	{
-		"rank": 478,
+		"rank": 480,
 		"name": "https://www.tibia.com/community/?name=Sloodkii||Sloodkii",
 		"vocation": "Elder Druid",
 		"world": "Refugia",
-		"level": 1251,
+		"level": 1252,
 		"achievementPoints": 659,
 		"charmPoints": 13595,
 		"bossPoints": 16300,
 		"averagePct": 57.99
-	},
-	{
-		"rank": 479,
-		"name": "https://www.tibia.com/community/?name=Testn||Testn",
-		"vocation": "Master Sorcerer",
-		"world": "Yonabra",
-		"level": 1022,
-		"achievementPoints": 1125,
-		"charmPoints": 8775,
-		"bossPoints": 12415,
-		"averagePct": 57.97
-	},
-	{
-		"rank": 480,
-		"name": "https://www.tibia.com/community/?name=Kedlowski||Kedlowski",
-		"vocation": "Master Sorcerer",
-		"world": "Celesta",
-		"level": 1739,
-		"achievementPoints": 1058,
-		"charmPoints": 17245,
-		"bossPoints": 4870,
-		"averagePct": 57.94
 	},
 	{
 		"rank": 481,
@@ -5292,6 +5292,17 @@
 	},
 	{
 		"rank": 482,
+		"name": "https://www.tibia.com/community/?name=Reversio||Reversio",
+		"vocation": "Elite Knight",
+		"world": "Thyria",
+		"level": 1096,
+		"achievementPoints": 1132,
+		"charmPoints": 12610,
+		"bossPoints": 8245,
+		"averagePct": 57.9
+	},
+	{
+		"rank": 483,
 		"name": "https://www.tibia.com/community/?name=Lucia%20Nidderiea||Lucia Nidderiea",
 		"vocation": "Elder Druid",
 		"world": "Thyria",
@@ -5302,7 +5313,7 @@
 		"averagePct": 57.89
 	},
 	{
-		"rank": 483,
+		"rank": 484,
 		"name": "https://www.tibia.com/community/?name=Mischaiki||Mischaiki",
 		"vocation": "Elite Knight",
 		"world": "Belobra",
@@ -5313,7 +5324,7 @@
 		"averagePct": 57.87
 	},
 	{
-		"rank": 483,
+		"rank": 484,
 		"name": "https://www.tibia.com/community/?name=Pu%20cek||Pu cek",
 		"vocation": "Elite Knight",
 		"world": "Celesta",
@@ -5324,7 +5335,7 @@
 		"averagePct": 57.87
 	},
 	{
-		"rank": 485,
+		"rank": 486,
 		"name": "https://www.tibia.com/community/?name=Blokers%20Bejsbol||Blokers Bejsbol",
 		"vocation": "Sorcerer",
 		"world": "Damora",
@@ -5335,7 +5346,7 @@
 		"averagePct": 57.86
 	},
 	{
-		"rank": 486,
+		"rank": 487,
 		"name": "https://www.tibia.com/community/?name=Mouhh||Mouhh",
 		"vocation": "Elite Knight",
 		"world": "Solidera",
@@ -5346,7 +5357,7 @@
 		"averagePct": 57.81
 	},
 	{
-		"rank": 487,
+		"rank": 488,
 		"name": "https://www.tibia.com/community/?name=Oi%20Taha||Oi Taha",
 		"vocation": "Royal Paladin",
 		"world": "Belobra",
@@ -5357,7 +5368,7 @@
 		"averagePct": 57.8
 	},
 	{
-		"rank": 487,
+		"rank": 488,
 		"name": "https://www.tibia.com/community/?name=Joker%20Dtonao||Joker Dtonao",
 		"vocation": "Elite Knight",
 		"world": "Ustebra",
@@ -5368,7 +5379,7 @@
 		"averagePct": 57.8
 	},
 	{
-		"rank": 489,
+		"rank": 490,
 		"name": "https://www.tibia.com/community/?name=Lady%20Nathii||Lady Nathii",
 		"vocation": "Elite Knight",
 		"world": "Yonabra",
@@ -5379,7 +5390,7 @@
 		"averagePct": 57.79
 	},
 	{
-		"rank": 490,
+		"rank": 491,
 		"name": "https://www.tibia.com/community/?name=Shar%20acter||Shar acter",
 		"vocation": "Elder Druid",
 		"world": "Gentebra",
@@ -5390,7 +5401,7 @@
 		"averagePct": 57.78
 	},
 	{
-		"rank": 491,
+		"rank": 492,
 		"name": "https://www.tibia.com/community/?name=Trolloc||Trolloc",
 		"vocation": "Elite Knight",
 		"world": "Gladera",
@@ -5401,7 +5412,7 @@
 		"averagePct": 57.77
 	},
 	{
-		"rank": 492,
+		"rank": 493,
 		"name": "https://www.tibia.com/community/?name=Xag%20The%20Archer||Xag The Archer",
 		"vocation": "Royal Paladin",
 		"world": "Calmera",
@@ -5412,7 +5423,7 @@
 		"averagePct": 57.76
 	},
 	{
-		"rank": 492,
+		"rank": 493,
 		"name": "https://www.tibia.com/community/?name=Kittyqueen||Kittyqueen",
 		"vocation": "Elite Knight",
 		"world": "Harmonia",
@@ -5423,7 +5434,7 @@
 		"averagePct": 57.76
 	},
 	{
-		"rank": 494,
+		"rank": 495,
 		"name": "https://www.tibia.com/community/?name=Extremz||Extremz",
 		"vocation": "Elder Druid",
 		"world": "Secura",
@@ -5434,7 +5445,18 @@
 		"averagePct": 57.71
 	},
 	{
-		"rank": 495,
+		"rank": 496,
+		"name": "https://www.tibia.com/community/?name=Advogod||Advogod",
+		"vocation": "Elite Knight",
+		"world": "Yonabra",
+		"level": 992,
+		"achievementPoints": 1238,
+		"charmPoints": 11680,
+		"bossPoints": 7045,
+		"averagePct": 57.7
+	},
+	{
+		"rank": 496,
 		"name": "https://www.tibia.com/community/?name=Mister%20Dec||Mister Dec",
 		"vocation": "Master Sorcerer",
 		"world": "Secura",
@@ -5445,18 +5467,18 @@
 		"averagePct": 57.7
 	},
 	{
-		"rank": 496,
-		"name": "https://www.tibia.com/community/?name=Advogod||Advogod",
-		"vocation": "Elite Knight",
-		"world": "Yonabra",
-		"level": 992,
-		"achievementPoints": 1238,
-		"charmPoints": 11680,
-		"bossPoints": 7035,
-		"averagePct": 57.69
+		"rank": 497,
+		"name": "https://www.tibia.com/community/?name=Neji%20Hyuuga||Neji Hyuuga",
+		"vocation": "Elder Druid",
+		"world": "Secura",
+		"level": 820,
+		"achievementPoints": 852,
+		"charmPoints": 11054,
+		"bossPoints": 15045,
+		"averagePct": 57.7
 	},
 	{
-		"rank": 496,
+		"rank": 499,
 		"name": "https://www.tibia.com/community/?name=Vesanto||Vesanto",
 		"vocation": "Royal Paladin",
 		"world": "Harmonia",
@@ -5467,7 +5489,7 @@
 		"averagePct": 57.69
 	},
 	{
-		"rank": 498,
+		"rank": 500,
 		"name": "https://www.tibia.com/community/?name=Teev||Teev",
 		"vocation": "Royal Paladin",
 		"world": "Monza",
@@ -5478,7 +5500,7 @@
 		"averagePct": 57.67
 	},
 	{
-		"rank": 498,
+		"rank": 500,
 		"name": "https://www.tibia.com/community/?name=Braavee%20heart||Braavee heart",
 		"vocation": "Elite Knight",
 		"world": "Calmera",
@@ -5489,7 +5511,7 @@
 		"averagePct": 57.67
 	},
 	{
-		"rank": 499,
+		"rank": 501,
 		"name": "https://www.tibia.com/community/?name=Kulkzbit||Kulkzbit",
 		"vocation": "Royal Paladin",
 		"world": "Thyria",
@@ -5500,7 +5522,7 @@
 		"averagePct": 57.67
 	},
 	{
-		"rank": 501,
+		"rank": 503,
 		"name": "https://www.tibia.com/community/?name=Zkars||Zkars",
 		"vocation": "Sorcerer",
 		"world": "Quelibra",
@@ -5511,17 +5533,6 @@
 		"averagePct": 57.66
 	},
 	{
-		"rank": 502,
-		"name": "https://www.tibia.com/community/?name=Neji%20Hyuuga||Neji Hyuuga",
-		"vocation": "Elder Druid",
-		"world": "Secura",
-		"level": 820,
-		"achievementPoints": 852,
-		"charmPoints": 11029,
-		"bossPoints": 15035,
-		"averagePct": 57.65
-	},
-	{
 		"rank": 503,
 		"name": "https://www.tibia.com/community/?name=Zeze%20Careca||Zeze Careca",
 		"vocation": "Elite Knight",
@@ -5529,19 +5540,8 @@
 		"level": 826,
 		"achievementPoints": 863,
 		"charmPoints": 12990,
-		"bossPoints": 12765,
-		"averagePct": 57.62
-	},
-	{
-		"rank": 504,
-		"name": "https://www.tibia.com/community/?name=Reversio||Reversio",
-		"vocation": "Elite Knight",
-		"world": "Thyria",
-		"level": 1095,
-		"achievementPoints": 1132,
-		"charmPoints": 12610,
-		"bossPoints": 7945,
-		"averagePct": 57.5
+		"bossPoints": 12795,
+		"averagePct": 57.66
 	},
 	{
 		"rank": 505,
@@ -5589,6 +5589,17 @@
 	},
 	{
 		"rank": 509,
+		"name": "https://www.tibia.com/community/?name=Neo%20Toffana||Neo Toffana",
+		"vocation": "Elite Knight",
+		"world": "Monza",
+		"level": 1678,
+		"achievementPoints": 950,
+		"charmPoints": 16040,
+		"bossPoints": 7755,
+		"averagePct": 57.37
+	},
+	{
+		"rank": 510,
 		"name": "https://www.tibia.com/community/?name=Itzz%20Anastasia||Itzz Anastasia",
 		"vocation": "Elder Druid",
 		"world": "Monza",
@@ -5599,7 +5610,18 @@
 		"averagePct": 57.32
 	},
 	{
-		"rank": 510,
+		"rank": 511,
+		"name": "https://www.tibia.com/community/?name=King%20Coraja||King Coraja",
+		"vocation": "Royal Paladin",
+		"world": "Yonabra",
+		"level": 1284,
+		"achievementPoints": 661,
+		"charmPoints": 16294,
+		"bossPoints": 12945,
+		"averagePct": 57.3
+	},
+	{
+		"rank": 512,
 		"name": "https://www.tibia.com/community/?name=Billy||Billy",
 		"vocation": "Royal Paladin",
 		"world": "Lobera",
@@ -5610,18 +5632,7 @@
 		"averagePct": 57.29
 	},
 	{
-		"rank": 510,
-		"name": "https://www.tibia.com/community/?name=Neo%20Toffana||Neo Toffana",
-		"vocation": "Elite Knight",
-		"world": "Monza",
-		"level": 1678,
-		"achievementPoints": 950,
-		"charmPoints": 16040,
-		"bossPoints": 7695,
-		"averagePct": 57.29
-	},
-	{
-		"rank": 512,
+		"rank": 513,
 		"name": "https://www.tibia.com/community/?name=Aluxi||Aluxi",
 		"vocation": "Master Sorcerer",
 		"world": "Kalibra",
@@ -5632,7 +5643,7 @@
 		"averagePct": 57.26
 	},
 	{
-		"rank": 513,
+		"rank": 514,
 		"name": "https://www.tibia.com/community/?name=Krwiopalczasty||Krwiopalczasty",
 		"vocation": "Elite Knight",
 		"world": "Quintera",
@@ -5640,17 +5651,6 @@
 		"achievementPoints": 825,
 		"charmPoints": 10105,
 		"bossPoints": 16190,
-		"averagePct": 57.22
-	},
-	{
-		"rank": 513,
-		"name": "https://www.tibia.com/community/?name=King%20Coraja||King Coraja",
-		"vocation": "Royal Paladin",
-		"world": "Yonabra",
-		"level": 1284,
-		"achievementPoints": 661,
-		"charmPoints": 16244,
-		"bossPoints": 12935,
 		"averagePct": 57.22
 	},
 	{
@@ -5732,28 +5732,39 @@
 	},
 	{
 		"rank": 522,
+		"name": "https://www.tibia.com/community/?name=Osio%20Yuya||Osio Yuya",
+		"vocation": "Elite Knight",
+		"world": "Inabra",
+		"level": 1162,
+		"achievementPoints": 1161,
+		"charmPoints": 11202,
+		"bossPoints": 8480,
+		"averagePct": 56.99
+	},
+	{
+		"rank": 523,
 		"name": "https://www.tibia.com/community/?name=Abilidibob||Abilidibob",
 		"vocation": "Elite Knight",
 		"world": "Descubra",
-		"level": 685,
+		"level": 686,
 		"achievementPoints": 1235,
 		"charmPoints": 12250,
 		"bossPoints": 5960,
 		"averagePct": 56.96
 	},
 	{
-		"rank": 522,
+		"rank": 523,
 		"name": "https://www.tibia.com/community/?name=Jonny%20Sorcerer||Jonny Sorcerer",
 		"vocation": "Master Sorcerer",
 		"world": "Talera",
-		"level": 277,
+		"level": 276,
 		"achievementPoints": 1179,
 		"charmPoints": 6992,
 		"bossPoints": 12490,
 		"averagePct": 56.96
 	},
 	{
-		"rank": 524,
+		"rank": 525,
 		"name": "https://www.tibia.com/community/?name=Viny%20Xintrex||Viny Xintrex",
 		"vocation": "Royal Paladin",
 		"world": "Havera",
@@ -5764,7 +5775,7 @@
 		"averagePct": 56.95
 	},
 	{
-		"rank": 524,
+		"rank": 525,
 		"name": "https://www.tibia.com/community/?name=Meliodasama||Meliodasama",
 		"vocation": "Elite Knight",
 		"world": "Descubra",
@@ -5775,7 +5786,7 @@
 		"averagePct": 56.95
 	},
 	{
-		"rank": 526,
+		"rank": 527,
 		"name": "https://www.tibia.com/community/?name=Vepem||Vepem",
 		"vocation": "Master Sorcerer",
 		"world": "Lobera",
@@ -5784,17 +5795,6 @@
 		"charmPoints": 15045,
 		"bossPoints": 7035,
 		"averagePct": 56.93
-	},
-	{
-		"rank": 527,
-		"name": "https://www.tibia.com/community/?name=Osio%20Yuya||Osio Yuya",
-		"vocation": "Elite Knight",
-		"world": "Inabra",
-		"level": 1161,
-		"achievementPoints": 1161,
-		"charmPoints": 11202,
-		"bossPoints": 8420,
-		"averagePct": 56.91
 	},
 	{
 		"rank": 528,
@@ -5823,7 +5823,7 @@
 		"name": "https://www.tibia.com/community/?name=Rift%20Duken||Rift Duken",
 		"vocation": "Master Sorcerer",
 		"world": "Gentebra",
-		"level": 1938,
+		"level": 1939,
 		"achievementPoints": 1087,
 		"charmPoints": 15250,
 		"bossPoints": 5560,
@@ -5845,7 +5845,7 @@
 		"name": "https://www.tibia.com/community/?name=King%20Danter||King Danter",
 		"vocation": "Elite Knight",
 		"world": "Celesta",
-		"level": 1954,
+		"level": 1955,
 		"achievementPoints": 624,
 		"charmPoints": 11399,
 		"bossPoints": 18325,
@@ -5870,8 +5870,8 @@
 		"level": 816,
 		"achievementPoints": 1019,
 		"charmPoints": 10695,
-		"bossPoints": 11465,
-		"averagePct": 56.66
+		"bossPoints": 11475,
+		"averagePct": 56.67
 	},
 	{
 		"rank": 535,
@@ -5881,8 +5881,8 @@
 		"level": 735,
 		"achievementPoints": 687,
 		"charmPoints": 13295,
-		"bossPoints": 15080,
-		"averagePct": 56.65
+		"bossPoints": 15090,
+		"averagePct": 56.66
 	},
 	{
 		"rank": 536,
@@ -5897,6 +5897,17 @@
 	},
 	{
 		"rank": 537,
+		"name": "https://www.tibia.com/community/?name=Eternia%20Sniper||Eternia Sniper",
+		"vocation": "Royal Paladin",
+		"world": "Vunira",
+		"level": 737,
+		"achievementPoints": 1170,
+		"charmPoints": 10385,
+		"bossPoints": 8880,
+		"averagePct": 56.61
+	},
+	{
+		"rank": 538,
 		"name": "https://www.tibia.com/community/?name=Acidd||Acidd",
 		"vocation": "Master Sorcerer",
 		"world": "Descubra",
@@ -5907,7 +5918,7 @@
 		"averagePct": 56.58
 	},
 	{
-		"rank": 538,
+		"rank": 539,
 		"name": "https://www.tibia.com/community/?name=Bogus%20Apocalypse||Bogus Apocalypse",
 		"vocation": "Elder Druid",
 		"world": "Monza",
@@ -5918,7 +5929,7 @@
 		"averagePct": 56.56
 	},
 	{
-		"rank": 539,
+		"rank": 540,
 		"name": "https://www.tibia.com/community/?name=Vincent'Dra||Vincent'Dra",
 		"vocation": "Master Sorcerer",
 		"world": "Antica",
@@ -5927,17 +5938,6 @@
 		"charmPoints": 9206,
 		"bossPoints": 12790,
 		"averagePct": 56.54
-	},
-	{
-		"rank": 540,
-		"name": "https://www.tibia.com/community/?name=Eternia%20Sniper||Eternia Sniper",
-		"vocation": "Royal Paladin",
-		"world": "Vunira",
-		"level": 738,
-		"achievementPoints": 1170,
-		"charmPoints": 10385,
-		"bossPoints": 8820,
-		"averagePct": 56.53
 	},
 	{
 		"rank": 541,
@@ -5963,17 +5963,28 @@
 	},
 	{
 		"rank": 543,
+		"name": "https://www.tibia.com/community/?name=Doktorek%20Szpiechu||Doktorek Szpiechu",
+		"vocation": "Royal Paladin",
+		"world": "Calmera",
+		"level": 911,
+		"achievementPoints": 1061,
+		"charmPoints": 11485,
+		"bossPoints": 9725,
+		"averagePct": 56.49
+	},
+	{
+		"rank": 544,
 		"name": "https://www.tibia.com/community/?name=Tanker%20Insane||Tanker Insane",
 		"vocation": "Elite Knight",
 		"world": "Celesta",
-		"level": 934,
+		"level": 935,
 		"achievementPoints": 784,
 		"charmPoints": 12585,
 		"bossPoints": 13845,
 		"averagePct": 56.48
 	},
 	{
-		"rank": 544,
+		"rank": 545,
 		"name": "https://www.tibia.com/community/?name=Vege%20Ta||Vege Ta",
 		"vocation": "Royal Paladin",
 		"world": "Harmonia",
@@ -5984,29 +5995,29 @@
 		"averagePct": 56.47
 	},
 	{
-		"rank": 544,
+		"rank": 545,
 		"name": "https://www.tibia.com/community/?name=Knightis||Knightis",
 		"vocation": "Elite Knight",
 		"world": "Damora",
-		"level": 789,
+		"level": 790,
 		"achievementPoints": 506,
 		"charmPoints": 18125,
 		"bossPoints": 13375,
 		"averagePct": 56.47
 	},
 	{
-		"rank": 546,
+		"rank": 547,
 		"name": "https://www.tibia.com/community/?name=Malossios||Malossios",
 		"vocation": "Elder Druid",
 		"world": "Talera",
-		"level": 932,
+		"level": 933,
 		"achievementPoints": 1170,
 		"charmPoints": 15629,
 		"bossPoints": 3315,
 		"averagePct": 56.46
 	},
 	{
-		"rank": 546,
+		"rank": 547,
 		"name": "https://www.tibia.com/community/?name=Attsuyah||Attsuyah",
 		"vocation": "Elder Druid",
 		"world": "Wintera",
@@ -6017,7 +6028,7 @@
 		"averagePct": 56.46
 	},
 	{
-		"rank": 547,
+		"rank": 548,
 		"name": "https://www.tibia.com/community/?name=Piatka||Piatka",
 		"vocation": "Royal Paladin",
 		"world": "Harmonia",
@@ -6028,18 +6039,7 @@
 		"averagePct": 56.46
 	},
 	{
-		"rank": 549,
-		"name": "https://www.tibia.com/community/?name=Doktorek%20Szpiechu||Doktorek Szpiechu",
-		"vocation": "Royal Paladin",
-		"world": "Calmera",
-		"level": 910,
-		"achievementPoints": 1061,
-		"charmPoints": 11435,
-		"bossPoints": 9725,
-		"averagePct": 56.42
-	},
-	{
-		"rank": 549,
+		"rank": 550,
 		"name": "https://www.tibia.com/community/?name=Ori%20Xer||Ori Xer",
 		"vocation": "Royal Paladin",
 		"world": "Secura",
@@ -6084,6 +6084,17 @@
 	},
 	{
 		"rank": 554,
+		"name": "https://www.tibia.com/community/?name=Sharpshooter%20Pierre||Sharpshooter Pierre",
+		"vocation": "Royal Paladin",
+		"world": "Epoca",
+		"level": 1631,
+		"achievementPoints": 795,
+		"charmPoints": 13750,
+		"bossPoints": 12305,
+		"averagePct": 56.32
+	},
+	{
+		"rank": 555,
 		"name": "https://www.tibia.com/community/?name=Alucarr||Alucarr",
 		"vocation": "Royal Paladin",
 		"world": "Antica",
@@ -6091,17 +6102,6 @@
 		"achievementPoints": 1172,
 		"charmPoints": 12650,
 		"bossPoints": 6260,
-		"averagePct": 56.3
-	},
-	{
-		"rank": 554,
-		"name": "https://www.tibia.com/community/?name=Sharpshooter%20Pierre||Sharpshooter Pierre",
-		"vocation": "Royal Paladin",
-		"world": "Epoca",
-		"level": 1631,
-		"achievementPoints": 795,
-		"charmPoints": 13750,
-		"bossPoints": 12295,
 		"averagePct": 56.3
 	},
 	{
@@ -6117,14 +6117,14 @@
 	},
 	{
 		"rank": 557,
-		"name": "https://www.tibia.com/community/?name=Kaxarax||Kaxarax",
-		"vocation": "Royal Paladin",
-		"world": "Premia",
-		"level": 844,
-		"achievementPoints": 832,
-		"charmPoints": 10337,
-		"bossPoints": 15070,
-		"averagePct": 56.21
+		"name": "https://www.tibia.com/community/?name=Dragon%20Sheik||Dragon Sheik",
+		"vocation": "Elite Knight",
+		"world": "Secura",
+		"level": 888,
+		"achievementPoints": 966,
+		"charmPoints": 14350,
+		"bossPoints": 8385,
+		"averagePct": 56.26
 	},
 	{
 		"rank": 558,
@@ -6134,11 +6134,22 @@
 		"level": 471,
 		"achievementPoints": 1152,
 		"charmPoints": 9390,
-		"bossPoints": 9945,
-		"averagePct": 56.19
+		"bossPoints": 9975,
+		"averagePct": 56.23
 	},
 	{
 		"rank": 559,
+		"name": "https://www.tibia.com/community/?name=Kaxarax||Kaxarax",
+		"vocation": "Royal Paladin",
+		"world": "Premia",
+		"level": 845,
+		"achievementPoints": 832,
+		"charmPoints": 10337,
+		"bossPoints": 15070,
+		"averagePct": 56.21
+	},
+	{
+		"rank": 560,
 		"name": "https://www.tibia.com/community/?name=Fronil%20Thala||Fronil Thala",
 		"vocation": "Royal Paladin",
 		"world": "Damora",
@@ -6149,7 +6160,7 @@
 		"averagePct": 56.18
 	},
 	{
-		"rank": 559,
+		"rank": 560,
 		"name": "https://www.tibia.com/community/?name=Emresto||Emresto",
 		"vocation": "Elder Druid",
 		"world": "Gentebra",
@@ -6160,7 +6171,7 @@
 		"averagePct": 56.18
 	},
 	{
-		"rank": 561,
+		"rank": 562,
 		"name": "https://www.tibia.com/community/?name=Drash%20Di%20Hatzi||Drash Di Hatzi",
 		"vocation": "Elite Knight",
 		"world": "Menera",
@@ -6171,7 +6182,18 @@
 		"averagePct": 56.17
 	},
 	{
-		"rank": 562,
+		"rank": 563,
+		"name": "https://www.tibia.com/community/?name=Vantom||Vantom",
+		"vocation": "Royal Paladin",
+		"world": "Thyria",
+		"level": 712,
+		"achievementPoints": 1091,
+		"charmPoints": 12125,
+		"bossPoints": 8230,
+		"averagePct": 56.15
+	},
+	{
+		"rank": 564,
 		"name": "https://www.tibia.com/community/?name=Beatrix%20Kiddo||Beatrix Kiddo",
 		"vocation": "Elder Druid",
 		"world": "Serdebra",
@@ -6182,7 +6204,18 @@
 		"averagePct": 56.14
 	},
 	{
-		"rank": 563,
+		"rank": 565,
+		"name": "https://www.tibia.com/community/?name=Antarya||Antarya",
+		"vocation": "Royal Paladin",
+		"world": "Secura",
+		"level": 1112,
+		"achievementPoints": 1053,
+		"charmPoints": 12150,
+		"bossPoints": 8920,
+		"averagePct": 56.13
+	},
+	{
+		"rank": 566,
 		"name": "https://www.tibia.com/community/?name=Edge%20Of%20Nature||Edge Of Nature",
 		"vocation": "Royal Paladin",
 		"world": "Secura",
@@ -6193,18 +6226,7 @@
 		"averagePct": 56.12
 	},
 	{
-		"rank": 564,
-		"name": "https://www.tibia.com/community/?name=Vantom||Vantom",
-		"vocation": "Royal Paladin",
-		"world": "Thyria",
-		"level": 712,
-		"achievementPoints": 1091,
-		"charmPoints": 12125,
-		"bossPoints": 8200,
-		"averagePct": 56.11
-	},
-	{
-		"rank": 564,
+		"rank": 567,
 		"name": "https://www.tibia.com/community/?name=Antaressis||Antaressis",
 		"vocation": "Royal Paladin",
 		"world": "Monza",
@@ -6215,7 +6237,7 @@
 		"averagePct": 56.11
 	},
 	{
-		"rank": 565,
+		"rank": 567,
 		"name": "https://www.tibia.com/community/?name=Albino%20the%20Insane||Albino the Insane",
 		"vocation": "Elite Knight",
 		"world": "Ustebra",
@@ -6226,7 +6248,7 @@
 		"averagePct": 56.11
 	},
 	{
-		"rank": 566,
+		"rank": 568,
 		"name": "https://www.tibia.com/community/?name=Ma%20ri||Ma ri",
 		"vocation": "Elder Druid",
 		"world": "Gentebra",
@@ -6237,7 +6259,7 @@
 		"averagePct": 56.11
 	},
 	{
-		"rank": 568,
+		"rank": 570,
 		"name": "https://www.tibia.com/community/?name=Ghost%20of%20Chimera||Ghost of Chimera",
 		"vocation": "Royal Paladin",
 		"world": "Wintera",
@@ -6248,7 +6270,7 @@
 		"averagePct": 56.1
 	},
 	{
-		"rank": 569,
+		"rank": 571,
 		"name": "https://www.tibia.com/community/?name=Zoi%20Robacena||Zoi Robacena",
 		"vocation": "Royal Paladin",
 		"world": "Solidera",
@@ -6259,29 +6281,29 @@
 		"averagePct": 56.08
 	},
 	{
-		"rank": 570,
+		"rank": 572,
 		"name": "https://www.tibia.com/community/?name=Sorveteiro%20Balofo||Sorveteiro Balofo",
 		"vocation": "Master Sorcerer",
 		"world": "Wildera",
-		"level": 1390,
+		"level": 1391,
 		"achievementPoints": 1216,
 		"charmPoints": 16280,
 		"bossPoints": 1480,
 		"averagePct": 56.07
 	},
 	{
-		"rank": 570,
-		"name": "https://www.tibia.com/community/?name=Dragon%20Sheik||Dragon Sheik",
+		"rank": 573,
+		"name": "https://www.tibia.com/community/?name=Fenomenalny%20Maciek||Fenomenalny Maciek",
 		"vocation": "Elite Knight",
 		"world": "Secura",
-		"level": 887,
-		"achievementPoints": 966,
-		"charmPoints": 14275,
-		"bossPoints": 8325,
-		"averagePct": 56.07
+		"level": 828,
+		"achievementPoints": 1059,
+		"charmPoints": 15050,
+		"bossPoints": 5735,
+		"averagePct": 56.06
 	},
 	{
-		"rank": 572,
+		"rank": 574,
 		"name": "https://www.tibia.com/community/?name=Setkia||Setkia",
 		"vocation": "Elite Knight",
 		"world": "Premia",
@@ -6292,18 +6314,7 @@
 		"averagePct": 56.05
 	},
 	{
-		"rank": 572,
-		"name": "https://www.tibia.com/community/?name=Antarya||Antarya",
-		"vocation": "Royal Paladin",
-		"world": "Secura",
-		"level": 1112,
-		"achievementPoints": 1053,
-		"charmPoints": 12150,
-		"bossPoints": 8860,
-		"averagePct": 56.05
-	},
-	{
-		"rank": 574,
+		"rank": 575,
 		"name": "https://www.tibia.com/community/?name=Iskriipty||Iskriipty",
 		"vocation": "Master Sorcerer",
 		"world": "Belobra",
@@ -6312,17 +6323,6 @@
 		"charmPoints": 13000,
 		"bossPoints": 9785,
 		"averagePct": 56
-	},
-	{
-		"rank": 575,
-		"name": "https://www.tibia.com/community/?name=Fenomenalny%20Maciek||Fenomenalny Maciek",
-		"vocation": "Elite Knight",
-		"world": "Secura",
-		"level": 828,
-		"achievementPoints": 1059,
-		"charmPoints": 15000,
-		"bossPoints": 5725,
-		"averagePct": 55.97
 	},
 	{
 		"rank": 576,
@@ -6428,7 +6428,7 @@
 		"name": "https://www.tibia.com/community/?name=Caranguejo%20Reabilitado||Caranguejo Reabilitado",
 		"vocation": "Master Sorcerer",
 		"world": "Inabra",
-		"level": 797,
+		"level": 798,
 		"achievementPoints": 713,
 		"charmPoints": 12479,
 		"bossPoints": 14845,
@@ -6436,6 +6436,17 @@
 	},
 	{
 		"rank": 586,
+		"name": "https://www.tibia.com/community/?name=Delazeri||Delazeri",
+		"vocation": "Elite Knight",
+		"world": "Ferobra",
+		"level": 514,
+		"achievementPoints": 1054,
+		"charmPoints": 7468,
+		"bossPoints": 13545,
+		"averagePct": 55.84
+	},
+	{
+		"rank": 587,
 		"name": "https://www.tibia.com/community/?name=Shiddenzinho||Shiddenzinho",
 		"vocation": "Royal Paladin",
 		"world": "Guerribra",
@@ -6446,7 +6457,7 @@
 		"averagePct": 55.83
 	},
 	{
-		"rank": 587,
+		"rank": 588,
 		"name": "https://www.tibia.com/community/?name=Mircomania||Mircomania",
 		"vocation": "Elder Druid",
 		"world": "Wintera",
@@ -6458,6 +6469,17 @@
 	},
 	{
 		"rank": 588,
+		"name": "https://www.tibia.com/community/?name=Shinai||Shinai",
+		"vocation": "Elite Knight",
+		"world": "Refugia",
+		"level": 665,
+		"achievementPoints": 653,
+		"charmPoints": 10943,
+		"bossPoints": 17555,
+		"averagePct": 55.82
+	},
+	{
+		"rank": 590,
 		"name": "https://www.tibia.com/community/?name=Sakhu%20ra||Sakhu ra",
 		"vocation": "Elder Druid",
 		"world": "Pulsera",
@@ -6468,7 +6490,7 @@
 		"averagePct": 55.81
 	},
 	{
-		"rank": 589,
+		"rank": 591,
 		"name": "https://www.tibia.com/community/?name=Shukran%20Ya||Shukran Ya",
 		"vocation": "Royal Paladin",
 		"world": "Ferobra",
@@ -6479,7 +6501,7 @@
 		"averagePct": 55.76
 	},
 	{
-		"rank": 590,
+		"rank": 592,
 		"name": "https://www.tibia.com/community/?name=Thor%20Zyn||Thor Zyn",
 		"vocation": "Royal Paladin",
 		"world": "Collabra",
@@ -6490,37 +6512,15 @@
 		"averagePct": 55.75
 	},
 	{
-		"rank": 591,
-		"name": "https://www.tibia.com/community/?name=Shinai||Shinai",
-		"vocation": "Elite Knight",
-		"world": "Refugia",
-		"level": 665,
-		"achievementPoints": 653,
-		"charmPoints": 10943,
-		"bossPoints": 17495,
-		"averagePct": 55.74
-	},
-	{
-		"rank": 592,
+		"rank": 593,
 		"name": "https://www.tibia.com/community/?name=Myleidizinha||Myleidizinha",
 		"vocation": "Elder Druid",
 		"world": "Yonabra",
-		"level": 894,
+		"level": 895,
 		"achievementPoints": 716,
 		"charmPoints": 13584,
 		"bossPoints": 13545,
 		"averagePct": 55.73
-	},
-	{
-		"rank": 593,
-		"name": "https://www.tibia.com/community/?name=Delazeri||Delazeri",
-		"vocation": "Elite Knight",
-		"world": "Ferobra",
-		"level": 514,
-		"achievementPoints": 1054,
-		"charmPoints": 7468,
-		"bossPoints": 13455,
-		"averagePct": 55.71
 	},
 	{
 		"rank": 594,
@@ -6556,7 +6556,18 @@
 		"averagePct": 55.67
 	},
 	{
-		"rank": 597,
+		"rank": 596,
+		"name": "https://www.tibia.com/community/?name=Fok||Fok",
+		"vocation": "Royal Paladin",
+		"world": "Secura",
+		"level": 1175,
+		"achievementPoints": 919,
+		"charmPoints": 12980,
+		"bossPoints": 10260,
+		"averagePct": 55.67
+	},
+	{
+		"rank": 598,
 		"name": "https://www.tibia.com/community/?name=Niallycl||Niallycl",
 		"vocation": "Master Sorcerer",
 		"world": "Belobra",
@@ -6565,17 +6576,6 @@
 		"charmPoints": 11485,
 		"bossPoints": 13240,
 		"averagePct": 55.66
-	},
-	{
-		"rank": 598,
-		"name": "https://www.tibia.com/community/?name=Fok||Fok",
-		"vocation": "Royal Paladin",
-		"world": "Secura",
-		"level": 1175,
-		"achievementPoints": 919,
-		"charmPoints": 12980,
-		"bossPoints": 10230,
-		"averagePct": 55.63
 	},
 	{
 		"rank": 599,
@@ -6611,7 +6611,18 @@
 		"averagePct": 55.61
 	},
 	{
-		"rank": 602,
+		"rank": 601,
+		"name": "https://www.tibia.com/community/?name=Ya%20su||Ya su",
+		"vocation": "Elite Knight",
+		"world": "Ferobra",
+		"level": 915,
+		"achievementPoints": 951,
+		"charmPoints": 10265,
+		"bossPoints": 12435,
+		"averagePct": 55.61
+	},
+	{
+		"rank": 603,
 		"name": "https://www.tibia.com/community/?name=Meyrah||Meyrah",
 		"vocation": "Sorcerer",
 		"world": "Pulsera",
@@ -6622,26 +6633,26 @@
 		"averagePct": 55.6
 	},
 	{
-		"rank": 603,
+		"rank": 604,
 		"name": "https://www.tibia.com/community/?name=Uwaga%20Lisek||Uwaga Lisek",
 		"vocation": "Royal Paladin",
 		"world": "Kendria",
-		"level": 927,
+		"level": 928,
 		"achievementPoints": 846,
 		"charmPoints": 10809,
 		"bossPoints": 13840,
 		"averagePct": 55.57
 	},
 	{
-		"rank": 604,
-		"name": "https://www.tibia.com/community/?name=Ya%20su||Ya su",
-		"vocation": "Elite Knight",
-		"world": "Ferobra",
-		"level": 915,
-		"achievementPoints": 951,
-		"charmPoints": 10265,
-		"bossPoints": 12375,
-		"averagePct": 55.53
+		"rank": 605,
+		"name": "https://www.tibia.com/community/?name=Majster%20Skower||Majster Skower",
+		"vocation": "Elder Druid",
+		"world": "Bona",
+		"level": 612,
+		"achievementPoints": 900,
+		"charmPoints": 10060,
+		"bossPoints": 13550,
+		"averagePct": 55.52
 	},
 	{
 		"rank": 605,
@@ -6655,7 +6666,7 @@
 		"averagePct": 55.52
 	},
 	{
-		"rank": 606,
+		"rank": 607,
 		"name": "https://www.tibia.com/community/?name=Tuuelhinha||Tuuelhinha",
 		"vocation": "Elite Knight",
 		"world": "Belobra",
@@ -6666,7 +6677,7 @@
 		"averagePct": 55.47
 	},
 	{
-		"rank": 606,
+		"rank": 607,
 		"name": "https://www.tibia.com/community/?name=Revira||Revira",
 		"vocation": "Elite Knight",
 		"world": "Monza",
@@ -6677,7 +6688,7 @@
 		"averagePct": 55.47
 	},
 	{
-		"rank": 608,
+		"rank": 609,
 		"name": "https://www.tibia.com/community/?name=Namaxiorek||Namaxiorek",
 		"vocation": "Elder Druid",
 		"world": "Harmonia",
@@ -6688,29 +6699,29 @@
 		"averagePct": 55.46
 	},
 	{
-		"rank": 608,
+		"rank": 609,
 		"name": "https://www.tibia.com/community/?name=Adreuz||Adreuz",
 		"vocation": "Master Sorcerer",
 		"world": "Premia",
-		"level": 1192,
+		"level": 1193,
 		"achievementPoints": 714,
 		"charmPoints": 13235,
 		"bossPoints": 13745,
 		"averagePct": 55.46
 	},
 	{
-		"rank": 610,
-		"name": "https://www.tibia.com/community/?name=Majster%20Skower||Majster Skower",
-		"vocation": "Elder Druid",
-		"world": "Bona",
-		"level": 612,
-		"achievementPoints": 900,
-		"charmPoints": 10060,
-		"bossPoints": 13490,
-		"averagePct": 55.44
+		"rank": 611,
+		"name": "https://www.tibia.com/community/?name=Ultimate%20Blood||Ultimate Blood",
+		"vocation": "Elite Knight",
+		"world": "Serdebra",
+		"level": 554,
+		"achievementPoints": 1196,
+		"charmPoints": 12745,
+		"bossPoints": 5035,
+		"averagePct": 55.4
 	},
 	{
-		"rank": 611,
+		"rank": 612,
 		"name": "https://www.tibia.com/community/?name=Lord%20Chauz||Lord Chauz",
 		"vocation": "Elite Knight",
 		"world": "Honbra",
@@ -6721,7 +6732,7 @@
 		"averagePct": 55.36
 	},
 	{
-		"rank": 612,
+		"rank": 613,
 		"name": "https://www.tibia.com/community/?name=Si%20Mas||Si Mas",
 		"vocation": "Elder Druid",
 		"world": "Yonabra",
@@ -6732,7 +6743,7 @@
 		"averagePct": 55.35
 	},
 	{
-		"rank": 613,
+		"rank": 614,
 		"name": "https://www.tibia.com/community/?name=Abitoxi%20Rellik||Abitoxi Rellik",
 		"vocation": "Elite Knight",
 		"world": "Guerribra",
@@ -6743,7 +6754,7 @@
 		"averagePct": 55.34
 	},
 	{
-		"rank": 613,
+		"rank": 614,
 		"name": "https://www.tibia.com/community/?name=Orienzho||Orienzho",
 		"vocation": "Elite Knight",
 		"world": "Nefera",
@@ -6754,18 +6765,18 @@
 		"averagePct": 55.34
 	},
 	{
-		"rank": 615,
-		"name": "https://www.tibia.com/community/?name=Ultimate%20Blood||Ultimate Blood",
-		"vocation": "Elite Knight",
-		"world": "Serdebra",
-		"level": 554,
-		"achievementPoints": 1196,
-		"charmPoints": 12745,
-		"bossPoints": 4975,
-		"averagePct": 55.32
+		"rank": 616,
+		"name": "https://www.tibia.com/community/?name=Padre%20Invierno||Padre Invierno",
+		"vocation": "Elder Druid",
+		"world": "Gladera",
+		"level": 1379,
+		"achievementPoints": 744,
+		"charmPoints": 10900,
+		"bossPoints": 15510,
+		"averagePct": 55.33
 	},
 	{
-		"rank": 616,
+		"rank": 617,
 		"name": "https://www.tibia.com/community/?name=Gabos||Gabos",
 		"vocation": "Elite Knight",
 		"world": "Thyria",
@@ -6776,7 +6787,7 @@
 		"averagePct": 55.3
 	},
 	{
-		"rank": 616,
+		"rank": 617,
 		"name": "https://www.tibia.com/community/?name=Mowzek||Mowzek",
 		"vocation": "Elite Knight",
 		"world": "Belobra",
@@ -6787,7 +6798,7 @@
 		"averagePct": 55.3
 	},
 	{
-		"rank": 618,
+		"rank": 619,
 		"name": "https://www.tibia.com/community/?name=Nrwing||Nrwing",
 		"vocation": "Elite Knight",
 		"world": "Thyria",
@@ -6798,22 +6809,11 @@
 		"averagePct": 55.29
 	},
 	{
-		"rank": 618,
-		"name": "https://www.tibia.com/community/?name=Padre%20Invierno||Padre Invierno",
-		"vocation": "Elder Druid",
-		"world": "Gladera",
-		"level": 1379,
-		"achievementPoints": 744,
-		"charmPoints": 10900,
-		"bossPoints": 15480,
-		"averagePct": 55.29
-	},
-	{
 		"rank": 620,
 		"name": "https://www.tibia.com/community/?name=Atmosphera||Atmosphera",
 		"vocation": "Royal Paladin",
 		"world": "Menera",
-		"level": 783,
+		"level": 782,
 		"achievementPoints": 633,
 		"charmPoints": 10612,
 		"bossPoints": 17880,
@@ -6835,7 +6835,7 @@
 		"name": "https://www.tibia.com/community/?name=Shakad||Shakad",
 		"vocation": "Royal Paladin",
 		"world": "Rasteibra",
-		"level": 1532,
+		"level": 1533,
 		"achievementPoints": 1208,
 		"charmPoints": 12550,
 		"bossPoints": 4905,
@@ -6843,17 +6843,28 @@
 	},
 	{
 		"rank": 623,
+		"name": "https://www.tibia.com/community/?name=Pitxulinha||Pitxulinha",
+		"vocation": "Elder Druid",
+		"world": "Honbra",
+		"level": 532,
+		"achievementPoints": 1074,
+		"charmPoints": 7404,
+		"bossPoints": 12785,
+		"averagePct": 55.24
+	},
+	{
+		"rank": 623,
 		"name": "https://www.tibia.com/community/?name=Rastelyx||Rastelyx",
 		"vocation": "Master Sorcerer",
 		"world": "Collabra",
-		"level": 1461,
+		"level": 1462,
 		"achievementPoints": 751,
 		"charmPoints": 16705,
 		"bossPoints": 9280,
 		"averagePct": 55.24
 	},
 	{
-		"rank": 624,
+		"rank": 625,
 		"name": "https://www.tibia.com/community/?name=Thunderfist||Thunderfist",
 		"vocation": "Elite Knight",
 		"world": "Peloria",
@@ -6864,7 +6875,7 @@
 		"averagePct": 55.21
 	},
 	{
-		"rank": 625,
+		"rank": 626,
 		"name": "https://www.tibia.com/community/?name=Sir%20Castellan||Sir Castellan",
 		"vocation": "Royal Paladin",
 		"world": "Celesta",
@@ -6875,7 +6886,7 @@
 		"averagePct": 55.2
 	},
 	{
-		"rank": 625,
+		"rank": 626,
 		"name": "https://www.tibia.com/community/?name=Nanka||Nanka",
 		"vocation": "Elder Druid",
 		"world": "Secura",
@@ -6886,7 +6897,7 @@
 		"averagePct": 55.2
 	},
 	{
-		"rank": 627,
+		"rank": 628,
 		"name": "https://www.tibia.com/community/?name=Piscola%20Sio||Piscola Sio",
 		"vocation": "Druid",
 		"world": "Pacera",
@@ -6897,7 +6908,7 @@
 		"averagePct": 55.19
 	},
 	{
-		"rank": 628,
+		"rank": 629,
 		"name": "https://www.tibia.com/community/?name=Whayz||Whayz",
 		"vocation": "Elite Knight",
 		"world": "Monza",
@@ -6908,7 +6919,7 @@
 		"averagePct": 55.13
 	},
 	{
-		"rank": 629,
+		"rank": 630,
 		"name": "https://www.tibia.com/community/?name=Arterossy||Arterossy",
 		"vocation": "Royal Paladin",
 		"world": "Thyria",
@@ -6919,7 +6930,7 @@
 		"averagePct": 55.12
 	},
 	{
-		"rank": 630,
+		"rank": 631,
 		"name": "https://www.tibia.com/community/?name=Perigozin||Perigozin",
 		"vocation": "Elite Knight",
 		"world": "Inabra",
@@ -6930,11 +6941,11 @@
 		"averagePct": 55.07
 	},
 	{
-		"rank": 630,
+		"rank": 631,
 		"name": "https://www.tibia.com/community/?name=Sariinhasz||Sariinhasz",
 		"vocation": "Royal Paladin",
 		"world": "Ferobra",
-		"level": 1132,
+		"level": 1133,
 		"achievementPoints": 787,
 		"charmPoints": 10354,
 		"bossPoints": 15065,
@@ -6942,6 +6953,17 @@
 	},
 	{
 		"rank": 632,
+		"name": "https://www.tibia.com/community/?name=Doom%20Wahrheit||Doom Wahrheit",
+		"vocation": "Elite Knight",
+		"world": "Jadebra",
+		"level": 841,
+		"achievementPoints": 722,
+		"charmPoints": 17325,
+		"bossPoints": 9055,
+		"averagePct": 55.07
+	},
+	{
+		"rank": 634,
 		"name": "https://www.tibia.com/community/?name=Simply%20Gritteh||Simply Gritteh",
 		"vocation": "Elite Knight",
 		"world": "Vunira",
@@ -6952,7 +6974,7 @@
 		"averagePct": 55.01
 	},
 	{
-		"rank": 632,
+		"rank": 634,
 		"name": "https://www.tibia.com/community/?name=Smokerxd||Smokerxd",
 		"vocation": "Royal Paladin",
 		"world": "Inabra",
@@ -6963,7 +6985,7 @@
 		"averagePct": 55.01
 	},
 	{
-		"rank": 634,
+		"rank": 636,
 		"name": "https://www.tibia.com/community/?name=Khati||Khati",
 		"vocation": "Elder Druid",
 		"world": "Damora",
@@ -6974,7 +6996,7 @@
 		"averagePct": 55
 	},
 	{
-		"rank": 635,
+		"rank": 637,
 		"name": "https://www.tibia.com/community/?name=Kassio%20Zabojca||Kassio Zabojca",
 		"vocation": "Royal Paladin",
 		"world": "Obscubra",
@@ -6985,7 +7007,7 @@
 		"averagePct": 54.97
 	},
 	{
-		"rank": 636,
+		"rank": 638,
 		"name": "https://www.tibia.com/community/?name=Jhongsters%20Jack||Jhongsters Jack",
 		"vocation": "Elite Knight",
 		"world": "Celebra",
@@ -6996,18 +7018,18 @@
 		"averagePct": 54.96
 	},
 	{
-		"rank": 636,
+		"rank": 638,
 		"name": "https://www.tibia.com/community/?name=Bu%20uzz||Bu uzz",
 		"vocation": "Elder Druid",
 		"world": "Serdebra",
-		"level": 1391,
+		"level": 1392,
 		"achievementPoints": 663,
 		"charmPoints": 13239,
 		"bossPoints": 14345,
 		"averagePct": 54.96
 	},
 	{
-		"rank": 638,
+		"rank": 640,
 		"name": "https://www.tibia.com/community/?name=Alhejandra||Alhejandra",
 		"vocation": "Elite Knight",
 		"world": "Talera",
@@ -7018,29 +7040,18 @@
 		"averagePct": 54.94
 	},
 	{
-		"rank": 639,
-		"name": "https://www.tibia.com/community/?name=Pitxulinha||Pitxulinha",
-		"vocation": "Elder Druid",
-		"world": "Honbra",
-		"level": 532,
-		"achievementPoints": 1074,
-		"charmPoints": 7379,
-		"bossPoints": 12575,
-		"averagePct": 54.92
-	},
-	{
-		"rank": 639,
-		"name": "https://www.tibia.com/community/?name=Doom%20Wahrheit||Doom Wahrheit",
-		"vocation": "Elite Knight",
-		"world": "Jadebra",
-		"level": 841,
-		"achievementPoints": 722,
-		"charmPoints": 17325,
-		"bossPoints": 8945,
-		"averagePct": 54.92
-	},
-	{
 		"rank": 641,
+		"name": "https://www.tibia.com/community/?name=Smuu||Smuu",
+		"vocation": "Elder Druid",
+		"world": "Pacera",
+		"level": 391,
+		"achievementPoints": 1200,
+		"charmPoints": 8320,
+		"bossPoints": 9205,
+		"averagePct": 54.93
+	},
+	{
+		"rank": 642,
 		"name": "https://www.tibia.com/community/?name=Elite%20Ktengo||Elite Ktengo",
 		"vocation": "Elite Knight",
 		"world": "Lutabra",
@@ -7051,18 +7062,18 @@
 		"averagePct": 54.89
 	},
 	{
-		"rank": 642,
+		"rank": 643,
 		"name": "https://www.tibia.com/community/?name=Dranongar||Dranongar",
 		"vocation": "Elite Knight",
 		"world": "Astera",
-		"level": 669,
+		"level": 670,
 		"achievementPoints": 1206,
 		"charmPoints": 12400,
-		"bossPoints": 4815,
+		"bossPoints": 4820,
 		"averagePct": 54.88
 	},
 	{
-		"rank": 642,
+		"rank": 643,
 		"name": "https://www.tibia.com/community/?name=Azizami||Azizami",
 		"vocation": "Royal Paladin",
 		"world": "Bona",
@@ -7073,18 +7084,7 @@
 		"averagePct": 54.88
 	},
 	{
-		"rank": 644,
-		"name": "https://www.tibia.com/community/?name=Smuu||Smuu",
-		"vocation": "Elder Druid",
-		"world": "Pacera",
-		"level": 392,
-		"achievementPoints": 1200,
-		"charmPoints": 8320,
-		"bossPoints": 9165,
-		"averagePct": 54.87
-	},
-	{
-		"rank": 644,
+		"rank": 645,
 		"name": "https://www.tibia.com/community/?name=Mackyz||Mackyz",
 		"vocation": "Druid",
 		"world": "Thyria",
@@ -7096,6 +7096,17 @@
 	},
 	{
 		"rank": 646,
+		"name": "https://www.tibia.com/community/?name=Sidhe%20Silverblade||Sidhe Silverblade",
+		"vocation": "Elite Knight",
+		"world": "Calmera",
+		"level": 678,
+		"achievementPoints": 967,
+		"charmPoints": 16275,
+		"bossPoints": 5325,
+		"averagePct": 54.86
+	},
+	{
+		"rank": 647,
 		"name": "https://www.tibia.com/community/?name=Arixy||Arixy",
 		"vocation": "Master Sorcerer",
 		"world": "Gladera",
@@ -7106,18 +7117,18 @@
 		"averagePct": 54.83
 	},
 	{
-		"rank": 647,
-		"name": "https://www.tibia.com/community/?name=Sidhe%20Silverblade||Sidhe Silverblade",
+		"rank": 648,
+		"name": "https://www.tibia.com/community/?name=Strikiz||Strikiz",
 		"vocation": "Elite Knight",
-		"world": "Calmera",
-		"level": 678,
-		"achievementPoints": 967,
-		"charmPoints": 16275,
-		"bossPoints": 5295,
+		"world": "Yonabra",
+		"level": 976,
+		"achievementPoints": 730,
+		"charmPoints": 13665,
+		"bossPoints": 12525,
 		"averagePct": 54.82
 	},
 	{
-		"rank": 648,
+		"rank": 649,
 		"name": "https://www.tibia.com/community/?name=Old%20Esgliks||Old Esgliks",
 		"vocation": "Royal Paladin",
 		"world": "Menera",
@@ -7128,7 +7139,7 @@
 		"averagePct": 54.81
 	},
 	{
-		"rank": 649,
+		"rank": 650,
 		"name": "https://www.tibia.com/community/?name=Nuura||Nuura",
 		"vocation": "Elite Knight",
 		"world": "Nevia",
@@ -7139,18 +7150,18 @@
 		"averagePct": 54.76
 	},
 	{
-		"rank": 650,
-		"name": "https://www.tibia.com/community/?name=Strikiz||Strikiz",
-		"vocation": "Elite Knight",
-		"world": "Yonabra",
-		"level": 976,
-		"achievementPoints": 730,
-		"charmPoints": 13665,
-		"bossPoints": 12465,
-		"averagePct": 54.74
+		"rank": 651,
+		"name": "https://www.tibia.com/community/?name=Anatim||Anatim",
+		"vocation": "Royal Paladin",
+		"world": "Thyria",
+		"level": 1160,
+		"achievementPoints": 1204,
+		"charmPoints": 12884,
+		"bossPoints": 4230,
+		"averagePct": 54.72
 	},
 	{
-		"rank": 651,
+		"rank": 652,
 		"name": "https://www.tibia.com/community/?name=Ezzio%20Walker||Ezzio Walker",
 		"vocation": "Royal Paladin",
 		"world": "Lobera",
@@ -7161,7 +7172,7 @@
 		"averagePct": 54.71
 	},
 	{
-		"rank": 651,
+		"rank": 652,
 		"name": "https://www.tibia.com/community/?name=Thor%20Skiz||Thor Skiz",
 		"vocation": "Elder Druid",
 		"world": "Calmera",
@@ -7172,7 +7183,7 @@
 		"averagePct": 54.71
 	},
 	{
-		"rank": 653,
+		"rank": 654,
 		"name": "https://www.tibia.com/community/?name=Lord'Danius||Lord'Danius",
 		"vocation": "Elite Knight",
 		"world": "Lobera",
@@ -7183,18 +7194,18 @@
 		"averagePct": 54.69
 	},
 	{
-		"rank": 654,
-		"name": "https://www.tibia.com/community/?name=Anatim||Anatim",
-		"vocation": "Royal Paladin",
-		"world": "Thyria",
-		"level": 1159,
-		"achievementPoints": 1204,
-		"charmPoints": 12884,
-		"bossPoints": 4200,
-		"averagePct": 54.67
+		"rank": 655,
+		"name": "https://www.tibia.com/community/?name=Maatii||Maatii",
+		"vocation": "Master Sorcerer",
+		"world": "Celesta",
+		"level": 1068,
+		"achievementPoints": 794,
+		"charmPoints": 10279,
+		"bossPoints": 14695,
+		"averagePct": 54.65
 	},
 	{
-		"rank": 655,
+		"rank": 656,
 		"name": "https://www.tibia.com/community/?name=Szybki%20Magownik||Szybki Magownik",
 		"vocation": "Master Sorcerer",
 		"world": "Damora",
@@ -7203,17 +7214,6 @@
 		"charmPoints": 15520,
 		"bossPoints": 4615,
 		"averagePct": 54.64
-	},
-	{
-		"rank": 656,
-		"name": "https://www.tibia.com/community/?name=Maatii||Maatii",
-		"vocation": "Master Sorcerer",
-		"world": "Celesta",
-		"level": 1068,
-		"achievementPoints": 794,
-		"charmPoints": 10279,
-		"bossPoints": 14635,
-		"averagePct": 54.57
 	},
 	{
 		"rank": 657,
@@ -7231,7 +7231,7 @@
 		"name": "https://www.tibia.com/community/?name=Guizz%20Nettdown||Guizz Nettdown",
 		"vocation": "Elder Druid",
 		"world": "Collabra",
-		"level": 1080,
+		"level": 1081,
 		"achievementPoints": 949,
 		"charmPoints": 21510,
 		"bossPoints": 0,
@@ -7261,17 +7261,28 @@
 	},
 	{
 		"rank": 661,
+		"name": "https://www.tibia.com/community/?name=Tharivol||Tharivol",
+		"vocation": "Royal Paladin",
+		"world": "Peloria",
+		"level": 860,
+		"achievementPoints": 862,
+		"charmPoints": 9174,
+		"bossPoints": 14435,
+		"averagePct": 54.5
+	},
+	{
+		"rank": 662,
 		"name": "https://www.tibia.com/community/?name=Tom%20Crawly%20Jurista||Tom Crawly Jurista",
 		"vocation": "Elder Druid",
 		"world": "Ferobra",
-		"level": 905,
+		"level": 906,
 		"achievementPoints": 1168,
 		"charmPoints": 12815,
 		"bossPoints": 4825,
 		"averagePct": 54.49
 	},
 	{
-		"rank": 661,
+		"rank": 662,
 		"name": "https://www.tibia.com/community/?name=Larnfar||Larnfar",
 		"vocation": "Master Sorcerer",
 		"world": "Yovera",
@@ -7280,17 +7291,6 @@
 		"charmPoints": 11950,
 		"bossPoints": 11850,
 		"averagePct": 54.49
-	},
-	{
-		"rank": 663,
-		"name": "https://www.tibia.com/community/?name=Tharivol||Tharivol",
-		"vocation": "Royal Paladin",
-		"world": "Peloria",
-		"level": 860,
-		"achievementPoints": 861,
-		"charmPoints": 9174,
-		"bossPoints": 14435,
-		"averagePct": 54.47
 	},
 	{
 		"rank": 664,
@@ -7319,7 +7319,7 @@
 		"name": "https://www.tibia.com/community/?name=Kohaminha||Kohaminha",
 		"vocation": "Elder Druid",
 		"world": "Nevia",
-		"level": 1297,
+		"level": 1298,
 		"achievementPoints": 577,
 		"charmPoints": 12399,
 		"bossPoints": 16480,
@@ -7415,6 +7415,17 @@
 	},
 	{
 		"rank": 675,
+		"name": "https://www.tibia.com/community/?name=Rzeznik%20Wedliniarz||Rzeznik Wedliniarz",
+		"vocation": "Elite Knight",
+		"world": "Secura",
+		"level": 1219,
+		"achievementPoints": 906,
+		"charmPoints": 10955,
+		"bossPoints": 11635,
+		"averagePct": 54.35
+	},
+	{
+		"rank": 676,
 		"name": "https://www.tibia.com/community/?name=Almighty%20Potrons||Almighty Potrons",
 		"vocation": "Royal Paladin",
 		"world": "Ustebra",
@@ -7425,7 +7436,7 @@
 		"averagePct": 54.34
 	},
 	{
-		"rank": 675,
+		"rank": 676,
 		"name": "https://www.tibia.com/community/?name=Szyszek%20Milord%20Black||Szyszek Milord Black",
 		"vocation": "Elder Druid",
 		"world": "Antica",
@@ -7434,17 +7445,6 @@
 		"charmPoints": 13465,
 		"bossPoints": 12300,
 		"averagePct": 54.34
-	},
-	{
-		"rank": 677,
-		"name": "https://www.tibia.com/community/?name=Rzeznik%20Wedliniarz||Rzeznik Wedliniarz",
-		"vocation": "Elite Knight",
-		"world": "Secura",
-		"level": 1219,
-		"achievementPoints": 906,
-		"charmPoints": 10955,
-		"bossPoints": 11625,
-		"averagePct": 54.33
 	},
 	{
 		"rank": 678,
@@ -7458,7 +7458,18 @@
 		"averagePct": 54.32
 	},
 	{
-		"rank": 679,
+		"rank": 678,
+		"name": "https://www.tibia.com/community/?name=Milo%20Ingrato||Milo Ingrato",
+		"vocation": "Elder Druid",
+		"world": "Quelibra",
+		"level": 876,
+		"achievementPoints": 893,
+		"charmPoints": 17200,
+		"bossPoints": 5380,
+		"averagePct": 54.32
+	},
+	{
+		"rank": 680,
 		"name": "https://www.tibia.com/community/?name=Das%20mix||Das mix",
 		"vocation": "Royal Paladin",
 		"world": "Nevia",
@@ -7469,7 +7480,7 @@
 		"averagePct": 54.31
 	},
 	{
-		"rank": 679,
+		"rank": 680,
 		"name": "https://www.tibia.com/community/?name=Dagor%20Zomi||Dagor Zomi",
 		"vocation": "Royal Paladin",
 		"world": "Premia",
@@ -7480,7 +7491,7 @@
 		"averagePct": 54.31
 	},
 	{
-		"rank": 681,
+		"rank": 682,
 		"name": "https://www.tibia.com/community/?name=Andre||Andre",
 		"vocation": "Elder Druid",
 		"world": "Menera",
@@ -7492,6 +7503,17 @@
 	},
 	{
 		"rank": 682,
+		"name": "https://www.tibia.com/community/?name=Tava%20Dur||Tava Dur",
+		"vocation": "Royal Paladin",
+		"world": "Celesta",
+		"level": 889,
+		"achievementPoints": 855,
+		"charmPoints": 12385,
+		"bossPoints": 11085,
+		"averagePct": 54.3
+	},
+	{
+		"rank": 684,
 		"name": "https://www.tibia.com/community/?name=Imitex||Imitex",
 		"vocation": "Master Sorcerer",
 		"world": "Vunira",
@@ -7502,18 +7524,7 @@
 		"averagePct": 54.29
 	},
 	{
-		"rank": 683,
-		"name": "https://www.tibia.com/community/?name=Milo%20Ingrato||Milo Ingrato",
-		"vocation": "Elder Druid",
-		"world": "Quelibra",
-		"level": 876,
-		"achievementPoints": 893,
-		"charmPoints": 17200,
-		"bossPoints": 5350,
-		"averagePct": 54.28
-	},
-	{
-		"rank": 684,
+		"rank": 685,
 		"name": "https://www.tibia.com/community/?name=Nexorr||Nexorr",
 		"vocation": "Royal Paladin",
 		"world": "Menera",
@@ -7524,7 +7535,7 @@
 		"averagePct": 54.24
 	},
 	{
-		"rank": 685,
+		"rank": 686,
 		"name": "https://www.tibia.com/community/?name=Makadamia||Makadamia",
 		"vocation": "Elder Druid",
 		"world": "Bona",
@@ -7535,18 +7546,18 @@
 		"averagePct": 54.23
 	},
 	{
-		"rank": 686,
+		"rank": 687,
 		"name": "https://www.tibia.com/community/?name=Meepoww||Meepoww",
 		"vocation": "Elite Knight",
 		"world": "Serdebra",
-		"level": 533,
+		"level": 534,
 		"achievementPoints": 1049,
 		"charmPoints": 13650,
 		"bossPoints": 6010,
 		"averagePct": 54.21
 	},
 	{
-		"rank": 687,
+		"rank": 688,
 		"name": "https://www.tibia.com/community/?name=Flor%20do%20Mar||Flor do Mar",
 		"vocation": "Elite Knight",
 		"world": "Lobera",
@@ -7557,7 +7568,7 @@
 		"averagePct": 54.19
 	},
 	{
-		"rank": 688,
+		"rank": 689,
 		"name": "https://www.tibia.com/community/?name=Burgger||Burgger",
 		"vocation": "Royal Paladin",
 		"world": "Ustebra",
@@ -7568,7 +7579,7 @@
 		"averagePct": 54.17
 	},
 	{
-		"rank": 689,
+		"rank": 690,
 		"name": "https://www.tibia.com/community/?name=Xande%20Tuning||Xande Tuning",
 		"vocation": "Elite Knight",
 		"world": "Astera",
@@ -7576,17 +7587,6 @@
 		"achievementPoints": 1033,
 		"charmPoints": 14480,
 		"bossPoints": 5415,
-		"averagePct": 54.16
-	},
-	{
-		"rank": 689,
-		"name": "https://www.tibia.com/community/?name=Tava%20Dur||Tava Dur",
-		"vocation": "Royal Paladin",
-		"world": "Celesta",
-		"level": 889,
-		"achievementPoints": 855,
-		"charmPoints": 12385,
-		"bossPoints": 10985,
 		"averagePct": 54.16
 	},
 	{
@@ -7748,7 +7748,7 @@
 		"name": "https://www.tibia.com/community/?name=Francamente||Francamente",
 		"vocation": "Elite Knight",
 		"world": "Yonabra",
-		"level": 862,
+		"level": 863,
 		"achievementPoints": 1138,
 		"charmPoints": 17605,
 		"bossPoints": 0,
@@ -7767,6 +7767,17 @@
 	},
 	{
 		"rank": 707,
+		"name": "https://www.tibia.com/community/?name=Korixos||Korixos",
+		"vocation": "Master Sorcerer",
+		"world": "Refugia",
+		"level": 996,
+		"achievementPoints": 645,
+		"charmPoints": 10329,
+		"bossPoints": 16935,
+		"averagePct": 53.91
+	},
+	{
+		"rank": 708,
 		"name": "https://www.tibia.com/community/?name=Frodoox||Frodoox",
 		"vocation": "Royal Paladin",
 		"world": "Thyria",
@@ -7777,7 +7788,7 @@
 		"averagePct": 53.9
 	},
 	{
-		"rank": 708,
+		"rank": 709,
 		"name": "https://www.tibia.com/community/?name=Jack%20Sensacional||Jack Sensacional",
 		"vocation": "Elite Knight",
 		"world": "Belobra",
@@ -7788,7 +7799,7 @@
 		"averagePct": 53.89
 	},
 	{
-		"rank": 709,
+		"rank": 710,
 		"name": "https://www.tibia.com/community/?name=Klemen||Klemen",
 		"vocation": "Elder Druid",
 		"world": "Bona",
@@ -7799,7 +7810,18 @@
 		"averagePct": 53.86
 	},
 	{
-		"rank": 710,
+		"rank": 711,
+		"name": "https://www.tibia.com/community/?name=Aran%20Gala||Aran Gala",
+		"vocation": "Elder Druid",
+		"world": "Damora",
+		"level": 856,
+		"achievementPoints": 711,
+		"charmPoints": 12110,
+		"bossPoints": 13780,
+		"averagePct": 53.85
+	},
+	{
+		"rank": 712,
 		"name": "https://www.tibia.com/community/?name=Koso||Koso",
 		"vocation": "Royal Paladin",
 		"world": "Yonabra",
@@ -7810,18 +7832,7 @@
 		"averagePct": 53.83
 	},
 	{
-		"rank": 710,
-		"name": "https://www.tibia.com/community/?name=Korixos||Korixos",
-		"vocation": "Master Sorcerer",
-		"world": "Refugia",
-		"level": 996,
-		"achievementPoints": 645,
-		"charmPoints": 10329,
-		"bossPoints": 16875,
-		"averagePct": 53.83
-	},
-	{
-		"rank": 712,
+		"rank": 713,
 		"name": "https://www.tibia.com/community/?name=Jablonzor||Jablonzor",
 		"vocation": "Elite Knight",
 		"world": "Inabra",
@@ -7832,7 +7843,7 @@
 		"averagePct": 53.82
 	},
 	{
-		"rank": 713,
+		"rank": 714,
 		"name": "https://www.tibia.com/community/?name=Fely%20army||Fely army",
 		"vocation": "Elite Knight",
 		"world": "Bona",
@@ -7843,7 +7854,7 @@
 		"averagePct": 53.81
 	},
 	{
-		"rank": 713,
+		"rank": 714,
 		"name": "https://www.tibia.com/community/?name=Sparkr||Sparkr",
 		"vocation": "Elder Druid",
 		"world": "Ustebra",
@@ -7852,17 +7863,6 @@
 		"charmPoints": 12673,
 		"bossPoints": 14960,
 		"averagePct": 53.81
-	},
-	{
-		"rank": 715,
-		"name": "https://www.tibia.com/community/?name=Aran%20Gala||Aran Gala",
-		"vocation": "Elder Druid",
-		"world": "Damora",
-		"level": 856,
-		"achievementPoints": 711,
-		"charmPoints": 12110,
-		"bossPoints": 13720,
-		"averagePct": 53.77
 	},
 	{
 		"rank": 716,
@@ -7888,6 +7888,17 @@
 	},
 	{
 		"rank": 718,
+		"name": "https://www.tibia.com/community/?name=Druid%20Fullcharllover||Druid Fullcharllover",
+		"vocation": "Elder Druid",
+		"world": "Epoca",
+		"level": 950,
+		"achievementPoints": 1237,
+		"charmPoints": 7472,
+		"bossPoints": 8500,
+		"averagePct": 53.74
+	},
+	{
+		"rank": 718,
 		"name": "https://www.tibia.com/community/?name=Wars%20Stephy||Wars Stephy",
 		"vocation": "Elite Knight",
 		"world": "Gladera",
@@ -7896,17 +7907,6 @@
 		"charmPoints": 9670,
 		"bossPoints": 12065,
 		"averagePct": 53.74
-	},
-	{
-		"rank": 719,
-		"name": "https://www.tibia.com/community/?name=Druid%20Fullcharllover||Druid Fullcharllover",
-		"vocation": "Elder Druid",
-		"world": "Epoca",
-		"level": 951,
-		"achievementPoints": 1237,
-		"charmPoints": 7472,
-		"bossPoints": 8490,
-		"averagePct": 53.72
 	},
 	{
 		"rank": 720,
@@ -8012,7 +8012,7 @@
 		"name": "https://www.tibia.com/community/?name=Zaporkovsky||Zaporkovsky",
 		"vocation": "Elite Knight",
 		"world": "Damora",
-		"level": 843,
+		"level": 844,
 		"achievementPoints": 856,
 		"charmPoints": 17210,
 		"bossPoints": 5480,
@@ -8056,7 +8056,7 @@
 		"name": "https://www.tibia.com/community/?name=King%20Infinytum||King Infinytum",
 		"vocation": "Elite Knight",
 		"world": "Yonabra",
-		"level": 1826,
+		"level": 1827,
 		"achievementPoints": 1052,
 		"charmPoints": 18845,
 		"bossPoints": 0,
@@ -8064,17 +8064,28 @@
 	},
 	{
 		"rank": 734,
+		"name": "https://www.tibia.com/community/?name=Markelito||Markelito",
+		"vocation": "Elite Knight",
+		"world": "Celesta",
+		"level": 1421,
+		"achievementPoints": 934,
+		"charmPoints": 13245,
+		"bossPoints": 8060,
+		"averagePct": 53.45
+	},
+	{
+		"rank": 735,
 		"name": "https://www.tibia.com/community/?name=Alluring%20Sapphire||Alluring Sapphire",
 		"vocation": "Elder Druid",
 		"world": "Refugia",
-		"level": 817,
+		"level": 818,
 		"achievementPoints": 1181,
 		"charmPoints": 12600,
 		"bossPoints": 4010,
 		"averagePct": 53.43
 	},
 	{
-		"rank": 734,
+		"rank": 735,
 		"name": "https://www.tibia.com/community/?name=Fir%20ion||Fir ion",
 		"vocation": "Royal Paladin",
 		"world": "Yonabra",
@@ -8085,7 +8096,7 @@
 		"averagePct": 53.43
 	},
 	{
-		"rank": 736,
+		"rank": 737,
 		"name": "https://www.tibia.com/community/?name=Wiglaf%20Heimdall||Wiglaf Heimdall",
 		"vocation": "Knight",
 		"world": "Calmera",
@@ -8096,7 +8107,7 @@
 		"averagePct": 53.4
 	},
 	{
-		"rank": 737,
+		"rank": 738,
 		"name": "https://www.tibia.com/community/?name=Holy%20Viped||Holy Viped",
 		"vocation": "Royal Paladin",
 		"world": "Damora",
@@ -8107,7 +8118,7 @@
 		"averagePct": 53.39
 	},
 	{
-		"rank": 738,
+		"rank": 739,
 		"name": "https://www.tibia.com/community/?name=Sootkas||Sootkas",
 		"vocation": "Elite Knight",
 		"world": "Harmonia",
@@ -8118,18 +8129,7 @@
 		"averagePct": 53.38
 	},
 	{
-		"rank": 739,
-		"name": "https://www.tibia.com/community/?name=Markelito||Markelito",
-		"vocation": "Elite Knight",
-		"world": "Celesta",
-		"level": 1421,
-		"achievementPoints": 932,
-		"charmPoints": 13245,
-		"bossPoints": 8030,
-		"averagePct": 53.36
-	},
-	{
-		"rank": 739,
+		"rank": 740,
 		"name": "https://www.tibia.com/community/?name=Misto%20Lejo||Misto Lejo",
 		"vocation": "Elder Druid",
 		"world": "Collabra",
@@ -8163,6 +8163,17 @@
 	},
 	{
 		"rank": 743,
+		"name": "https://www.tibia.com/community/?name=Marisol%20Linzz||Marisol Linzz",
+		"vocation": "Royal Paladin",
+		"world": "Serdebra",
+		"level": 600,
+		"achievementPoints": 1003,
+		"charmPoints": 8910,
+		"bossPoints": 11140,
+		"averagePct": 53.3
+	},
+	{
+		"rank": 744,
 		"name": "https://www.tibia.com/community/?name=Galvarg||Galvarg",
 		"vocation": "Elite Knight",
 		"world": "Antica",
@@ -8173,18 +8184,18 @@
 		"averagePct": 53.29
 	},
 	{
-		"rank": 744,
+		"rank": 745,
 		"name": "https://www.tibia.com/community/?name=Pan%20Kada||Pan Kada",
 		"vocation": "Elite Knight",
 		"world": "Quelibra",
-		"level": 930,
+		"level": 931,
 		"achievementPoints": 872,
 		"charmPoints": 13899,
 		"bossPoints": 8430,
 		"averagePct": 53.27
 	},
 	{
-		"rank": 744,
+		"rank": 745,
 		"name": "https://www.tibia.com/community/?name=Helmind||Helmind",
 		"vocation": "Elite Knight",
 		"world": "Calmera",
@@ -8195,7 +8206,7 @@
 		"averagePct": 53.27
 	},
 	{
-		"rank": 746,
+		"rank": 747,
 		"name": "https://www.tibia.com/community/?name=Parcel%20Piotrek||Parcel Piotrek",
 		"vocation": "Elder Druid",
 		"world": "Harmonia",
@@ -8206,7 +8217,7 @@
 		"averagePct": 53.25
 	},
 	{
-		"rank": 747,
+		"rank": 748,
 		"name": "https://www.tibia.com/community/?name=Stingueto||Stingueto",
 		"vocation": "Elite Knight",
 		"world": "Collabra",
@@ -8215,17 +8226,6 @@
 		"charmPoints": 11450,
 		"bossPoints": 8930,
 		"averagePct": 53.24
-	},
-	{
-		"rank": 748,
-		"name": "https://www.tibia.com/community/?name=Marisol%20Linzz||Marisol Linzz",
-		"vocation": "Royal Paladin",
-		"world": "Serdebra",
-		"level": 600,
-		"achievementPoints": 1003,
-		"charmPoints": 8910,
-		"bossPoints": 11080,
-		"averagePct": 53.22
 	},
 	{
 		"rank": 749,
@@ -8243,7 +8243,7 @@
 		"name": "https://www.tibia.com/community/?name=Arcane%20Acan||Arcane Acan",
 		"vocation": "Elite Knight",
 		"world": "Secura",
-		"level": 734,
+		"level": 735,
 		"achievementPoints": 1061,
 		"charmPoints": 18500,
 		"bossPoints": 0,
@@ -8273,6 +8273,17 @@
 	},
 	{
 		"rank": 753,
+		"name": "https://www.tibia.com/community/?name=Pdrao||Pdrao",
+		"vocation": "Elder Druid",
+		"world": "Gladera",
+		"level": 877,
+		"achievementPoints": 962,
+		"charmPoints": 10600,
+		"bossPoints": 9990,
+		"averagePct": 53.07
+	},
+	{
+		"rank": 754,
 		"name": "https://www.tibia.com/community/?name=Sasza%20Druid||Sasza Druid",
 		"vocation": "Elder Druid",
 		"world": "Monza",
@@ -8283,7 +8294,7 @@
 		"averagePct": 53.06
 	},
 	{
-		"rank": 754,
+		"rank": 755,
 		"name": "https://www.tibia.com/community/?name=Nystek||Nystek",
 		"vocation": "Royal Paladin",
 		"world": "Gentebra",
@@ -8294,7 +8305,7 @@
 		"averagePct": 53.05
 	},
 	{
-		"rank": 754,
+		"rank": 755,
 		"name": "https://www.tibia.com/community/?name=Marroa%20Tche||Marroa Tche",
 		"vocation": "Elder Druid",
 		"world": "Gladera",
@@ -8303,17 +8314,6 @@
 		"charmPoints": 7905,
 		"bossPoints": 13325,
 		"averagePct": 53.05
-	},
-	{
-		"rank": 756,
-		"name": "https://www.tibia.com/community/?name=Pdrao||Pdrao",
-		"vocation": "Elder Druid",
-		"world": "Gladera",
-		"level": 877,
-		"achievementPoints": 962,
-		"charmPoints": 10600,
-		"bossPoints": 9960,
-		"averagePct": 53.02
 	},
 	{
 		"rank": 757,
@@ -8339,6 +8339,17 @@
 	},
 	{
 		"rank": 758,
+		"name": "https://www.tibia.com/community/?name=Mazzor||Mazzor",
+		"vocation": "Royal Paladin",
+		"world": "Ustebra",
+		"level": 837,
+		"achievementPoints": 713,
+		"charmPoints": 16500,
+		"bossPoints": 8545,
+		"averagePct": 52.99
+	},
+	{
+		"rank": 759,
 		"name": "https://www.tibia.com/community/?name=Royal%20of%20Darknes||Royal of Darknes",
 		"vocation": "Royal Paladin",
 		"world": "Jadebra",
@@ -8349,7 +8360,7 @@
 		"averagePct": 52.99
 	},
 	{
-		"rank": 760,
+		"rank": 761,
 		"name": "https://www.tibia.com/community/?name=King%20Roszi||King Roszi",
 		"vocation": "Elder Druid",
 		"world": "Harmonia",
@@ -8360,7 +8371,7 @@
 		"averagePct": 52.98
 	},
 	{
-		"rank": 761,
+		"rank": 762,
 		"name": "https://www.tibia.com/community/?name=Sborr||Sborr",
 		"vocation": "Royal Paladin",
 		"world": "Jadebra",
@@ -8371,7 +8382,7 @@
 		"averagePct": 52.97
 	},
 	{
-		"rank": 762,
+		"rank": 763,
 		"name": "https://www.tibia.com/community/?name=Sword%20Fighting%20Club||Sword Fighting Club",
 		"vocation": "Knight",
 		"world": "Serdebra",
@@ -8382,7 +8393,7 @@
 		"averagePct": 52.94
 	},
 	{
-		"rank": 763,
+		"rank": 764,
 		"name": "https://www.tibia.com/community/?name=Maajek||Maajek",
 		"vocation": "Royal Paladin",
 		"world": "Refugia",
@@ -8393,7 +8404,7 @@
 		"averagePct": 52.93
 	},
 	{
-		"rank": 764,
+		"rank": 765,
 		"name": "https://www.tibia.com/community/?name=Cemdedoz||Cemdedoz",
 		"vocation": "Elder Druid",
 		"world": "Lutabra",
@@ -8404,7 +8415,7 @@
 		"averagePct": 52.92
 	},
 	{
-		"rank": 764,
+		"rank": 765,
 		"name": "https://www.tibia.com/community/?name=Eternal%20Ichigo%20Kurosaki||Eternal Ichigo Kurosaki",
 		"vocation": "Elite Knight",
 		"world": "Astera",
@@ -8413,17 +8424,6 @@
 		"charmPoints": 14505,
 		"bossPoints": 6525,
 		"averagePct": 52.92
-	},
-	{
-		"rank": 766,
-		"name": "https://www.tibia.com/community/?name=Mazzor||Mazzor",
-		"vocation": "Royal Paladin",
-		"world": "Ustebra",
-		"level": 837,
-		"achievementPoints": 713,
-		"charmPoints": 16500,
-		"bossPoints": 8485,
-		"averagePct": 52.91
 	},
 	{
 		"rank": 767,
@@ -8503,7 +8503,18 @@
 		"averagePct": 52.77
 	},
 	{
-		"rank": 774,
+		"rank": 773,
+		"name": "https://www.tibia.com/community/?name=Kaos%20Boss||Kaos Boss",
+		"vocation": "Elite Knight",
+		"world": "Nefera",
+		"level": 715,
+		"achievementPoints": 789,
+		"charmPoints": 9593,
+		"bossPoints": 14110,
+		"averagePct": 52.77
+	},
+	{
+		"rank": 775,
 		"name": "https://www.tibia.com/community/?name=Sio%20Am||Sio Am",
 		"vocation": "Elder Druid",
 		"world": "Vunira",
@@ -8515,28 +8526,39 @@
 	},
 	{
 		"rank": 775,
-		"name": "https://www.tibia.com/community/?name=Kaos%20Boss||Kaos Boss",
-		"vocation": "Elite Knight",
-		"world": "Nefera",
-		"level": 715,
-		"achievementPoints": 789,
-		"charmPoints": 9593,
-		"bossPoints": 14050,
-		"averagePct": 52.69
-	},
-	{
-		"rank": 776,
 		"name": "https://www.tibia.com/community/?name=Luanpt||Luanpt",
 		"vocation": "Royal Paladin",
 		"world": "Damora",
 		"level": 521,
 		"achievementPoints": 1000,
 		"charmPoints": 11545,
-		"bossPoints": 7995,
-		"averagePct": 52.68
+		"bossPoints": 8055,
+		"averagePct": 52.76
 	},
 	{
 		"rank": 777,
+		"name": "https://www.tibia.com/community/?name=Tulai||Tulai",
+		"vocation": "Royal Paladin",
+		"world": "Antica",
+		"level": 946,
+		"achievementPoints": 702,
+		"charmPoints": 9865,
+		"bossPoints": 15445,
+		"averagePct": 52.71
+	},
+	{
+		"rank": 778,
+		"name": "https://www.tibia.com/community/?name=Nykki%20Storm||Nykki Storm",
+		"vocation": "Elite Knight",
+		"world": "Belobra",
+		"level": 1072,
+		"achievementPoints": 1009,
+		"charmPoints": 13165,
+		"bossPoints": 6160,
+		"averagePct": 52.7
+	},
+	{
+		"rank": 779,
 		"name": "https://www.tibia.com/community/?name=Cluutter||Cluutter",
 		"vocation": "Royal Paladin",
 		"world": "Gentebra",
@@ -8547,18 +8569,18 @@
 		"averagePct": 52.65
 	},
 	{
-		"rank": 778,
-		"name": "https://www.tibia.com/community/?name=Tulai||Tulai",
+		"rank": 780,
+		"name": "https://www.tibia.com/community/?name=Mysth%20Arrogante||Mysth Arrogante",
 		"vocation": "Royal Paladin",
-		"world": "Antica",
-		"level": 946,
-		"achievementPoints": 702,
-		"charmPoints": 9815,
-		"bossPoints": 15445,
+		"world": "Ferobra",
+		"level": 700,
+		"achievementPoints": 979,
+		"charmPoints": 9650,
+		"bossPoints": 10340,
 		"averagePct": 52.64
 	},
 	{
-		"rank": 779,
+		"rank": 781,
 		"name": "https://www.tibia.com/community/?name=Silent%20Specter||Silent Specter",
 		"vocation": "Elite Knight",
 		"world": "Quintera",
@@ -8569,7 +8591,7 @@
 		"averagePct": 52.63
 	},
 	{
-		"rank": 780,
+		"rank": 782,
 		"name": "https://www.tibia.com/community/?name=Salvajitah||Salvajitah",
 		"vocation": "Royal Paladin",
 		"world": "Astera",
@@ -8580,18 +8602,7 @@
 		"averagePct": 52.6
 	},
 	{
-		"rank": 781,
-		"name": "https://www.tibia.com/community/?name=Nykki%20Storm||Nykki Storm",
-		"vocation": "Elite Knight",
-		"world": "Belobra",
-		"level": 1072,
-		"achievementPoints": 1009,
-		"charmPoints": 13165,
-		"bossPoints": 6070,
-		"averagePct": 52.58
-	},
-	{
-		"rank": 781,
+		"rank": 783,
 		"name": "https://www.tibia.com/community/?name=Waleczny%20Adas||Waleczny Adas",
 		"vocation": "Master Sorcerer",
 		"world": "Refugia",
@@ -8602,7 +8613,7 @@
 		"averagePct": 52.58
 	},
 	{
-		"rank": 783,
+		"rank": 784,
 		"name": "https://www.tibia.com/community/?name=Kiromaniackz||Kiromaniackz",
 		"vocation": "Elder Druid",
 		"world": "Nefera",
@@ -8613,18 +8624,18 @@
 		"averagePct": 52.57
 	},
 	{
-		"rank": 783,
-		"name": "https://www.tibia.com/community/?name=Mysth%20Arrogante||Mysth Arrogante",
-		"vocation": "Royal Paladin",
-		"world": "Ferobra",
-		"level": 699,
-		"achievementPoints": 979,
-		"charmPoints": 9600,
-		"bossPoints": 10340,
+		"rank": 784,
+		"name": "https://www.tibia.com/community/?name=Revaux%20el%20Mito||Revaux el Mito",
+		"vocation": "Master Sorcerer",
+		"world": "Obscubra",
+		"level": 632,
+		"achievementPoints": 877,
+		"charmPoints": 8910,
+		"bossPoints": 12995,
 		"averagePct": 52.57
 	},
 	{
-		"rank": 785,
+		"rank": 786,
 		"name": "https://www.tibia.com/community/?name=Rekovni||Rekovni",
 		"vocation": "Elder Druid",
 		"world": "Belobra",
@@ -8635,7 +8646,7 @@
 		"averagePct": 52.56
 	},
 	{
-		"rank": 786,
+		"rank": 787,
 		"name": "https://www.tibia.com/community/?name=Dark%20Filgueira||Dark Filgueira",
 		"vocation": "Master Sorcerer",
 		"world": "Secura",
@@ -8646,7 +8657,7 @@
 		"averagePct": 52.52
 	},
 	{
-		"rank": 787,
+		"rank": 788,
 		"name": "https://www.tibia.com/community/?name=Ghazann||Ghazann",
 		"vocation": "Elite Knight",
 		"world": "Luminera",
@@ -8657,7 +8668,7 @@
 		"averagePct": 52.5
 	},
 	{
-		"rank": 788,
+		"rank": 789,
 		"name": "https://www.tibia.com/community/?name=Ludleth||Ludleth",
 		"vocation": "Elder Druid",
 		"world": "Belobra",
@@ -8668,7 +8679,7 @@
 		"averagePct": 52.46
 	},
 	{
-		"rank": 789,
+		"rank": 790,
 		"name": "https://www.tibia.com/community/?name=Byte%20Ones||Byte Ones",
 		"vocation": "Elder Druid",
 		"world": "Yovera",
@@ -8679,7 +8690,7 @@
 		"averagePct": 52.45
 	},
 	{
-		"rank": 790,
+		"rank": 791,
 		"name": "https://www.tibia.com/community/?name=Royal%20Raczkoo||Royal Raczkoo",
 		"vocation": "Royal Paladin",
 		"world": "Thyria",
@@ -8690,7 +8701,7 @@
 		"averagePct": 52.44
 	},
 	{
-		"rank": 791,
+		"rank": 792,
 		"name": "https://www.tibia.com/community/?name=Temari'Fender||Temari'Fender",
 		"vocation": "Elder Druid",
 		"world": "Yonabra",
@@ -8701,7 +8712,7 @@
 		"averagePct": 52.43
 	},
 	{
-		"rank": 792,
+		"rank": 793,
 		"name": "https://www.tibia.com/community/?name=Nozki%20Voa||Nozki Voa",
 		"vocation": "Master Sorcerer",
 		"world": "Serdebra",
@@ -8712,7 +8723,7 @@
 		"averagePct": 52.41
 	},
 	{
-		"rank": 793,
+		"rank": 794,
 		"name": "https://www.tibia.com/community/?name=Kuro%20Krystian||Kuro Krystian",
 		"vocation": "Master Sorcerer",
 		"world": "Harmonia",
@@ -8723,7 +8734,18 @@
 		"averagePct": 52.37
 	},
 	{
-		"rank": 794,
+		"rank": 795,
+		"name": "https://www.tibia.com/community/?name=Pizzabuddy||Pizzabuddy",
+		"vocation": "Elite Knight",
+		"world": "Nevia",
+		"level": 583,
+		"achievementPoints": 911,
+		"charmPoints": 10274,
+		"bossPoints": 10765,
+		"averagePct": 52.34
+	},
+	{
+		"rank": 795,
 		"name": "https://www.tibia.com/community/?name=Kenpachy%20Zarakii||Kenpachy Zarakii",
 		"vocation": "Elder Druid",
 		"world": "Ustebra",
@@ -8734,18 +8756,18 @@
 		"averagePct": 52.34
 	},
 	{
-		"rank": 795,
-		"name": "https://www.tibia.com/community/?name=Pizzabuddy||Pizzabuddy",
-		"vocation": "Elite Knight",
-		"world": "Nevia",
-		"level": 583,
-		"achievementPoints": 911,
-		"charmPoints": 10274,
-		"bossPoints": 10755,
+		"rank": 797,
+		"name": "https://www.tibia.com/community/?name=Hexed||Hexed",
+		"vocation": "Royal Paladin",
+		"world": "Kalibra",
+		"level": 1066,
+		"achievementPoints": 905,
+		"charmPoints": 15540,
+		"bossPoints": 5395,
 		"averagePct": 52.33
 	},
 	{
-		"rank": 796,
+		"rank": 798,
 		"name": "https://www.tibia.com/community/?name=Roffa%20Almighty||Roffa Almighty",
 		"vocation": "Elite Knight",
 		"world": "Vunira",
@@ -8756,18 +8778,18 @@
 		"averagePct": 52.32
 	},
 	{
-		"rank": 796,
-		"name": "https://www.tibia.com/community/?name=Revaux%20el%20Mito||Revaux el Mito",
-		"vocation": "Master Sorcerer",
-		"world": "Obscubra",
-		"level": 632,
-		"achievementPoints": 877,
-		"charmPoints": 8845,
-		"bossPoints": 12875,
+		"rank": 798,
+		"name": "https://www.tibia.com/community/?name=Alfonses||Alfonses",
+		"vocation": "Royal Paladin",
+		"world": "Vunira",
+		"level": 710,
+		"achievementPoints": 696,
+		"charmPoints": 12600,
+		"bossPoints": 12425,
 		"averagePct": 52.32
 	},
 	{
-		"rank": 798,
+		"rank": 800,
 		"name": "https://www.tibia.com/community/?name=Ostry%20Szacun||Ostry Szacun",
 		"vocation": "Master Sorcerer",
 		"world": "Celesta",
@@ -8778,7 +8800,7 @@
 		"averagePct": 52.31
 	},
 	{
-		"rank": 798,
+		"rank": 800,
 		"name": "https://www.tibia.com/community/?name=Sharp%20Shotr||Sharp Shotr",
 		"vocation": "Royal Paladin",
 		"world": "Yovera",
@@ -8789,7 +8811,7 @@
 		"averagePct": 52.31
 	},
 	{
-		"rank": 800,
+		"rank": 802,
 		"name": "https://www.tibia.com/community/?name=Lady%20Iselii||Lady Iselii",
 		"vocation": "Master Sorcerer",
 		"world": "Harmonia",
@@ -8800,18 +8822,18 @@
 		"averagePct": 52.3
 	},
 	{
-		"rank": 801,
-		"name": "https://www.tibia.com/community/?name=Hexed||Hexed",
+		"rank": 803,
+		"name": "https://www.tibia.com/community/?name=Tizto||Tizto",
 		"vocation": "Royal Paladin",
-		"world": "Kalibra",
-		"level": 1066,
-		"achievementPoints": 905,
-		"charmPoints": 15540,
-		"bossPoints": 5365,
+		"world": "Havera",
+		"level": 753,
+		"achievementPoints": 1022,
+		"charmPoints": 10072,
+		"bossPoints": 8820,
 		"averagePct": 52.29
 	},
 	{
-		"rank": 802,
+		"rank": 804,
 		"name": "https://www.tibia.com/community/?name=Elder%20Maxi||Elder Maxi",
 		"vocation": "Elder Druid",
 		"world": "Menera",
@@ -8822,7 +8844,7 @@
 		"averagePct": 52.28
 	},
 	{
-		"rank": 803,
+		"rank": 805,
 		"name": "https://www.tibia.com/community/?name=Navinha||Navinha",
 		"vocation": "Elder Druid",
 		"world": "Pacera",
@@ -8833,40 +8855,40 @@
 		"averagePct": 52.26
 	},
 	{
-		"rank": 803,
-		"name": "https://www.tibia.com/community/?name=Tizto||Tizto",
-		"vocation": "Royal Paladin",
-		"world": "Havera",
-		"level": 753,
-		"achievementPoints": 1022,
-		"charmPoints": 10047,
-		"bossPoints": 8820,
-		"averagePct": 52.26
-	},
-	{
-		"rank": 805,
+		"rank": 806,
 		"name": "https://www.tibia.com/community/?name=Little%20Walking%20Teddy||Little Walking Teddy",
 		"vocation": "Royal Paladin",
 		"world": "Yonabra",
-		"level": 926,
+		"level": 927,
 		"achievementPoints": 838,
 		"charmPoints": 11084,
 		"bossPoints": 11225,
 		"averagePct": 52.23
 	},
 	{
-		"rank": 805,
+		"rank": 806,
+		"name": "https://www.tibia.com/community/?name=Psychozaa||Psychozaa",
+		"vocation": "Elite Knight",
+		"world": "Secura",
+		"level": 1195,
+		"achievementPoints": 811,
+		"charmPoints": 11139,
+		"bossPoints": 11685,
+		"averagePct": 52.23
+	},
+	{
+		"rank": 807,
 		"name": "https://www.tibia.com/community/?name=Nohand%20Bumbelek||Nohand Bumbelek",
 		"vocation": "Elite Knight",
 		"world": "Kendria",
-		"level": 959,
+		"level": 960,
 		"achievementPoints": 657,
 		"charmPoints": 13560,
 		"bossPoints": 12105,
 		"averagePct": 52.23
 	},
 	{
-		"rank": 807,
+		"rank": 809,
 		"name": "https://www.tibia.com/community/?name=Peluixet%20Destroyer||Peluixet Destroyer",
 		"vocation": "Elite Knight",
 		"world": "Vunira",
@@ -8877,7 +8899,7 @@
 		"averagePct": 52.22
 	},
 	{
-		"rank": 807,
+		"rank": 809,
 		"name": "https://www.tibia.com/community/?name=Aegoth%20Darko||Aegoth Darko",
 		"vocation": "Master Sorcerer",
 		"world": "Havera",
@@ -8888,7 +8910,7 @@
 		"averagePct": 52.22
 	},
 	{
-		"rank": 809,
+		"rank": 811,
 		"name": "https://www.tibia.com/community/?name=Maestro%20Sueco||Maestro Sueco",
 		"vocation": "Elder Druid",
 		"world": "Pacera",
@@ -8899,18 +8921,7 @@
 		"averagePct": 52.19
 	},
 	{
-		"rank": 809,
-		"name": "https://www.tibia.com/community/?name=Alfonses||Alfonses",
-		"vocation": "Royal Paladin",
-		"world": "Vunira",
-		"level": 710,
-		"achievementPoints": 696,
-		"charmPoints": 12600,
-		"bossPoints": 12325,
-		"averagePct": 52.19
-	},
-	{
-		"rank": 811,
+		"rank": 812,
 		"name": "https://www.tibia.com/community/?name=Xuliao%20Overlure||Xuliao Overlure",
 		"vocation": "Royal Paladin",
 		"world": "Belobra",
@@ -8918,17 +8929,6 @@
 		"achievementPoints": 1052,
 		"charmPoints": 14280,
 		"bossPoints": 3800,
-		"averagePct": 52.18
-	},
-	{
-		"rank": 811,
-		"name": "https://www.tibia.com/community/?name=Psychozaa||Psychozaa",
-		"vocation": "Elite Knight",
-		"world": "Secura",
-		"level": 1195,
-		"achievementPoints": 811,
-		"charmPoints": 11139,
-		"bossPoints": 11645,
 		"averagePct": 52.18
 	},
 	{
@@ -8966,6 +8966,28 @@
 	},
 	{
 		"rank": 816,
+		"name": "https://www.tibia.com/community/?name=Orle%20Gniazdo||Orle Gniazdo",
+		"vocation": "Elite Knight",
+		"world": "Antica",
+		"level": 1347,
+		"achievementPoints": 922,
+		"charmPoints": 10334,
+		"bossPoints": 10320,
+		"averagePct": 52.11
+	},
+	{
+		"rank": 817,
+		"name": "https://www.tibia.com/community/?name=Ricorina||Ricorina",
+		"vocation": "Master Sorcerer",
+		"world": "Thyria",
+		"level": 483,
+		"achievementPoints": 1103,
+		"charmPoints": 10715,
+		"bossPoints": 6465,
+		"averagePct": 52.09
+	},
+	{
+		"rank": 818,
 		"name": "https://www.tibia.com/community/?name=Towly||Towly",
 		"vocation": "Royal Paladin",
 		"world": "Nefera",
@@ -8976,7 +8998,18 @@
 		"averagePct": 52.08
 	},
 	{
-		"rank": 817,
+		"rank": 818,
+		"name": "https://www.tibia.com/community/?name=Nathanzito||Nathanzito",
+		"vocation": "Elite Knight",
+		"world": "Lutabra",
+		"level": 387,
+		"achievementPoints": 991,
+		"charmPoints": 6460,
+		"bossPoints": 13005,
+		"averagePct": 52.08
+	},
+	{
+		"rank": 820,
 		"name": "https://www.tibia.com/community/?name=Newubii%20Drakell||Newubii Drakell",
 		"vocation": "Elder Druid",
 		"world": "Rasteibra",
@@ -8987,7 +9020,7 @@
 		"averagePct": 52.07
 	},
 	{
-		"rank": 817,
+		"rank": 820,
 		"name": "https://www.tibia.com/community/?name=Death%20Rayne||Death Rayne",
 		"vocation": "Elder Druid",
 		"world": "Firmera",
@@ -8998,48 +9031,15 @@
 		"averagePct": 52.07
 	},
 	{
-		"rank": 818,
+		"rank": 821,
 		"name": "https://www.tibia.com/community/?name=Hatie||Hatie",
 		"vocation": "Elite Knight",
 		"world": "Monza",
-		"level": 1484,
+		"level": 1485,
 		"achievementPoints": 1011,
 		"charmPoints": 12865,
 		"bossPoints": 5965,
 		"averagePct": 52.07
-	},
-	{
-		"rank": 820,
-		"name": "https://www.tibia.com/community/?name=Ricorina||Ricorina",
-		"vocation": "Master Sorcerer",
-		"world": "Thyria",
-		"level": 483,
-		"achievementPoints": 1103,
-		"charmPoints": 10715,
-		"bossPoints": 6435,
-		"averagePct": 52.05
-	},
-	{
-		"rank": 821,
-		"name": "https://www.tibia.com/community/?name=Nathanzito||Nathanzito",
-		"vocation": "Elite Knight",
-		"world": "Lutabra",
-		"level": 387,
-		"achievementPoints": 991,
-		"charmPoints": 6460,
-		"bossPoints": 12965,
-		"averagePct": 52.02
-	},
-	{
-		"rank": 821,
-		"name": "https://www.tibia.com/community/?name=Orle%20Gniazdo||Orle Gniazdo",
-		"vocation": "Elite Knight",
-		"world": "Antica",
-		"level": 1347,
-		"achievementPoints": 922,
-		"charmPoints": 10334,
-		"bossPoints": 10250,
-		"averagePct": 52.02
 	},
 	{
 		"rank": 823,
@@ -9079,7 +9079,7 @@
 		"name": "https://www.tibia.com/community/?name=Cawi%20Ratka||Cawi Ratka",
 		"vocation": "Royal Paladin",
 		"world": "Nadora",
-		"level": 603,
+		"level": 604,
 		"achievementPoints": 1029,
 		"charmPoints": 10133,
 		"bossPoints": 8395,
@@ -9156,7 +9156,7 @@
 		"name": "https://www.tibia.com/community/?name=Higgaun||Higgaun",
 		"vocation": "Elder Druid",
 		"world": "Wildera",
-		"level": 1010,
+		"level": 1011,
 		"achievementPoints": 1018,
 		"charmPoints": 11195,
 		"bossPoints": 7415,
@@ -9236,8 +9236,8 @@
 		"level": 1242,
 		"achievementPoints": 761,
 		"charmPoints": 12935,
-		"bossPoints": 10435,
-		"averagePct": 51.78
+		"bossPoints": 10450,
+		"averagePct": 51.8
 	},
 	{
 		"rank": 841,
@@ -9277,7 +9277,7 @@
 		"name": "https://www.tibia.com/community/?name=Mogul%20Khan||Mogul Khan",
 		"vocation": "Elite Knight",
 		"world": "Yonabra",
-		"level": 1095,
+		"level": 1096,
 		"achievementPoints": 884,
 		"charmPoints": 20685,
 		"bossPoints": 0,
@@ -9296,6 +9296,17 @@
 	},
 	{
 		"rank": 846,
+		"name": "https://www.tibia.com/community/?name=Ariuk||Ariuk",
+		"vocation": "Elite Knight",
+		"world": "Menera",
+		"level": 698,
+		"achievementPoints": 970,
+		"charmPoints": 8553,
+		"bossPoints": 10950,
+		"averagePct": 51.7
+	},
+	{
+		"rank": 846,
 		"name": "https://www.tibia.com/community/?name=Terrizmon%20Hand||Terrizmon Hand",
 		"vocation": "Elite Knight",
 		"world": "Thyria",
@@ -9306,7 +9317,7 @@
 		"averagePct": 51.7
 	},
 	{
-		"rank": 847,
+		"rank": 848,
 		"name": "https://www.tibia.com/community/?name=Kim%20Belcher||Kim Belcher",
 		"vocation": "Royal Paladin",
 		"world": "Monza",
@@ -9317,29 +9328,29 @@
 		"averagePct": 51.68
 	},
 	{
-		"rank": 848,
-		"name": "https://www.tibia.com/community/?name=Ariuk||Ariuk",
-		"vocation": "Elite Knight",
-		"world": "Menera",
-		"level": 698,
-		"achievementPoints": 970,
-		"charmPoints": 8553,
-		"bossPoints": 10920,
+		"rank": 849,
+		"name": "https://www.tibia.com/community/?name=Maly'Dystansowiec||Maly'Dystansowiec",
+		"vocation": "Royal Paladin",
+		"world": "Bona",
+		"level": 1014,
+		"achievementPoints": 1059,
+		"charmPoints": 10795,
+		"bossPoints": 6900,
 		"averagePct": 51.66
 	},
 	{
-		"rank": 849,
+		"rank": 850,
 		"name": "https://www.tibia.com/community/?name=Tsek||Tsek",
 		"vocation": "Elite Knight",
 		"world": "Gladera",
-		"level": 1274,
+		"level": 1275,
 		"achievementPoints": 1157,
 		"charmPoints": 12001,
 		"bossPoints": 3770,
 		"averagePct": 51.65
 	},
 	{
-		"rank": 849,
+		"rank": 850,
 		"name": "https://www.tibia.com/community/?name=Soiji||Soiji",
 		"vocation": "Elite Knight",
 		"world": "Inabra",
@@ -9350,7 +9361,7 @@
 		"averagePct": 51.65
 	},
 	{
-		"rank": 851,
+		"rank": 852,
 		"name": "https://www.tibia.com/community/?name=Ali%20the%20shihan||Ali the shihan",
 		"vocation": "Elder Druid",
 		"world": "Quintera",
@@ -9361,30 +9372,19 @@
 		"averagePct": 51.63
 	},
 	{
-		"rank": 852,
-		"name": "https://www.tibia.com/community/?name=Maly'Dystansowiec||Maly'Dystansowiec",
-		"vocation": "Royal Paladin",
-		"world": "Bona",
-		"level": 1014,
-		"achievementPoints": 1059,
-		"charmPoints": 10795,
-		"bossPoints": 6840,
-		"averagePct": 51.58
-	},
-	{
-		"rank": 852,
+		"rank": 853,
 		"name": "https://www.tibia.com/community/?name=Azakim||Azakim",
 		"vocation": "Royal Paladin",
 		"world": "Serdebra",
 		"level": 892,
-		"achievementPoints": 605,
+		"achievementPoints": 606,
 		"charmPoints": 11430,
 		"bossPoints": 14825,
-		"averagePct": 51.58
+		"averagePct": 51.61
 	},
 	{
 		"rank": 854,
-		"name": "https://www.tibia.com/community/?name=Le%20Chief||Le Chief",
+		"name": "https://www.tibia.com/community/?name=Endymion%20Tokes||Endymion Tokes",
 		"vocation": "Elder Druid",
 		"world": "Nefera",
 		"level": 1201,
@@ -9395,6 +9395,17 @@
 	},
 	{
 		"rank": 855,
+		"name": "https://www.tibia.com/community/?name=Paneva||Paneva",
+		"vocation": "Elder Druid",
+		"world": "Thyria",
+		"level": 485,
+		"achievementPoints": 1144,
+		"charmPoints": 7830,
+		"bossPoints": 8290,
+		"averagePct": 51.56
+	},
+	{
+		"rank": 856,
 		"name": "https://www.tibia.com/community/?name=Lady%20Meredith||Lady Meredith",
 		"vocation": "Royal Paladin",
 		"world": "Bona",
@@ -9405,7 +9416,7 @@
 		"averagePct": 51.54
 	},
 	{
-		"rank": 855,
+		"rank": 856,
 		"name": "https://www.tibia.com/community/?name=Ladrao%20De%20Fogueiira||Ladrao De Fogueiira",
 		"vocation": "Royal Paladin",
 		"world": "Gladera",
@@ -9416,18 +9427,18 @@
 		"averagePct": 51.54
 	},
 	{
-		"rank": 857,
-		"name": "https://www.tibia.com/community/?name=Paneva||Paneva",
-		"vocation": "Elder Druid",
-		"world": "Thyria",
-		"level": 485,
-		"achievementPoints": 1144,
-		"charmPoints": 7830,
-		"bossPoints": 8260,
+		"rank": 858,
+		"name": "https://www.tibia.com/community/?name=Mloody%20Man||Mloody Man",
+		"vocation": "Royal Paladin",
+		"world": "Descubra",
+		"level": 676,
+		"achievementPoints": 814,
+		"charmPoints": 9845,
+		"bossPoints": 12450,
 		"averagePct": 51.52
 	},
 	{
-		"rank": 858,
+		"rank": 859,
 		"name": "https://www.tibia.com/community/?name=Akeyooshi||Akeyooshi",
 		"vocation": "Royal Paladin",
 		"world": "Nevia",
@@ -9438,7 +9449,7 @@
 		"averagePct": 51.5
 	},
 	{
-		"rank": 859,
+		"rank": 860,
 		"name": "https://www.tibia.com/community/?name=On%20Urb||On Urb",
 		"vocation": "Royal Paladin",
 		"world": "Gentebra",
@@ -9449,7 +9460,7 @@
 		"averagePct": 51.49
 	},
 	{
-		"rank": 860,
+		"rank": 861,
 		"name": "https://www.tibia.com/community/?name=Ayanna||Ayanna",
 		"vocation": "Royal Paladin",
 		"world": "Menera",
@@ -9457,17 +9468,6 @@
 		"achievementPoints": 1072,
 		"charmPoints": 14055,
 		"bossPoints": 3130,
-		"averagePct": 51.48
-	},
-	{
-		"rank": 860,
-		"name": "https://www.tibia.com/community/?name=Mloody%20Man||Mloody Man",
-		"vocation": "Royal Paladin",
-		"world": "Descubra",
-		"level": 676,
-		"achievementPoints": 814,
-		"charmPoints": 9845,
-		"bossPoints": 12420,
 		"averagePct": 51.48
 	},
 	{
@@ -9482,7 +9482,18 @@
 		"averagePct": 51.46
 	},
 	{
-		"rank": 863,
+		"rank": 862,
+		"name": "https://www.tibia.com/community/?name=Aka%20Spectral%20Bolt||Aka Spectral Bolt",
+		"vocation": "Royal Paladin",
+		"world": "Rasteibra",
+		"level": 682,
+		"achievementPoints": 572,
+		"charmPoints": 11505,
+		"bossPoints": 15290,
+		"averagePct": 51.46
+	},
+	{
+		"rank": 864,
 		"name": "https://www.tibia.com/community/?name=Thyrezin||Thyrezin",
 		"vocation": "Elite Knight",
 		"world": "Havera",
@@ -9493,7 +9504,7 @@
 		"averagePct": 51.45
 	},
 	{
-		"rank": 863,
+		"rank": 864,
 		"name": "https://www.tibia.com/community/?name=Huska||Huska",
 		"vocation": "Royal Paladin",
 		"world": "Obscubra",
@@ -9502,17 +9513,6 @@
 		"charmPoints": 10330,
 		"bossPoints": 13355,
 		"averagePct": 51.45
-	},
-	{
-		"rank": 865,
-		"name": "https://www.tibia.com/community/?name=Aka%20Spectral%20Bolt||Aka Spectral Bolt",
-		"vocation": "Royal Paladin",
-		"world": "Rasteibra",
-		"level": 682,
-		"achievementPoints": 572,
-		"charmPoints": 11505,
-		"bossPoints": 15260,
-		"averagePct": 51.42
 	},
 	{
 		"rank": 866,
@@ -9585,7 +9585,7 @@
 		"name": "https://www.tibia.com/community/?name=Yako%20Mage||Yako Mage",
 		"vocation": "Elder Druid",
 		"world": "Jadebra",
-		"level": 933,
+		"level": 934,
 		"achievementPoints": 763,
 		"charmPoints": 14250,
 		"bossPoints": 8700,
@@ -9673,7 +9673,7 @@
 		"name": "https://www.tibia.com/community/?name=Hith%20Mape||Hith Mape",
 		"vocation": "Royal Paladin",
 		"world": "Secura",
-		"level": 780,
+		"level": 781,
 		"achievementPoints": 923,
 		"charmPoints": 13325,
 		"bossPoints": 6520,
@@ -9706,7 +9706,7 @@
 		"name": "https://www.tibia.com/community/?name=Edzio%20Morty||Edzio Morty",
 		"vocation": "Elder Druid",
 		"world": "Peloria",
-		"level": 733,
+		"level": 734,
 		"achievementPoints": 732,
 		"charmPoints": 10574,
 		"bossPoints": 12960,
@@ -9805,7 +9805,7 @@
 		"name": "https://www.tibia.com/community/?name=Alpha%20Andre||Alpha Andre",
 		"vocation": "Elite Knight",
 		"world": "Utobra",
-		"level": 1103,
+		"level": 1104,
 		"achievementPoints": 510,
 		"charmPoints": 18020,
 		"bossPoints": 9405,
@@ -9846,6 +9846,28 @@
 	},
 	{
 		"rank": 896,
+		"name": "https://www.tibia.com/community/?name=Deverox||Deverox",
+		"vocation": "Elder Druid",
+		"world": "Menera",
+		"level": 860,
+		"achievementPoints": 705,
+		"charmPoints": 11543,
+		"bossPoints": 12380,
+		"averagePct": 51.01
+	},
+	{
+		"rank": 897,
+		"name": "https://www.tibia.com/community/?name=Don%20Bobo||Don Bobo",
+		"vocation": "Royal Paladin",
+		"world": "Nevia",
+		"level": 725,
+		"achievementPoints": 858,
+		"charmPoints": 13650,
+		"bossPoints": 7245,
+		"averagePct": 50.96
+	},
+	{
+		"rank": 898,
 		"name": "https://www.tibia.com/community/?name=Szysha||Szysha",
 		"vocation": "Elite Knight",
 		"world": "Vunira",
@@ -9856,7 +9878,7 @@
 		"averagePct": 50.95
 	},
 	{
-		"rank": 897,
+		"rank": 899,
 		"name": "https://www.tibia.com/community/?name=Naatron%20Gold||Naatron Gold",
 		"vocation": "Druid",
 		"world": "Kalibra",
@@ -9867,7 +9889,7 @@
 		"averagePct": 50.93
 	},
 	{
-		"rank": 897,
+		"rank": 899,
 		"name": "https://www.tibia.com/community/?name=Thorid%20Iryak||Thorid Iryak",
 		"vocation": "Elite Knight",
 		"world": "Inabra",
@@ -9878,18 +9900,7 @@
 		"averagePct": 50.93
 	},
 	{
-		"rank": 898,
-		"name": "https://www.tibia.com/community/?name=Deverox||Deverox",
-		"vocation": "Elder Druid",
-		"world": "Menera",
-		"level": 860,
-		"achievementPoints": 705,
-		"charmPoints": 11543,
-		"bossPoints": 12320,
-		"averagePct": 50.93
-	},
-	{
-		"rank": 900,
+		"rank": 901,
 		"name": "https://www.tibia.com/community/?name=Tamarizz||Tamarizz",
 		"vocation": "Elite Knight",
 		"world": "Solidera",
@@ -9901,6 +9912,17 @@
 	},
 	{
 		"rank": 901,
+		"name": "https://www.tibia.com/community/?name=Holy%20Drag||Holy Drag",
+		"vocation": "Royal Paladin",
+		"world": "Peloria",
+		"level": 527,
+		"achievementPoints": 625,
+		"charmPoints": 8264,
+		"bossPoints": 17240,
+		"averagePct": 50.92
+	},
+	{
+		"rank": 903,
 		"name": "https://www.tibia.com/community/?name=Triforce%20Falcon||Triforce Falcon",
 		"vocation": "Elite Knight",
 		"world": "Gentebra",
@@ -9911,29 +9933,18 @@
 		"averagePct": 50.9
 	},
 	{
-		"rank": 902,
-		"name": "https://www.tibia.com/community/?name=Don%20Bobo||Don Bobo",
-		"vocation": "Royal Paladin",
-		"world": "Nevia",
-		"level": 724,
-		"achievementPoints": 858,
-		"charmPoints": 13650,
-		"bossPoints": 7185,
-		"averagePct": 50.88
-	},
-	{
-		"rank": 903,
+		"rank": 904,
 		"name": "https://www.tibia.com/community/?name=Leimar||Leimar",
 		"vocation": "Royal Paladin",
 		"world": "Refugia",
-		"level": 920,
+		"level": 921,
 		"achievementPoints": 1126,
 		"charmPoints": 12010,
 		"bossPoints": 3770,
 		"averagePct": 50.87
 	},
 	{
-		"rank": 904,
+		"rank": 905,
 		"name": "https://www.tibia.com/community/?name=Thiii%20Costa||Thiii Costa",
 		"vocation": "Royal Paladin",
 		"world": "Ustebra",
@@ -9944,7 +9955,7 @@
 		"averagePct": 50.83
 	},
 	{
-		"rank": 904,
+		"rank": 905,
 		"name": "https://www.tibia.com/community/?name=Gaafe||Gaafe",
 		"vocation": "Master Sorcerer",
 		"world": "Wintera",
@@ -9952,17 +9963,6 @@
 		"achievementPoints": 741,
 		"charmPoints": 15805,
 		"bossPoints": 7130,
-		"averagePct": 50.83
-	},
-	{
-		"rank": 905,
-		"name": "https://www.tibia.com/community/?name=Holy%20Drag||Holy Drag",
-		"vocation": "Royal Paladin",
-		"world": "Peloria",
-		"level": 527,
-		"achievementPoints": 625,
-		"charmPoints": 8264,
-		"bossPoints": 17180,
 		"averagePct": 50.83
 	},
 	{
@@ -9992,7 +9992,7 @@
 		"name": "https://www.tibia.com/community/?name=Bezkarny%20Bog%20Touch||Bezkarny Bog Touch",
 		"vocation": "Elder Druid",
 		"world": "Harmonia",
-		"level": 1595,
+		"level": 1596,
 		"achievementPoints": 913,
 		"charmPoints": 19490,
 		"bossPoints": 0,
@@ -10050,19 +10050,8 @@
 		"level": 787,
 		"achievementPoints": 655,
 		"charmPoints": 8373,
-		"bossPoints": 16405,
-		"averagePct": 50.71
-	},
-	{
-		"rank": 915,
-		"name": "https://www.tibia.com/community/?name=Aeohn||Aeohn",
-		"vocation": "Elder Druid",
-		"world": "Ferobra",
-		"level": 762,
-		"achievementPoints": 587,
-		"charmPoints": 12619,
-		"bossPoints": 13280,
-		"averagePct": 50.7
+		"bossPoints": 16435,
+		"averagePct": 50.75
 	},
 	{
 		"rank": 915,
@@ -10072,7 +10061,18 @@
 		"level": 719,
 		"achievementPoints": 553,
 		"charmPoints": 16175,
-		"bossPoints": 10230,
+		"bossPoints": 10250,
+		"averagePct": 50.72
+	},
+	{
+		"rank": 916,
+		"name": "https://www.tibia.com/community/?name=Aeohn||Aeohn",
+		"vocation": "Elder Druid",
+		"world": "Ferobra",
+		"level": 762,
+		"achievementPoints": 587,
+		"charmPoints": 12619,
+		"bossPoints": 13280,
 		"averagePct": 50.7
 	},
 	{
@@ -10132,6 +10132,17 @@
 	},
 	{
 		"rank": 922,
+		"name": "https://www.tibia.com/community/?name=Gznho||Gznho",
+		"vocation": "Royal Paladin",
+		"world": "Yonabra",
+		"level": 484,
+		"achievementPoints": 1198,
+		"charmPoints": 8950,
+		"bossPoints": 5405,
+		"averagePct": 50.63
+	},
+	{
+		"rank": 922,
 		"name": "https://www.tibia.com/community/?name=Bife%20Muido||Bife Muido",
 		"vocation": "Elite Knight",
 		"world": "Luminera",
@@ -10142,7 +10153,7 @@
 		"averagePct": 50.63
 	},
 	{
-		"rank": 923,
+		"rank": 924,
 		"name": "https://www.tibia.com/community/?name=Babann||Babann",
 		"vocation": "Paladin",
 		"world": "Peloria",
@@ -10153,7 +10164,7 @@
 		"averagePct": 50.62
 	},
 	{
-		"rank": 923,
+		"rank": 924,
 		"name": "https://www.tibia.com/community/?name=Leokas||Leokas",
 		"vocation": "Master Sorcerer",
 		"world": "Luminera",
@@ -10164,7 +10175,7 @@
 		"averagePct": 50.62
 	},
 	{
-		"rank": 925,
+		"rank": 926,
 		"name": "https://www.tibia.com/community/?name=Bbud||Bbud",
 		"vocation": "Elder Druid",
 		"world": "Nefera",
@@ -10175,7 +10186,7 @@
 		"averagePct": 50.59
 	},
 	{
-		"rank": 926,
+		"rank": 927,
 		"name": "https://www.tibia.com/community/?name=Hypnozapo||Hypnozapo",
 		"vocation": "Master Sorcerer",
 		"world": "Quintera",
@@ -10186,7 +10197,7 @@
 		"averagePct": 50.58
 	},
 	{
-		"rank": 927,
+		"rank": 928,
 		"name": "https://www.tibia.com/community/?name=Agust%20Ironman||Agust Ironman",
 		"vocation": "Elder Druid",
 		"world": "Collabra",
@@ -10197,7 +10208,7 @@
 		"averagePct": 50.57
 	},
 	{
-		"rank": 928,
+		"rank": 929,
 		"name": "https://www.tibia.com/community/?name=Igao%20Mago%20Feroz||Igao Mago Feroz",
 		"vocation": "Master Sorcerer",
 		"world": "Belobra",
@@ -10208,7 +10219,7 @@
 		"averagePct": 50.55
 	},
 	{
-		"rank": 928,
+		"rank": 929,
 		"name": "https://www.tibia.com/community/?name=Bea%20Charlover%20Aca||Bea Charlover Aca",
 		"vocation": "Royal Paladin",
 		"world": "Havera",
@@ -10219,7 +10230,7 @@
 		"averagePct": 50.55
 	},
 	{
-		"rank": 929,
+		"rank": 930,
 		"name": "https://www.tibia.com/community/?name=Quixada%20Weysk||Quixada Weysk",
 		"vocation": "Elite Knight",
 		"world": "Jadebra",
@@ -10230,7 +10241,18 @@
 		"averagePct": 50.55
 	},
 	{
-		"rank": 931,
+		"rank": 932,
+		"name": "https://www.tibia.com/community/?name=Lipe%20Ragefull||Lipe Ragefull",
+		"vocation": "Royal Paladin",
+		"world": "Inabra",
+		"level": 787,
+		"achievementPoints": 1027,
+		"charmPoints": 13560,
+		"bossPoints": 3800,
+		"averagePct": 50.53
+	},
+	{
+		"rank": 933,
 		"name": "https://www.tibia.com/community/?name=Nothingstter||Nothingstter",
 		"vocation": "Royal Paladin",
 		"world": "Celebra",
@@ -10241,7 +10263,7 @@
 		"averagePct": 50.52
 	},
 	{
-		"rank": 932,
+		"rank": 934,
 		"name": "https://www.tibia.com/community/?name=Baker%20Paladin||Baker Paladin",
 		"vocation": "Royal Paladin",
 		"world": "Pacera",
@@ -10252,18 +10274,7 @@
 		"averagePct": 50.51
 	},
 	{
-		"rank": 933,
-		"name": "https://www.tibia.com/community/?name=Gznho||Gznho",
-		"vocation": "Royal Paladin",
-		"world": "Yonabra",
-		"level": 484,
-		"achievementPoints": 1198,
-		"charmPoints": 8850,
-		"bossPoints": 5405,
-		"averagePct": 50.49
-	},
-	{
-		"rank": 933,
+		"rank": 935,
 		"name": "https://www.tibia.com/community/?name=Us||Us",
 		"vocation": "Royal Paladin",
 		"world": "Secura",
@@ -10274,7 +10285,7 @@
 		"averagePct": 50.49
 	},
 	{
-		"rank": 934,
+		"rank": 935,
 		"name": "https://www.tibia.com/community/?name=Lord%20Valeta||Lord Valeta",
 		"vocation": "Master Sorcerer",
 		"world": "Celebra",
@@ -10285,7 +10296,7 @@
 		"averagePct": 50.49
 	},
 	{
-		"rank": 936,
+		"rank": 937,
 		"name": "https://www.tibia.com/community/?name=Perollas||Perollas",
 		"vocation": "Elite Knight",
 		"world": "Luminera",
@@ -10296,7 +10307,7 @@
 		"averagePct": 50.47
 	},
 	{
-		"rank": 937,
+		"rank": 938,
 		"name": "https://www.tibia.com/community/?name=Royal%20Blin||Royal Blin",
 		"vocation": "Royal Paladin",
 		"world": "Gentebra",
@@ -10307,7 +10318,7 @@
 		"averagePct": 50.45
 	},
 	{
-		"rank": 938,
+		"rank": 939,
 		"name": "https://www.tibia.com/community/?name=Pomocnik%20Oxera||Pomocnik Oxera",
 		"vocation": "Royal Paladin",
 		"world": "Celesta",
@@ -10316,17 +10327,6 @@
 		"charmPoints": 16315,
 		"bossPoints": 7555,
 		"averagePct": 50.44
-	},
-	{
-		"rank": 939,
-		"name": "https://www.tibia.com/community/?name=Lipe%20Ragefull||Lipe Ragefull",
-		"vocation": "Royal Paladin",
-		"world": "Inabra",
-		"level": 787,
-		"achievementPoints": 1023,
-		"charmPoints": 13560,
-		"bossPoints": 3800,
-		"averagePct": 50.43
 	},
 	{
 		"rank": 940,
@@ -10373,7 +10373,18 @@
 		"averagePct": 50.38
 	},
 	{
-		"rank": 944,
+		"rank": 943,
+		"name": "https://www.tibia.com/community/?name=Kruceush||Kruceush",
+		"vocation": "Royal Paladin",
+		"world": "Bona",
+		"level": 579,
+		"achievementPoints": 649,
+		"charmPoints": 9494,
+		"bossPoints": 15110,
+		"averagePct": 50.38
+	},
+	{
+		"rank": 945,
 		"name": "https://www.tibia.com/community/?name=Linyc||Linyc",
 		"vocation": "Elder Druid",
 		"world": "Gladera",
@@ -10384,7 +10395,7 @@
 		"averagePct": 50.37
 	},
 	{
-		"rank": 945,
+		"rank": 946,
 		"name": "https://www.tibia.com/community/?name=Alex%20Froggy||Alex Froggy",
 		"vocation": "Royal Paladin",
 		"world": "Vunira",
@@ -10395,7 +10406,7 @@
 		"averagePct": 50.36
 	},
 	{
-		"rank": 945,
+		"rank": 946,
 		"name": "https://www.tibia.com/community/?name=Bizonho%20Black||Bizonho Black",
 		"vocation": "Elite Knight",
 		"world": "Quintera",
@@ -10406,7 +10417,7 @@
 		"averagePct": 50.36
 	},
 	{
-		"rank": 946,
+		"rank": 947,
 		"name": "https://www.tibia.com/community/?name=Iucky%20shot||Iucky shot",
 		"vocation": "Royal Paladin",
 		"world": "Refugia",
@@ -10417,7 +10428,7 @@
 		"averagePct": 50.36
 	},
 	{
-		"rank": 947,
+		"rank": 948,
 		"name": "https://www.tibia.com/community/?name=Banco%20Estado||Banco Estado",
 		"vocation": "Royal Paladin",
 		"world": "Solidera",
@@ -10428,7 +10439,7 @@
 		"averagePct": 50.36
 	},
 	{
-		"rank": 949,
+		"rank": 950,
 		"name": "https://www.tibia.com/community/?name=Darkeduar||Darkeduar",
 		"vocation": "Elite Knight",
 		"world": "Pacera",
@@ -10439,7 +10450,7 @@
 		"averagePct": 50.34
 	},
 	{
-		"rank": 950,
+		"rank": 951,
 		"name": "https://www.tibia.com/community/?name=Jhann||Jhann",
 		"vocation": "Elite Knight",
 		"world": "Kalibra",
@@ -10450,7 +10461,7 @@
 		"averagePct": 50.3
 	},
 	{
-		"rank": 950,
+		"rank": 951,
 		"name": "https://www.tibia.com/community/?name=Slipper||Slipper",
 		"vocation": "Elite Knight",
 		"world": "Havera",
@@ -10458,17 +10469,6 @@
 		"achievementPoints": 1078,
 		"charmPoints": 13730,
 		"bossPoints": 2480,
-		"averagePct": 50.3
-	},
-	{
-		"rank": 951,
-		"name": "https://www.tibia.com/community/?name=Kruceush||Kruceush",
-		"vocation": "Royal Paladin",
-		"world": "Bona",
-		"level": 579,
-		"achievementPoints": 649,
-		"charmPoints": 9494,
-		"bossPoints": 15050,
 		"averagePct": 50.3
 	},
 	{
@@ -10487,7 +10487,7 @@
 		"name": "https://www.tibia.com/community/?name=Garb%20Kartoffel||Garb Kartoffel",
 		"vocation": "Royal Paladin",
 		"world": "Honbra",
-		"level": 752,
+		"level": 753,
 		"achievementPoints": 768,
 		"charmPoints": 11690,
 		"bossPoints": 10485,
@@ -10498,7 +10498,7 @@
 		"name": "https://www.tibia.com/community/?name=Drops%20Pall||Drops Pall",
 		"vocation": "Royal Paladin",
 		"world": "Peloria",
-		"level": 952,
+		"level": 953,
 		"achievementPoints": 648,
 		"charmPoints": 15980,
 		"bossPoints": 8320,
@@ -10528,17 +10528,39 @@
 	},
 	{
 		"rank": 958,
+		"name": "https://www.tibia.com/community/?name=Ellorie%20Darkheart||Ellorie Darkheart",
+		"vocation": "Elder Druid",
+		"world": "Premia",
+		"level": 948,
+		"achievementPoints": 890,
+		"charmPoints": 12334,
+		"bossPoints": 7475,
+		"averagePct": 50.25
+	},
+	{
+		"rank": 958,
 		"name": "https://www.tibia.com/community/?name=Priam%20De'Rise||Priam De'Rise",
 		"vocation": "Royal Paladin",
 		"world": "Peloria",
-		"level": 873,
+		"level": 874,
 		"achievementPoints": 862,
 		"charmPoints": 13520,
 		"bossPoints": 6770,
 		"averagePct": 50.25
 	},
 	{
-		"rank": 959,
+		"rank": 960,
+		"name": "https://www.tibia.com/community/?name=Hitman%20Zor||Hitman Zor",
+		"vocation": "Master Sorcerer",
+		"world": "Celebra",
+		"level": 1555,
+		"achievementPoints": 675,
+		"charmPoints": 13650,
+		"bossPoints": 10195,
+		"averagePct": 50.24
+	},
+	{
+		"rank": 960,
 		"name": "https://www.tibia.com/community/?name=Skelenuel||Skelenuel",
 		"vocation": "Royal Paladin",
 		"world": "Calmera",
@@ -10549,7 +10571,7 @@
 		"averagePct": 50.24
 	},
 	{
-		"rank": 960,
+		"rank": 962,
 		"name": "https://www.tibia.com/community/?name=Navilat||Navilat",
 		"vocation": "Elite Knight",
 		"world": "Nefera",
@@ -10560,7 +10582,7 @@
 		"averagePct": 50.23
 	},
 	{
-		"rank": 960,
+		"rank": 962,
 		"name": "https://www.tibia.com/community/?name=Wingboy||Wingboy",
 		"vocation": "Master Sorcerer",
 		"world": "Ombra",
@@ -10571,7 +10593,7 @@
 		"averagePct": 50.23
 	},
 	{
-		"rank": 962,
+		"rank": 964,
 		"name": "https://www.tibia.com/community/?name=Vemum||Vemum",
 		"vocation": "Elder Druid",
 		"world": "Nefera",
@@ -10582,7 +10604,7 @@
 		"averagePct": 50.21
 	},
 	{
-		"rank": 962,
+		"rank": 964,
 		"name": "https://www.tibia.com/community/?name=Opressora%20Tym||Opressora Tym",
 		"vocation": "Elite Knight",
 		"world": "Quintera",
@@ -10593,18 +10615,7 @@
 		"averagePct": 50.21
 	},
 	{
-		"rank": 963,
-		"name": "https://www.tibia.com/community/?name=Ellorie%20Darkheart||Ellorie Darkheart",
-		"vocation": "Elder Druid",
-		"world": "Premia",
-		"level": 948,
-		"achievementPoints": 890,
-		"charmPoints": 12334,
-		"bossPoints": 7445,
-		"averagePct": 50.21
-	},
-	{
-		"rank": 964,
+		"rank": 965,
 		"name": "https://www.tibia.com/community/?name=Gunnar%20Ragnarsson||Gunnar Ragnarsson",
 		"vocation": "Elite Knight",
 		"world": "Jadebra",
@@ -10615,7 +10626,7 @@
 		"averagePct": 50.21
 	},
 	{
-		"rank": 966,
+		"rank": 967,
 		"name": "https://www.tibia.com/community/?name=Borracho%20Bailarin||Borracho Bailarin",
 		"vocation": "Master Sorcerer",
 		"world": "Havera",
@@ -10626,29 +10637,40 @@
 		"averagePct": 50.18
 	},
 	{
-		"rank": 967,
+		"rank": 968,
+		"name": "https://www.tibia.com/community/?name=Flowing%20Rain||Flowing Rain",
+		"vocation": "Elite Knight",
+		"world": "Yonabra",
+		"level": 845,
+		"achievementPoints": 826,
+		"charmPoints": 11010,
+		"bossPoints": 10005,
+		"averagePct": 50.17
+	},
+	{
+		"rank": 969,
 		"name": "https://www.tibia.com/community/?name=Fiskpanna||Fiskpanna",
 		"vocation": "Elder Druid",
 		"world": "Refugia",
-		"level": 1086,
+		"level": 1087,
 		"achievementPoints": 1067,
 		"charmPoints": 12880,
 		"bossPoints": 3470,
 		"averagePct": 50.16
 	},
 	{
-		"rank": 967,
+		"rank": 969,
 		"name": "https://www.tibia.com/community/?name=Kilogramik%20Elite||Kilogramik Elite",
 		"vocation": "Elite Knight",
 		"world": "Nevia",
-		"level": 1049,
+		"level": 1050,
 		"achievementPoints": 934,
 		"charmPoints": 12109,
 		"bossPoints": 6805,
 		"averagePct": 50.16
 	},
 	{
-		"rank": 969,
+		"rank": 971,
 		"name": "https://www.tibia.com/community/?name=Colossus%20Akaligon||Colossus Akaligon",
 		"vocation": "Elder Druid",
 		"world": "Gladera",
@@ -10659,29 +10681,18 @@
 		"averagePct": 50.11
 	},
 	{
-		"rank": 969,
+		"rank": 971,
 		"name": "https://www.tibia.com/community/?name=Blaina%20Siwynia||Blaina Siwynia",
 		"vocation": "Master Sorcerer",
 		"world": "Antica",
-		"level": 740,
+		"level": 739,
 		"achievementPoints": 923,
 		"charmPoints": 18825,
 		"bossPoints": 0,
 		"averagePct": 50.11
 	},
 	{
-		"rank": 971,
-		"name": "https://www.tibia.com/community/?name=Hitman%20Zor||Hitman Zor",
-		"vocation": "Master Sorcerer",
-		"world": "Celebra",
-		"level": 1555,
-		"achievementPoints": 675,
-		"charmPoints": 13550,
-		"bossPoints": 10195,
-		"averagePct": 50.1
-	},
-	{
-		"rank": 972,
+		"rank": 973,
 		"name": "https://www.tibia.com/community/?name=Igos%20Ek||Igos Ek",
 		"vocation": "Elite Knight",
 		"world": "Damora",
@@ -10692,7 +10703,7 @@
 		"averagePct": 50.08
 	},
 	{
-		"rank": 973,
+		"rank": 974,
 		"name": "https://www.tibia.com/community/?name=Druid%20Kamyk||Druid Kamyk",
 		"vocation": "Elder Druid",
 		"world": "Secura",
@@ -10704,6 +10715,28 @@
 	},
 	{
 		"rank": 974,
+		"name": "https://www.tibia.com/community/?name=To%20Ja%20Maciej||To Ja Maciej",
+		"vocation": "Royal Paladin",
+		"world": "Kendria",
+		"level": 1127,
+		"achievementPoints": 726,
+		"charmPoints": 12723,
+		"bossPoints": 10055,
+		"averagePct": 50.07
+	},
+	{
+		"rank": 975,
+		"name": "https://www.tibia.com/community/?name=Sio%20Rumak||Sio Rumak",
+		"vocation": "Elder Druid",
+		"world": "Kendria",
+		"level": 880,
+		"achievementPoints": 666,
+		"charmPoints": 8973,
+		"bossPoints": 15095,
+		"averagePct": 50.07
+	},
+	{
+		"rank": 977,
 		"name": "https://www.tibia.com/community/?name=The%20Billionaire%20Maverick||The Billionaire Maverick",
 		"vocation": "Royal Paladin",
 		"world": "Belobra",
@@ -10714,7 +10747,7 @@
 		"averagePct": 50.06
 	},
 	{
-		"rank": 974,
+		"rank": 977,
 		"name": "https://www.tibia.com/community/?name=Sindicow||Sindicow",
 		"vocation": "Elder Druid",
 		"world": "Descubra",
@@ -10725,7 +10758,7 @@
 		"averagePct": 50.06
 	},
 	{
-		"rank": 976,
+		"rank": 979,
 		"name": "https://www.tibia.com/community/?name=Partyboost||Partyboost",
 		"vocation": "Royal Paladin",
 		"world": "Vunira",
@@ -10736,7 +10769,7 @@
 		"averagePct": 50.03
 	},
 	{
-		"rank": 977,
+		"rank": 980,
 		"name": "https://www.tibia.com/community/?name=Seth%20Gleim||Seth Gleim",
 		"vocation": "Elite Knight",
 		"world": "Ustebra",
@@ -10747,7 +10780,7 @@
 		"averagePct": 50.02
 	},
 	{
-		"rank": 978,
+		"rank": 981,
 		"name": "https://www.tibia.com/community/?name=Clownfiesta%20Primetime||Clownfiesta Primetime",
 		"vocation": "Elite Knight",
 		"world": "Zuna",
@@ -10758,18 +10791,7 @@
 		"averagePct": 50.01
 	},
 	{
-		"rank": 978,
-		"name": "https://www.tibia.com/community/?name=Sio%20Rumak||Sio Rumak",
-		"vocation": "Elder Druid",
-		"world": "Kendria",
-		"level": 880,
-		"achievementPoints": 666,
-		"charmPoints": 8973,
-		"bossPoints": 15055,
-		"averagePct": 50.01
-	},
-	{
-		"rank": 980,
+		"rank": 982,
 		"name": "https://www.tibia.com/community/?name=Bentrox||Bentrox",
 		"vocation": "Elite Knight",
 		"world": "Astera",
@@ -10780,7 +10802,18 @@
 		"averagePct": 50
 	},
 	{
-		"rank": 981,
+		"rank": 982,
+		"name": "https://www.tibia.com/community/?name=Jee%20Bunny%20Shop||Jee Bunny Shop",
+		"vocation": "Royal Paladin",
+		"world": "Thyria",
+		"level": 1081,
+		"achievementPoints": 839,
+		"charmPoints": 9224,
+		"bossPoints": 11485,
+		"averagePct": 50
+	},
+	{
+		"rank": 984,
 		"name": "https://www.tibia.com/community/?name=Vincent%20Claymore||Vincent Claymore",
 		"vocation": "Royal Paladin",
 		"world": "Harmonia",
@@ -10791,7 +10824,7 @@
 		"averagePct": 49.99
 	},
 	{
-		"rank": 981,
+		"rank": 984,
 		"name": "https://www.tibia.com/community/?name=Shadylogan||Shadylogan",
 		"vocation": "Elite Knight",
 		"world": "Celesta",
@@ -10802,18 +10835,7 @@
 		"averagePct": 49.99
 	},
 	{
-		"rank": 982,
-		"name": "https://www.tibia.com/community/?name=To%20Ja%20Maciej||To Ja Maciej",
-		"vocation": "Royal Paladin",
-		"world": "Kendria",
-		"level": 1127,
-		"achievementPoints": 726,
-		"charmPoints": 12723,
-		"bossPoints": 9995,
-		"averagePct": 49.99
-	},
-	{
-		"rank": 984,
+		"rank": 986,
 		"name": "https://www.tibia.com/community/?name=Saick||Saick",
 		"vocation": "Master Sorcerer",
 		"world": "Serdebra",
@@ -10824,7 +10846,7 @@
 		"averagePct": 49.97
 	},
 	{
-		"rank": 985,
+		"rank": 987,
 		"name": "https://www.tibia.com/community/?name=Morfothik||Morfothik",
 		"vocation": "Master Sorcerer",
 		"world": "Havera",
@@ -10835,7 +10857,7 @@
 		"averagePct": 49.95
 	},
 	{
-		"rank": 986,
+		"rank": 988,
 		"name": "https://www.tibia.com/community/?name=Cabelo%20Bawall||Cabelo Bawall",
 		"vocation": "Royal Paladin",
 		"world": "Ferobra",
@@ -10846,18 +10868,7 @@
 		"averagePct": 49.94
 	},
 	{
-		"rank": 987,
-		"name": "https://www.tibia.com/community/?name=Jee%20Bunny%20Shop||Jee Bunny Shop",
-		"vocation": "Royal Paladin",
-		"world": "Thyria",
-		"level": 1081,
-		"achievementPoints": 839,
-		"charmPoints": 9224,
-		"bossPoints": 11425,
-		"averagePct": 49.92
-	},
-	{
-		"rank": 988,
+		"rank": 989,
 		"name": "https://www.tibia.com/community/?name=Ven%20om||Ven om",
 		"vocation": "Elite Knight",
 		"world": "Harmonia",
@@ -10865,17 +10876,6 @@
 		"achievementPoints": 854,
 		"charmPoints": 14561,
 		"bossPoints": 5595,
-		"averagePct": 49.91
-	},
-	{
-		"rank": 988,
-		"name": "https://www.tibia.com/community/?name=Flowing%20Rain||Flowing Rain",
-		"vocation": "Elite Knight",
-		"world": "Yonabra",
-		"level": 845,
-		"achievementPoints": 818,
-		"charmPoints": 11010,
-		"bossPoints": 9965,
 		"averagePct": 49.91
 	},
 	{
@@ -10960,14 +10960,25 @@
 		"name": "https://www.tibia.com/community/?name=Chuck%20Bozz||Chuck Bozz",
 		"vocation": "Royal Paladin",
 		"world": "Collabra",
-		"level": 1679,
+		"level": 1680,
 		"achievementPoints": 787,
 		"charmPoints": 14493,
 		"bossPoints": 6885,
 		"averagePct": 49.84
 	},
 	{
-		"rank": 998,
+		"rank": 997,
+		"name": "https://www.tibia.com/community/?name=Sabaum%20Pacaba||Sabaum Pacaba",
+		"vocation": "Royal Paladin",
+		"world": "Belobra",
+		"level": 905,
+		"achievementPoints": 701,
+		"charmPoints": 10305,
+		"bossPoints": 12875,
+		"averagePct": 49.84
+	},
+	{
+		"rank": 999,
 		"name": "https://www.tibia.com/community/?name=Machinbear||Machinbear",
 		"vocation": "Elite Knight",
 		"world": "Celebra",
@@ -10978,7 +10989,7 @@
 		"averagePct": 49.83
 	},
 	{
-		"rank": 999,
+		"rank": 1000,
 		"name": "https://www.tibia.com/community/?name=Wlodinho||Wlodinho",
 		"vocation": "Master Sorcerer",
 		"world": "Thyria",
@@ -10987,16 +10998,5 @@
 		"charmPoints": 19425,
 		"bossPoints": 0,
 		"averagePct": 49.82
-	},
-	{
-		"rank": 1000,
-		"name": "https://www.tibia.com/community/?name=Larri||Larri",
-		"vocation": "Royal Paladin",
-		"world": "Astera",
-		"level": 1172,
-		"achievementPoints": 921,
-		"charmPoints": 12195,
-		"bossPoints": 6695,
-		"averagePct": 49.8
 	}
 ]
