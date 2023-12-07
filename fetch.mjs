@@ -3,8 +3,14 @@ import { characters } from './characters.mjs';
 
 const pageSearchLimit = 5;
 
-//Achievements, Charm Points, Boss Points
-const maxPoints = [1297, 23775, 24700];
+const maxPoints = [
+	// Achievements.
+	1302, // TODO: Add points for "The Rule of Raccool" once known.
+	// Charm Points.
+	24275,
+	// Boss Points.
+	24950,
+];
 
 const scoreBonusQuantile = 0.9;
 const scoreBonusAmount = 1.25;
