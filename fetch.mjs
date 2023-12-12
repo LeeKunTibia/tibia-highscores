@@ -18,8 +18,8 @@ const scoreBonusAmount = 1.25;
 
 const bonusLimits = maxPoints.map(x => Math.round(x * scoreBonusQuantile));
 
-const APIurl = 'https://api.tibiadata.com/v3';
-//const APIurl = 'https://dev.tibiadata.com/v4';
+//const APIurl = 'https://api.tibiadata.com/v3';
+const APIurl = 'https://api.tibiadata.com/v4';
 
 const charLink = (name) => {
     const url = encodeURI(`https://www.tibia.com/community/?name=${name}`);
