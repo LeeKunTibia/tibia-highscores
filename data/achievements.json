@@ -1,6 +1,14 @@
 [
 	{
 		"rank": 1,
+		"name": "https://www.tibia.com/community/?name=Mathias%20Bynens||Mathias Bynens",
+		"vocation": "Royal Paladin",
+		"world": "Vunira",
+		"level": 912,
+		"value": 1299
+	},
+	{
+		"rank": 2,
 		"name": "https://www.tibia.com/community/?name=Magao%20Evolutions||Magao Evolutions",
 		"vocation": "Master Sorcerer",
 		"world": "Gentebra",
@@ -8,7 +16,7 @@
 		"value": 1297
 	},
 	{
-		"rank": 1,
+		"rank": 2,
 		"name": "https://www.tibia.com/community/?name=Firdeso||Firdeso",
 		"vocation": "Master Sorcerer",
 		"world": "Secura",
@@ -16,35 +24,27 @@
 		"value": 1297
 	},
 	{
-		"rank": 2,
-		"name": "https://www.tibia.com/community/?name=Mathias%20Bynens||Mathias Bynens",
-		"vocation": "Royal Paladin",
-		"world": "Vunira",
-		"level": 912,
-		"value": 1297
-	},
-	{
 		"rank": 4,
-		"name": "https://www.tibia.com/community/?name=Chronus%20Legacy||Chronus Legacy",
-		"vocation": "Elite Knight",
-		"world": "Celebra",
-		"level": 1200,
-		"value": 1291
-	},
-	{
-		"rank": 5,
-		"name": "https://www.tibia.com/community/?name=Caaok||Caaok",
-		"vocation": "Royal Paladin",
-		"world": "Belobra",
-		"level": 1619,
-		"value": 1289
-	},
-	{
-		"rank": 5,
 		"name": "https://www.tibia.com/community/?name=Cluutter||Cluutter",
 		"vocation": "Royal Paladin",
 		"world": "Gentebra",
-		"level": 1056,
+		"level": 1057,
+		"value": 1292
+	},
+	{
+		"rank": 5,
+		"name": "https://www.tibia.com/community/?name=Chronus%20Legacy||Chronus Legacy",
+		"vocation": "Elite Knight",
+		"world": "Celebra",
+		"level": 1201,
+		"value": 1291
+	},
+	{
+		"rank": 6,
+		"name": "https://www.tibia.com/community/?name=Caaok||Caaok",
+		"vocation": "Royal Paladin",
+		"world": "Belobra",
+		"level": 1620,
 		"value": 1289
 	},
 	{
@@ -68,7 +68,7 @@
 		"name": "https://www.tibia.com/community/?name=Ki%20Naitao%20Olim||Ki Naitao Olim",
 		"vocation": "Elite Knight",
 		"world": "Belobra",
-		"level": 1860,
+		"level": 1861,
 		"value": 1287
 	},
 	{
@@ -140,7 +140,7 @@
 		"name": "https://www.tibia.com/community/?name=Wladek%20Slawek||Wladek Slawek",
 		"vocation": "Elder Druid",
 		"world": "Celesta",
-		"level": 826,
+		"level": 825,
 		"value": 1279
 	},
 	{
@@ -188,7 +188,7 @@
 		"name": "https://www.tibia.com/community/?name=Krueger||Krueger",
 		"vocation": "Elite Knight",
 		"world": "Kalibra",
-		"level": 1255,
+		"level": 1256,
 		"value": 1276
 	},
 	{
@@ -212,7 +212,7 @@
 		"name": "https://www.tibia.com/community/?name=Hero%20Reis||Hero Reis",
 		"vocation": "Royal Paladin",
 		"world": "Astera",
-		"level": 1929,
+		"level": 1930,
 		"value": 1274
 	},
 	{
@@ -220,7 +220,7 @@
 		"name": "https://www.tibia.com/community/?name=Viollah||Viollah",
 		"vocation": "Elite Knight",
 		"world": "Gentebra",
-		"level": 1606,
+		"level": 1607,
 		"value": 1274
 	},
 	{
@@ -236,7 +236,7 @@
 		"name": "https://www.tibia.com/community/?name=Zmuts||Zmuts",
 		"vocation": "Master Sorcerer",
 		"world": "Monza",
-		"level": 1651,
+		"level": 1652,
 		"value": 1274
 	},
 	{
@@ -268,7 +268,7 @@
 		"name": "https://www.tibia.com/community/?name=Haarin||Haarin",
 		"vocation": "Elder Druid",
 		"world": "Monza",
-		"level": 1577,
+		"level": 1578,
 		"value": 1272
 	},
 	{
@@ -404,7 +404,7 @@
 		"name": "https://www.tibia.com/community/?name=Lord%20Strikee||Lord Strikee",
 		"vocation": "Elder Druid",
 		"world": "Harmonia",
-		"level": 1001,
+		"level": 1000,
 		"value": 1265
 	},
 	{
@@ -412,7 +412,7 @@
 		"name": "https://www.tibia.com/community/?name=Lady%20Tafuri||Lady Tafuri",
 		"vocation": "Elite Knight",
 		"world": "Nefera",
-		"level": 1451,
+		"level": 1452,
 		"value": 1265
 	},
 	{
@@ -428,7 +428,7 @@
 		"name": "https://www.tibia.com/community/?name=Rado%20of%20Elera||Rado of Elera",
 		"vocation": "Elite Knight",
 		"world": "Vunira",
-		"level": 879,
+		"level": 880,
 		"value": 1264
 	},
 	{
@@ -468,7 +468,7 @@
 		"name": "https://www.tibia.com/community/?name=Frank%20Implacavel||Frank Implacavel",
 		"vocation": "Elder Druid",
 		"world": "Serdebra",
-		"level": 1258,
+		"level": 1257,
 		"value": 1262
 	},
 	{
@@ -548,7 +548,7 @@
 		"name": "https://www.tibia.com/community/?name=Holy%20Chealino||Holy Chealino",
 		"vocation": "Royal Paladin",
 		"world": "Celesta",
-		"level": 1846,
+		"level": 1847,
 		"value": 1256
 	},
 	{
@@ -580,7 +580,7 @@
 		"name": "https://www.tibia.com/community/?name=Mostersik||Mostersik",
 		"vocation": "Elite Knight",
 		"world": "Monza",
-		"level": 1066,
+		"level": 1067,
 		"value": 1255
 	},
 	{
@@ -628,7 +628,7 @@
 		"name": "https://www.tibia.com/community/?name=Kilseno||Kilseno",
 		"vocation": "Royal Paladin",
 		"world": "Secura",
-		"level": 1025,
+		"level": 1026,
 		"value": 1251
 	},
 	{
@@ -649,6 +649,14 @@
 	},
 	{
 		"rank": 81,
+		"name": "https://www.tibia.com/community/?name=Captain%20Awk||Captain Awk",
+		"vocation": "Elite Knight",
+		"world": "Gladera",
+		"level": 782,
+		"value": 1250
+	},
+	{
+		"rank": 82,
 		"name": "https://www.tibia.com/community/?name=Dedeh%20Zica||Dedeh Zica",
 		"vocation": "Elder Druid",
 		"world": "Obscubra",
@@ -656,7 +664,7 @@
 		"value": 1250
 	},
 	{
-		"rank": 82,
+		"rank": 83,
 		"name": "https://www.tibia.com/community/?name=Ja%20co||Ja co",
 		"vocation": "Elite Knight",
 		"world": "Refugia",
@@ -664,19 +672,11 @@
 		"value": 1250
 	},
 	{
-		"rank": 84,
+		"rank": 85,
 		"name": "https://www.tibia.com/community/?name=Quiet||Quiet",
 		"vocation": "Royal Paladin",
 		"world": "Epoca",
 		"level": 1036,
-		"value": 1249
-	},
-	{
-		"rank": 84,
-		"name": "https://www.tibia.com/community/?name=Captain%20Awk||Captain Awk",
-		"vocation": "Elite Knight",
-		"world": "Gladera",
-		"level": 782,
 		"value": 1249
 	},
 	{
@@ -793,6 +793,14 @@
 	},
 	{
 		"rank": 100,
+		"name": "https://www.tibia.com/community/?name=Zeh%20Archerr||Zeh Archerr",
+		"vocation": "Royal Paladin",
+		"world": "Gentebra",
+		"level": 1178,
+		"value": 1243
+	},
+	{
+		"rank": 100,
 		"name": "https://www.tibia.com/community/?name=Anovix%20Zklanu||Anovix Zklanu",
 		"vocation": "Elder Druid",
 		"world": "Retalia",
@@ -800,7 +808,7 @@
 		"value": 1243
 	},
 	{
-		"rank": 101,
+		"rank": 102,
 		"name": "https://www.tibia.com/community/?name=Miggon%20Mclovin||Miggon Mclovin",
 		"vocation": "Master Sorcerer",
 		"world": "Syrena",
@@ -808,7 +816,7 @@
 		"value": 1242
 	},
 	{
-		"rank": 101,
+		"rank": 102,
 		"name": "https://www.tibia.com/community/?name=Advogod||Advogod",
 		"vocation": "Elite Knight",
 		"world": "Yonabra",
@@ -816,7 +824,7 @@
 		"value": 1242
 	},
 	{
-		"rank": 103,
+		"rank": 104,
 		"name": "https://www.tibia.com/community/?name=Bullistic||Bullistic",
 		"vocation": "Royal Paladin",
 		"world": "Lobera",
@@ -824,7 +832,7 @@
 		"value": 1241
 	},
 	{
-		"rank": 103,
+		"rank": 104,
 		"name": "https://www.tibia.com/community/?name=Fire%20Draggon||Fire Draggon",
 		"vocation": "Knight",
 		"world": "Quintera",
@@ -832,15 +840,15 @@
 		"value": 1241
 	},
 	{
-		"rank": 105,
+		"rank": 106,
 		"name": "https://www.tibia.com/community/?name=Kharsek||Kharsek",
 		"vocation": "Elite Knight",
 		"world": "Gladera",
-		"level": 1785,
+		"level": 1786,
 		"value": 1240
 	},
 	{
-		"rank": 105,
+		"rank": 106,
 		"name": "https://www.tibia.com/community/?name=Askrates||Askrates",
 		"vocation": "Elite Knight",
 		"world": "Secura",
@@ -848,7 +856,7 @@
 		"value": 1240
 	},
 	{
-		"rank": 106,
+		"rank": 107,
 		"name": "https://www.tibia.com/community/?name=Suuper-Till||Suuper-Till",
 		"vocation": "Elder Druid",
 		"world": "Yonabra",
@@ -856,7 +864,7 @@
 		"value": 1240
 	},
 	{
-		"rank": 108,
+		"rank": 109,
 		"name": "https://www.tibia.com/community/?name=Tigrokey||Tigrokey",
 		"vocation": "Elite Knight",
 		"world": "Calmera",
@@ -864,19 +872,11 @@
 		"value": 1239
 	},
 	{
-		"rank": 108,
+		"rank": 109,
 		"name": "https://www.tibia.com/community/?name=Abilidibob||Abilidibob",
 		"vocation": "Elite Knight",
 		"world": "Descubra",
 		"level": 700,
-		"value": 1239
-	},
-	{
-		"rank": 109,
-		"name": "https://www.tibia.com/community/?name=Zeh%20Archerr||Zeh Archerr",
-		"vocation": "Royal Paladin",
-		"world": "Gentebra",
-		"level": 1178,
 		"value": 1239
 	},
 	{
@@ -900,7 +900,7 @@
 		"name": "https://www.tibia.com/community/?name=Cieniaseq||Cieniaseq",
 		"vocation": "Elder Druid",
 		"world": "Refugia",
-		"level": 852,
+		"level": 853,
 		"value": 1239
 	},
 	{
@@ -932,7 +932,7 @@
 		"name": "https://www.tibia.com/community/?name=Quarter%20To%20Three||Quarter To Three",
 		"vocation": "Royal Paladin",
 		"world": "Secura",
-		"level": 1693,
+		"level": 1694,
 		"value": 1236
 	},
 	{
@@ -940,8 +940,16 @@
 		"name": "https://www.tibia.com/community/?name=Horon%20Aoldas||Horon Aoldas",
 		"vocation": "Master Sorcerer",
 		"world": "Vunira",
-		"level": 569,
+		"level": 570,
 		"value": 1236
+	},
+	{
+		"rank": 119,
+		"name": "https://www.tibia.com/community/?name=Kisiel%20Grillowany||Kisiel Grillowany",
+		"vocation": "Elite Knight",
+		"world": "Premia",
+		"level": 988,
+		"value": 1235
 	},
 	{
 		"rank": 119,
@@ -952,7 +960,7 @@
 		"value": 1235
 	},
 	{
-		"rank": 119,
+		"rank": 120,
 		"name": "https://www.tibia.com/community/?name=Mauser%20Karabiner||Mauser Karabiner",
 		"vocation": "Master Sorcerer",
 		"world": "Venebra",
@@ -960,15 +968,15 @@
 		"value": 1235
 	},
 	{
-		"rank": 121,
+		"rank": 122,
 		"name": "https://www.tibia.com/community/?name=Kekw%20Kok||Kekw Kok",
 		"vocation": "Royal Paladin",
 		"world": "Inabra",
-		"level": 786,
+		"level": 787,
 		"value": 1234
 	},
 	{
-		"rank": 121,
+		"rank": 122,
 		"name": "https://www.tibia.com/community/?name=White%20hair||White hair",
 		"vocation": "Master Sorcerer",
 		"world": "Refugia",
@@ -976,7 +984,7 @@
 		"value": 1234
 	},
 	{
-		"rank": 123,
+		"rank": 124,
 		"name": "https://www.tibia.com/community/?name=Daemon%20gizmo||Daemon gizmo",
 		"vocation": "Elder Druid",
 		"world": "Firmera",
@@ -984,19 +992,11 @@
 		"value": 1233
 	},
 	{
-		"rank": 123,
+		"rank": 124,
 		"name": "https://www.tibia.com/community/?name=Khena||Khena",
 		"vocation": "Master Sorcerer",
 		"world": "Havera",
 		"level": 822,
-		"value": 1233
-	},
-	{
-		"rank": 124,
-		"name": "https://www.tibia.com/community/?name=Kisiel%20Grillowany||Kisiel Grillowany",
-		"vocation": "Elite Knight",
-		"world": "Premia",
-		"level": 988,
 		"value": 1233
 	},
 	{
@@ -1204,7 +1204,7 @@
 		"name": "https://www.tibia.com/community/?name=Leozin%20Arrogante||Leozin Arrogante",
 		"vocation": "Royal Paladin",
 		"world": "Yonabra",
-		"level": 1099,
+		"level": 1098,
 		"value": 1226
 	},
 	{
@@ -1228,7 +1228,7 @@
 		"name": "https://www.tibia.com/community/?name=Morbios||Morbios",
 		"vocation": "Royal Paladin",
 		"world": "Menera",
-		"level": 1106,
+		"level": 1107,
 		"value": 1225
 	},
 	{
@@ -1332,7 +1332,7 @@
 		"name": "https://www.tibia.com/community/?name=Centenario%20de%20Torreon||Centenario de Torreon",
 		"vocation": "Elite Knight",
 		"world": "Talera",
-		"level": 749,
+		"level": 750,
 		"value": 1222
 	},
 	{
@@ -1380,7 +1380,7 @@
 		"name": "https://www.tibia.com/community/?name=Colonel%20Kloss||Colonel Kloss",
 		"vocation": "Elite Knight",
 		"world": "Celesta",
-		"level": 746,
+		"level": 747,
 		"value": 1219
 	},
 	{
@@ -1444,7 +1444,7 @@
 		"name": "https://www.tibia.com/community/?name=Lootmeiistern||Lootmeiistern",
 		"vocation": "Elite Knight",
 		"world": "Nevia",
-		"level": 1039,
+		"level": 1040,
 		"value": 1217
 	},
 	{
@@ -1492,7 +1492,7 @@
 		"name": "https://www.tibia.com/community/?name=Gznho||Gznho",
 		"vocation": "Royal Paladin",
 		"world": "Yonabra",
-		"level": 522,
+		"level": 523,
 		"value": 1216
 	},
 	{
@@ -1740,7 +1740,7 @@
 		"name": "https://www.tibia.com/community/?name=Smuu||Smuu",
 		"vocation": "Elder Druid",
 		"world": "Pacera",
-		"level": 388,
+		"level": 387,
 		"value": 1204
 	},
 	{
@@ -1772,7 +1772,7 @@
 		"name": "https://www.tibia.com/community/?name=Seth%20Warlock||Seth Warlock",
 		"vocation": "Master Sorcerer",
 		"world": "Gentebra",
-		"level": 1224,
+		"level": 1225,
 		"value": 1203
 	},
 	{
@@ -1900,7 +1900,7 @@
 		"name": "https://www.tibia.com/community/?name=Dakota||Dakota",
 		"vocation": "Elite Knight",
 		"world": "Esmera",
-		"level": 1215,
+		"level": 1216,
 		"value": 1199
 	},
 	{
@@ -1908,7 +1908,7 @@
 		"name": "https://www.tibia.com/community/?name=Heike%20Beleren||Heike Beleren",
 		"vocation": "Elite Knight",
 		"world": "Nefera",
-		"level": 496,
+		"level": 497,
 		"value": 1199
 	},
 	{
@@ -2012,11 +2012,19 @@
 		"name": "https://www.tibia.com/community/?name=Nocktambul||Nocktambul",
 		"vocation": "Master Sorcerer",
 		"world": "Secura",
-		"level": 680,
+		"level": 681,
 		"value": 1191
 	},
 	{
-		"rank": 253,
+		"rank": 252,
+		"name": "https://www.tibia.com/community/?name=Hila%20Soul||Hila Soul",
+		"vocation": "Elite Knight",
+		"world": "Ustebra",
+		"level": 1419,
+		"value": 1191
+	},
+	{
+		"rank": 254,
 		"name": "https://www.tibia.com/community/?name=Seather||Seather",
 		"vocation": "Royal Paladin",
 		"world": "Antica",
@@ -2024,7 +2032,7 @@
 		"value": 1190
 	},
 	{
-		"rank": 253,
+		"rank": 254,
 		"name": "https://www.tibia.com/community/?name=Oi%20Taha||Oi Taha",
 		"vocation": "Royal Paladin",
 		"world": "Belobra",
@@ -2032,7 +2040,7 @@
 		"value": 1190
 	},
 	{
-		"rank": 254,
+		"rank": 255,
 		"name": "https://www.tibia.com/community/?name=Arwa%20the%20Hunter||Arwa the Hunter",
 		"vocation": "Royal Paladin",
 		"world": "Nevia",
@@ -2040,7 +2048,7 @@
 		"value": 1190
 	},
 	{
-		"rank": 255,
+		"rank": 256,
 		"name": "https://www.tibia.com/community/?name=Neggiok||Neggiok",
 		"vocation": "Elite Knight",
 		"world": "Secura",
@@ -2048,7 +2056,7 @@
 		"value": 1190
 	},
 	{
-		"rank": 256,
+		"rank": 257,
 		"name": "https://www.tibia.com/community/?name=Allan%20kardec||Allan kardec",
 		"vocation": "Elder Druid",
 		"world": "Talera",
@@ -2056,7 +2064,7 @@
 		"value": 1190
 	},
 	{
-		"rank": 258,
+		"rank": 259,
 		"name": "https://www.tibia.com/community/?name=Proudmane||Proudmane",
 		"vocation": "Elder Druid",
 		"world": "Peloria",
@@ -2064,19 +2072,11 @@
 		"value": 1189
 	},
 	{
-		"rank": 258,
+		"rank": 259,
 		"name": "https://www.tibia.com/community/?name=Maurilicious||Maurilicious",
 		"vocation": "Paladin",
 		"world": "Solidera",
 		"level": 505,
-		"value": 1189
-	},
-	{
-		"rank": 259,
-		"name": "https://www.tibia.com/community/?name=Hila%20Soul||Hila Soul",
-		"vocation": "Elite Knight",
-		"world": "Ustebra",
-		"level": 1419,
 		"value": 1189
 	},
 	{
@@ -2092,7 +2092,7 @@
 		"name": "https://www.tibia.com/community/?name=Alice%20Acyda||Alice Acyda",
 		"vocation": "Elder Druid",
 		"world": "Ferobra",
-		"level": 583,
+		"level": 584,
 		"value": 1188
 	},
 	{
@@ -2176,7 +2176,15 @@
 		"value": 1181
 	},
 	{
-		"rank": 273,
+		"rank": 272,
+		"name": "https://www.tibia.com/community/?name=Silverx||Silverx",
+		"vocation": "Elite Knight",
+		"world": "Ustebra",
+		"level": 521,
+		"value": 1181
+	},
+	{
+		"rank": 274,
 		"name": "https://www.tibia.com/community/?name=Pesadelus||Pesadelus",
 		"vocation": "Royal Paladin",
 		"world": "Descubra",
@@ -2184,7 +2192,7 @@
 		"value": 1180
 	},
 	{
-		"rank": 273,
+		"rank": 274,
 		"name": "https://www.tibia.com/community/?name=Daf%20Knight||Daf Knight",
 		"vocation": "Elite Knight",
 		"world": "Gentebra",
@@ -2192,7 +2200,7 @@
 		"value": 1180
 	},
 	{
-		"rank": 275,
+		"rank": 276,
 		"name": "https://www.tibia.com/community/?name=Kenshin%20Himmura||Kenshin Himmura",
 		"vocation": "Royal Paladin",
 		"world": "Belobra",
@@ -2200,7 +2208,7 @@
 		"value": 1179
 	},
 	{
-		"rank": 275,
+		"rank": 276,
 		"name": "https://www.tibia.com/community/?name=Trankasaurio||Trankasaurio",
 		"vocation": "Elite Knight",
 		"world": "Monza",
@@ -2208,7 +2216,7 @@
 		"value": 1179
 	},
 	{
-		"rank": 276,
+		"rank": 277,
 		"name": "https://www.tibia.com/community/?name=Frosted%20Night||Frosted Night",
 		"vocation": "Elite Knight",
 		"world": "Pulsera",
@@ -2216,19 +2224,11 @@
 		"value": 1179
 	},
 	{
-		"rank": 277,
+		"rank": 278,
 		"name": "https://www.tibia.com/community/?name=Jonny%20Sorcerer||Jonny Sorcerer",
 		"vocation": "Master Sorcerer",
 		"world": "Talera",
-		"level": 274,
-		"value": 1179
-	},
-	{
-		"rank": 278,
-		"name": "https://www.tibia.com/community/?name=Silverx||Silverx",
-		"vocation": "Elite Knight",
-		"world": "Ustebra",
-		"level": 521,
+		"level": 273,
 		"value": 1179
 	},
 	{
@@ -2244,7 +2244,7 @@
 		"name": "https://www.tibia.com/community/?name=Koztos||Koztos",
 		"vocation": "Elite Knight",
 		"world": "Monza",
-		"level": 530,
+		"level": 531,
 		"value": 1178
 	},
 	{
@@ -2364,7 +2364,7 @@
 		"name": "https://www.tibia.com/community/?name=Kate%20Walker||Kate Walker",
 		"vocation": "Elite Knight",
 		"world": "Nevia",
-		"level": 1053,
+		"level": 1054,
 		"value": 1172
 	},
 	{
@@ -2412,7 +2412,7 @@
 		"name": "https://www.tibia.com/community/?name=Vituxo||Vituxo",
 		"vocation": "Royal Paladin",
 		"world": "Pacera",
-		"level": 480,
+		"level": 481,
 		"value": 1170
 	},
 	{
@@ -2428,7 +2428,7 @@
 		"name": "https://www.tibia.com/community/?name=Lothlorian||Lothlorian",
 		"vocation": "Elite Knight",
 		"world": "Antica",
-		"level": 696,
+		"level": 697,
 		"value": 1169
 	},
 	{
@@ -2668,7 +2668,7 @@
 		"name": "https://www.tibia.com/community/?name=Rockstacker%20Cleve||Rockstacker Cleve",
 		"vocation": "Elder Druid",
 		"world": "Nevia",
-		"level": 991,
+		"level": 990,
 		"value": 1159
 	},
 	{
@@ -2676,7 +2676,7 @@
 		"name": "https://www.tibia.com/community/?name=Reversio||Reversio",
 		"vocation": "Elite Knight",
 		"world": "Thyria",
-		"level": 1118,
+		"level": 1119,
 		"value": 1159
 	},
 	{
@@ -2756,7 +2756,7 @@
 		"name": "https://www.tibia.com/community/?name=Szmuggy||Szmuggy",
 		"vocation": "Royal Paladin",
 		"world": "Thyria",
-		"level": 1594,
+		"level": 1595,
 		"value": 1156
 	},
 	{
@@ -2796,7 +2796,7 @@
 		"name": "https://www.tibia.com/community/?name=Paneva||Paneva",
 		"vocation": "Elder Druid",
 		"world": "Thyria",
-		"level": 485,
+		"level": 486,
 		"value": 1153
 	},
 	{
@@ -2860,7 +2860,7 @@
 		"name": "https://www.tibia.com/community/?name=Cavaleiro%20Zyn||Cavaleiro Zyn",
 		"vocation": "Royal Paladin",
 		"world": "Gentebra",
-		"level": 832,
+		"level": 831,
 		"value": 1150
 	},
 	{
@@ -2892,11 +2892,19 @@
 		"name": "https://www.tibia.com/community/?name=Lauaviin||Lauaviin",
 		"vocation": "Royal Paladin",
 		"world": "Premia",
-		"level": 867,
+		"level": 868,
 		"value": 1149
 	},
 	{
-		"rank": 363,
+		"rank": 362,
+		"name": "https://www.tibia.com/community/?name=Ghost%20of%20Chimera||Ghost of Chimera",
+		"vocation": "Royal Paladin",
+		"world": "Wintera",
+		"level": 1193,
+		"value": 1149
+	},
+	{
+		"rank": 364,
 		"name": "https://www.tibia.com/community/?name=Mizuhime||Mizuhime",
 		"vocation": "Elder Druid",
 		"world": "Celebra",
@@ -2904,15 +2912,15 @@
 		"value": 1148
 	},
 	{
-		"rank": 363,
+		"rank": 364,
 		"name": "https://www.tibia.com/community/?name=Dorivall||Dorivall",
 		"vocation": "Elder Druid",
 		"world": "Guerribra",
-		"level": 1460,
+		"level": 1461,
 		"value": 1148
 	},
 	{
-		"rank": 364,
+		"rank": 365,
 		"name": "https://www.tibia.com/community/?name=Lord%20Ovthe%20Depths||Lord Ovthe Depths",
 		"vocation": "Elder Druid",
 		"world": "Serdebra",
@@ -2920,7 +2928,7 @@
 		"value": 1148
 	},
 	{
-		"rank": 365,
+		"rank": 366,
 		"name": "https://www.tibia.com/community/?name=Ravor%20Morxis||Ravor Morxis",
 		"vocation": "Royal Paladin",
 		"world": "Vunira",
@@ -2928,7 +2936,7 @@
 		"value": 1148
 	},
 	{
-		"rank": 366,
+		"rank": 367,
 		"name": "https://www.tibia.com/community/?name=Zalina%20Myth||Zalina Myth",
 		"vocation": "Elite Knight",
 		"world": "Vunira",
@@ -2936,19 +2944,11 @@
 		"value": 1148
 	},
 	{
-		"rank": 367,
-		"name": "https://www.tibia.com/community/?name=Ghost%20of%20Chimera||Ghost of Chimera",
-		"vocation": "Royal Paladin",
-		"world": "Wintera",
-		"level": 1193,
-		"value": 1148
-	},
-	{
 		"rank": 369,
 		"name": "https://www.tibia.com/community/?name=Ostry%20Szacun||Ostry Szacun",
 		"vocation": "Master Sorcerer",
 		"world": "Celesta",
-		"level": 1730,
+		"level": 1731,
 		"value": 1147
 	},
 	{
@@ -3052,7 +3052,7 @@
 		"name": "https://www.tibia.com/community/?name=Animoza||Animoza",
 		"vocation": "Royal Paladin",
 		"world": "Monza",
-		"level": 2026,
+		"level": 2027,
 		"value": 1143
 	},
 	{
@@ -3076,7 +3076,7 @@
 		"name": "https://www.tibia.com/community/?name=Bjo||Bjo",
 		"vocation": "Master Sorcerer",
 		"world": "Quelibra",
-		"level": 1224,
+		"level": 1225,
 		"value": 1143
 	},
 	{
@@ -3084,7 +3084,7 @@
 		"name": "https://www.tibia.com/community/?name=Ali%20the%20shihan||Ali the shihan",
 		"vocation": "Elder Druid",
 		"world": "Quintera",
-		"level": 1182,
+		"level": 1183,
 		"value": 1143
 	},
 	{
@@ -3164,7 +3164,7 @@
 		"name": "https://www.tibia.com/community/?name=True%20Messi||True Messi",
 		"vocation": "Elite Knight",
 		"world": "Vunira",
-		"level": 1161,
+		"level": 1162,
 		"value": 1140
 	},
 	{
@@ -3204,7 +3204,7 @@
 		"name": "https://www.tibia.com/community/?name=Beatrix%20Kiddo||Beatrix Kiddo",
 		"vocation": "Elder Druid",
 		"world": "Serdebra",
-		"level": 747,
+		"level": 748,
 		"value": 1138
 	},
 	{
@@ -3364,7 +3364,7 @@
 		"name": "https://www.tibia.com/community/?name=Bielzinhow%20Rei%20Delas||Bielzinhow Rei Delas",
 		"vocation": "Elite Knight",
 		"world": "Guerribra",
-		"level": 1447,
+		"level": 1448,
 		"value": 1132
 	},
 	{
@@ -3372,7 +3372,7 @@
 		"name": "https://www.tibia.com/community/?name=Enraged%20Adventurer||Enraged Adventurer",
 		"vocation": "Elder Druid",
 		"world": "Honbra",
-		"level": 513,
+		"level": 514,
 		"value": 1132
 	},
 	{
@@ -3380,7 +3380,7 @@
 		"name": "https://www.tibia.com/community/?name=Teev||Teev",
 		"vocation": "Royal Paladin",
 		"world": "Monza",
-		"level": 1067,
+		"level": 1068,
 		"value": 1132
 	},
 	{
@@ -3420,7 +3420,7 @@
 		"name": "https://www.tibia.com/community/?name=Joohnzao||Joohnzao",
 		"vocation": "Royal Paladin",
 		"world": "Inabra",
-		"level": 1009,
+		"level": 1008,
 		"value": 1130
 	},
 	{
@@ -3484,7 +3484,7 @@
 		"name": "https://www.tibia.com/community/?name=Yunden||Yunden",
 		"vocation": "Royal Paladin",
 		"world": "Nevia",
-		"level": 713,
+		"level": 715,
 		"value": 1128
 	},
 	{
@@ -3692,7 +3692,7 @@
 		"name": "https://www.tibia.com/community/?name=Dragonidas||Dragonidas",
 		"vocation": "Master Sorcerer",
 		"world": "Monza",
-		"level": 1302,
+		"level": 1303,
 		"value": 1119
 	},
 	{
@@ -3716,7 +3716,7 @@
 		"name": "https://www.tibia.com/community/?name=Awen||Awen",
 		"vocation": "Elder Druid",
 		"world": "Gentebra",
-		"level": 830,
+		"level": 828,
 		"value": 1118
 	},
 	{
@@ -3836,7 +3836,7 @@
 		"name": "https://www.tibia.com/community/?name=Kafkacoli||Kafkacoli",
 		"vocation": "Elite Knight",
 		"world": "Nevia",
-		"level": 996,
+		"level": 997,
 		"value": 1116
 	},
 	{
@@ -3908,7 +3908,7 @@
 		"name": "https://www.tibia.com/community/?name=Beeliar||Beeliar",
 		"vocation": "Master Sorcerer",
 		"world": "Celebra",
-		"level": 1014,
+		"level": 1015,
 		"value": 1114
 	},
 	{
@@ -3922,7 +3922,7 @@
 	{
 		"rank": 490,
 		"name": "https://www.tibia.com/community/?name=Dil%20Paladin||Dil Paladin",
-		"vocation": "Royal Paladin",
+		"vocation": "Paladin",
 		"world": "Serdebra",
 		"level": 193,
 		"value": 1114
@@ -3940,7 +3940,7 @@
 		"name": "https://www.tibia.com/community/?name=Anturil||Anturil",
 		"vocation": "Elite Knight",
 		"world": "Yonabra",
-		"level": 909,
+		"level": 910,
 		"value": 1114
 	},
 	{
@@ -3956,7 +3956,7 @@
 		"name": "https://www.tibia.com/community/?name=Gogrex||Gogrex",
 		"vocation": "Royal Paladin",
 		"world": "Kendria",
-		"level": 1026,
+		"level": 1027,
 		"value": 1113
 	},
 	{
@@ -4116,7 +4116,7 @@
 		"name": "https://www.tibia.com/community/?name=Bugadiinho||Bugadiinho",
 		"vocation": "Master Sorcerer",
 		"world": "Inabra",
-		"level": 902,
+		"level": 903,
 		"value": 1109
 	},
 	{
@@ -4148,7 +4148,7 @@
 		"name": "https://www.tibia.com/community/?name=Shayddex||Shayddex",
 		"vocation": "Elite Knight",
 		"world": "Nefera",
-		"level": 549,
+		"level": 548,
 		"value": 1109
 	},
 	{
@@ -4540,7 +4540,7 @@
 		"name": "https://www.tibia.com/community/?name=Leias||Leias",
 		"vocation": "Master Sorcerer",
 		"world": "Celesta",
-		"level": 904,
+		"level": 905,
 		"value": 1099
 	},
 	{
@@ -4580,7 +4580,7 @@
 		"name": "https://www.tibia.com/community/?name=Sweaty%20Kamish||Sweaty Kamish",
 		"vocation": "Elite Knight",
 		"world": "Secura",
-		"level": 659,
+		"level": 660,
 		"value": 1099
 	},
 	{
@@ -4956,7 +4956,7 @@
 		"name": "https://www.tibia.com/community/?name=Hugao%20Senpai||Hugao Senpai",
 		"vocation": "Elder Druid",
 		"world": "Belobra",
-		"level": 1068,
+		"level": 1069,
 		"value": 1089
 	},
 	{
@@ -5100,7 +5100,7 @@
 		"name": "https://www.tibia.com/community/?name=Watroba%20sorcerer||Watroba sorcerer",
 		"vocation": "Master Sorcerer",
 		"world": "Refugia",
-		"level": 801,
+		"level": 802,
 		"value": 1084
 	},
 	{
@@ -5244,7 +5244,7 @@
 		"name": "https://www.tibia.com/community/?name=Reu'ka||Reu'ka",
 		"vocation": "Royal Paladin",
 		"world": "Thyria",
-		"level": 1147,
+		"level": 1148,
 		"value": 1081
 	},
 	{
@@ -5268,7 +5268,7 @@
 		"name": "https://www.tibia.com/community/?name=Toxic%20Lilly||Toxic Lilly",
 		"vocation": "Royal Paladin",
 		"world": "Premia",
-		"level": 703,
+		"level": 704,
 		"value": 1080
 	},
 	{
@@ -5284,7 +5284,7 @@
 		"name": "https://www.tibia.com/community/?name=Zos%20Io%20Pan||Zos Io Pan",
 		"vocation": "Elite Knight",
 		"world": "Serdebra",
-		"level": 1028,
+		"level": 1029,
 		"value": 1080
 	},
 	{
@@ -5380,7 +5380,7 @@
 		"name": "https://www.tibia.com/community/?name=Sir%20Dryn||Sir Dryn",
 		"vocation": "Royal Paladin",
 		"world": "Bona",
-		"level": 636,
+		"level": 637,
 		"value": 1077
 	},
 	{
@@ -5420,7 +5420,7 @@
 		"name": "https://www.tibia.com/community/?name=Doougz||Doougz",
 		"vocation": "Elite Knight",
 		"world": "Yonabra",
-		"level": 1422,
+		"level": 1423,
 		"value": 1077
 	},
 	{
@@ -5436,7 +5436,7 @@
 		"name": "https://www.tibia.com/community/?name=Lancellotz||Lancellotz",
 		"vocation": "Elite Knight",
 		"world": "Descubra",
-		"level": 1247,
+		"level": 1248,
 		"value": 1076
 	},
 	{
@@ -5468,7 +5468,7 @@
 		"name": "https://www.tibia.com/community/?name=Shadow%20of%20the%20Candia||Shadow of the Candia",
 		"vocation": "Master Sorcerer",
 		"world": "Monza",
-		"level": 932,
+		"level": 933,
 		"value": 1075
 	},
 	{
@@ -5604,7 +5604,7 @@
 		"name": "https://www.tibia.com/community/?name=Bobeek||Bobeek",
 		"vocation": "Elder Druid",
 		"world": "Bona",
-		"level": 2465,
+		"level": 2466,
 		"value": 1071
 	},
 	{
@@ -5612,7 +5612,7 @@
 		"name": "https://www.tibia.com/community/?name=Toxic%20Febem||Toxic Febem",
 		"vocation": "Royal Paladin",
 		"world": "Inabra",
-		"level": 1468,
+		"level": 1466,
 		"value": 1071
 	},
 	{
@@ -5628,7 +5628,7 @@
 		"name": "https://www.tibia.com/community/?name=Aluxi||Aluxi",
 		"vocation": "Master Sorcerer",
 		"world": "Kalibra",
-		"level": 1473,
+		"level": 1474,
 		"value": 1071
 	},
 	{
@@ -5708,7 +5708,7 @@
 		"name": "https://www.tibia.com/community/?name=Gakild||Gakild",
 		"vocation": "Royal Paladin",
 		"world": "Yonabra",
-		"level": 1215,
+		"level": 1216,
 		"value": 1069
 	},
 	{
@@ -5740,7 +5740,7 @@
 		"name": "https://www.tibia.com/community/?name=Rovaar||Rovaar",
 		"vocation": "Elite Knight",
 		"world": "Kalibra",
-		"level": 798,
+		"level": 800,
 		"value": 1068
 	},
 	{
@@ -5836,7 +5836,7 @@
 		"name": "https://www.tibia.com/community/?name=Czterolistny%20Pajak||Czterolistny Pajak",
 		"vocation": "Elite Knight",
 		"world": "Refugia",
-		"level": 987,
+		"level": 988,
 		"value": 1067
 	},
 	{
@@ -5860,7 +5860,7 @@
 		"name": "https://www.tibia.com/community/?name=Warriior%20Skeet||Warriior Skeet",
 		"vocation": "Elite Knight",
 		"world": "Astera",
-		"level": 1336,
+		"level": 1337,
 		"value": 1066
 	},
 	{
@@ -5969,6 +5969,14 @@
 	},
 	{
 		"rank": 746,
+		"name": "https://www.tibia.com/community/?name=Keirissa||Keirissa",
+		"vocation": "Elite Knight",
+		"world": "Secura",
+		"level": 1106,
+		"value": 1065
+	},
+	{
+		"rank": 747,
 		"name": "https://www.tibia.com/community/?name=Bigg%20Mike||Bigg Mike",
 		"vocation": "Elite Knight",
 		"world": "Talera",
@@ -5976,7 +5984,7 @@
 		"value": 1065
 	},
 	{
-		"rank": 748,
+		"rank": 749,
 		"name": "https://www.tibia.com/community/?name=Bloody%20Evan||Bloody Evan",
 		"vocation": "Elder Druid",
 		"world": "Antica",
@@ -5984,7 +5992,7 @@
 		"value": 1064
 	},
 	{
-		"rank": 748,
+		"rank": 749,
 		"name": "https://www.tibia.com/community/?name=Eca%20Maga||Eca Maga",
 		"vocation": "Elder Druid",
 		"world": "Belobra",
@@ -5992,7 +6000,7 @@
 		"value": 1064
 	},
 	{
-		"rank": 749,
+		"rank": 750,
 		"name": "https://www.tibia.com/community/?name=Braavee%20heart||Braavee heart",
 		"vocation": "Elite Knight",
 		"world": "Calmera",
@@ -6000,7 +6008,7 @@
 		"value": 1064
 	},
 	{
-		"rank": 750,
+		"rank": 751,
 		"name": "https://www.tibia.com/community/?name=Super%20Bego||Super Bego",
 		"vocation": "Royal Paladin",
 		"world": "Luminera",
@@ -6008,7 +6016,7 @@
 		"value": 1064
 	},
 	{
-		"rank": 751,
+		"rank": 752,
 		"name": "https://www.tibia.com/community/?name=Spenceron||Spenceron",
 		"vocation": "Master Sorcerer",
 		"world": "Vunira",
@@ -6017,6 +6025,14 @@
 	},
 	{
 		"rank": 753,
+		"name": "https://www.tibia.com/community/?name=Zakutinho||Zakutinho",
+		"vocation": "Royal Paladin",
+		"world": "Vunira",
+		"level": 1108,
+		"value": 1064
+	},
+	{
+		"rank": 755,
 		"name": "https://www.tibia.com/community/?name=Rauwzz||Rauwzz",
 		"vocation": "Elder Druid",
 		"world": "Gentebra",
@@ -6024,7 +6040,7 @@
 		"value": 1063
 	},
 	{
-		"rank": 753,
+		"rank": 755,
 		"name": "https://www.tibia.com/community/?name=Iyob%20Fairest||Iyob Fairest",
 		"vocation": "Master Sorcerer",
 		"world": "Inabra",
@@ -6032,23 +6048,15 @@
 		"value": 1063
 	},
 	{
-		"rank": 754,
+		"rank": 756,
 		"name": "https://www.tibia.com/community/?name=Skum%20Rayon||Skum Rayon",
 		"vocation": "Royal Paladin",
 		"world": "Luminera",
-		"level": 1186,
+		"level": 1187,
 		"value": 1063
 	},
 	{
-		"rank": 755,
-		"name": "https://www.tibia.com/community/?name=Keirissa||Keirissa",
-		"vocation": "Elite Knight",
-		"world": "Secura",
-		"level": 1106,
-		"value": 1063
-	},
-	{
-		"rank": 756,
+		"rank": 757,
 		"name": "https://www.tibia.com/community/?name=Maurolkit||Maurolkit",
 		"vocation": "Elite Knight",
 		"world": "Secura",
@@ -6056,7 +6064,7 @@
 		"value": 1063
 	},
 	{
-		"rank": 757,
+		"rank": 758,
 		"name": "https://www.tibia.com/community/?name=Melmag||Melmag",
 		"vocation": "Master Sorcerer",
 		"world": "Secura",
@@ -6064,7 +6072,7 @@
 		"value": 1063
 	},
 	{
-		"rank": 758,
+		"rank": 759,
 		"name": "https://www.tibia.com/community/?name=Martinemo||Martinemo",
 		"vocation": "Elite Knight",
 		"world": "Vunira",
@@ -6072,7 +6080,7 @@
 		"value": 1063
 	},
 	{
-		"rank": 760,
+		"rank": 761,
 		"name": "https://www.tibia.com/community/?name=Lady%20Meredith||Lady Meredith",
 		"vocation": "Royal Paladin",
 		"world": "Bona",
@@ -6080,15 +6088,15 @@
 		"value": 1062
 	},
 	{
-		"rank": 760,
+		"rank": 761,
 		"name": "https://www.tibia.com/community/?name=Aragorn%20on%20Unitera||Aragorn on Unitera",
 		"vocation": "Elite Knight",
 		"world": "Nefera",
-		"level": 626,
+		"level": 625,
 		"value": 1062
 	},
 	{
-		"rank": 761,
+		"rank": 762,
 		"name": "https://www.tibia.com/community/?name=Serafan%20Kniight||Serafan Kniight",
 		"vocation": "Elite Knight",
 		"world": "Premia",
@@ -6096,7 +6104,7 @@
 		"value": 1062
 	},
 	{
-		"rank": 762,
+		"rank": 763,
 		"name": "https://www.tibia.com/community/?name=Licad||Licad",
 		"vocation": "Master Sorcerer",
 		"world": "Quintera",
@@ -6104,15 +6112,15 @@
 		"value": 1062
 	},
 	{
-		"rank": 763,
+		"rank": 764,
 		"name": "https://www.tibia.com/community/?name=Caerbannogh||Caerbannogh",
 		"vocation": "Elite Knight",
 		"world": "Secura",
-		"level": 729,
+		"level": 730,
 		"value": 1062
 	},
 	{
-		"rank": 765,
+		"rank": 766,
 		"name": "https://www.tibia.com/community/?name=Missy%20Mystique||Missy Mystique",
 		"vocation": "Master Sorcerer",
 		"world": "Premia",
@@ -6120,7 +6128,7 @@
 		"value": 1061
 	},
 	{
-		"rank": 765,
+		"rank": 766,
 		"name": "https://www.tibia.com/community/?name=Trugg||Trugg",
 		"vocation": "Elite Knight",
 		"world": "Quelibra",
@@ -6128,7 +6136,7 @@
 		"value": 1061
 	},
 	{
-		"rank": 766,
+		"rank": 767,
 		"name": "https://www.tibia.com/community/?name=Andre%20Dezyfaixa||Andre Dezyfaixa",
 		"vocation": "Elder Druid",
 		"world": "Secura",
@@ -6136,19 +6144,11 @@
 		"value": 1061
 	},
 	{
-		"rank": 767,
+		"rank": 768,
 		"name": "https://www.tibia.com/community/?name=Vall%20Valle||Vall Valle",
 		"vocation": "Royal Paladin",
 		"world": "Vunira",
 		"level": 659,
-		"value": 1061
-	},
-	{
-		"rank": 768,
-		"name": "https://www.tibia.com/community/?name=Zakutinho||Zakutinho",
-		"vocation": "Royal Paladin",
-		"world": "Vunira",
-		"level": 1108,
 		"value": 1061
 	},
 	{
@@ -6196,7 +6196,7 @@
 		"name": "https://www.tibia.com/community/?name=Chitaozinho%20de%20Ouro||Chitaozinho de Ouro",
 		"vocation": "Master Sorcerer",
 		"world": "Obscubra",
-		"level": 1398,
+		"level": 1400,
 		"value": 1060
 	},
 	{
@@ -6204,7 +6204,7 @@
 		"name": "https://www.tibia.com/community/?name=Fall%20Rian||Fall Rian",
 		"vocation": "Master Sorcerer",
 		"world": "Vunira",
-		"level": 830,
+		"level": 831,
 		"value": 1060
 	},
 	{
@@ -6300,7 +6300,7 @@
 		"name": "https://www.tibia.com/community/?name=Glymodee||Glymodee",
 		"vocation": "Elder Druid",
 		"world": "Monza",
-		"level": 1207,
+		"level": 1208,
 		"value": 1057
 	},
 	{
@@ -6332,7 +6332,7 @@
 		"name": "https://www.tibia.com/community/?name=Benekone||Benekone",
 		"vocation": "Elite Knight",
 		"world": "Secura",
-		"level": 1198,
+		"level": 1197,
 		"value": 1056
 	},
 	{
@@ -6420,7 +6420,7 @@
 		"name": "https://www.tibia.com/community/?name=Wonk%20Wonk||Wonk Wonk",
 		"vocation": "Elite Knight",
 		"world": "Wildera",
-		"level": 1152,
+		"level": 1142,
 		"value": 1055
 	},
 	{
@@ -6444,7 +6444,7 @@
 		"name": "https://www.tibia.com/community/?name=Delazeri||Delazeri",
 		"vocation": "Elite Knight",
 		"world": "Ferobra",
-		"level": 522,
+		"level": 524,
 		"value": 1054
 	},
 	{
@@ -6465,6 +6465,14 @@
 	},
 	{
 		"rank": 808,
+		"name": "https://www.tibia.com/community/?name=Silent%20Specter||Silent Specter",
+		"vocation": "Elite Knight",
+		"world": "Quintera",
+		"level": 674,
+		"value": 1054
+	},
+	{
+		"rank": 809,
 		"name": "https://www.tibia.com/community/?name=Rizeyx||Rizeyx",
 		"vocation": "Paladin",
 		"world": "Secura",
@@ -6472,7 +6480,7 @@
 		"value": 1054
 	},
 	{
-		"rank": 809,
+		"rank": 810,
 		"name": "https://www.tibia.com/community/?name=Dark%20Lord%20Morpheu||Dark Lord Morpheu",
 		"vocation": "Elite Knight",
 		"world": "Yonabra",
@@ -6480,7 +6488,7 @@
 		"value": 1054
 	},
 	{
-		"rank": 810,
+		"rank": 811,
 		"name": "https://www.tibia.com/community/?name=Tio%20Kiinho||Tio Kiinho",
 		"vocation": "Elite Knight",
 		"world": "Yonabra",
@@ -6488,7 +6496,7 @@
 		"value": 1054
 	},
 	{
-		"rank": 812,
+		"rank": 813,
 		"name": "https://www.tibia.com/community/?name=Tiqokz||Tiqokz",
 		"vocation": "Elite Knight",
 		"world": "Lobera",
@@ -6496,7 +6504,7 @@
 		"value": 1053
 	},
 	{
-		"rank": 812,
+		"rank": 813,
 		"name": "https://www.tibia.com/community/?name=Oyun||Oyun",
 		"vocation": "Elite Knight",
 		"world": "Luminera",
@@ -6504,7 +6512,7 @@
 		"value": 1053
 	},
 	{
-		"rank": 813,
+		"rank": 814,
 		"name": "https://www.tibia.com/community/?name=Lucy%20van%20Peltz||Lucy van Peltz",
 		"vocation": "Elder Druid",
 		"world": "Rasteibra",
@@ -6512,7 +6520,7 @@
 		"value": 1053
 	},
 	{
-		"rank": 814,
+		"rank": 815,
 		"name": "https://www.tibia.com/community/?name=Newubii%20Drakell||Newubii Drakell",
 		"vocation": "Elder Druid",
 		"world": "Rasteibra",
@@ -6520,7 +6528,7 @@
 		"value": 1053
 	},
 	{
-		"rank": 815,
+		"rank": 816,
 		"name": "https://www.tibia.com/community/?name=Krannor||Krannor",
 		"vocation": "Elite Knight",
 		"world": "Ustebra",
@@ -6528,7 +6536,7 @@
 		"value": 1053
 	},
 	{
-		"rank": 817,
+		"rank": 818,
 		"name": "https://www.tibia.com/community/?name=Shar%20acter||Shar acter",
 		"vocation": "Elder Druid",
 		"world": "Gentebra",
@@ -6536,19 +6544,11 @@
 		"value": 1052
 	},
 	{
-		"rank": 817,
-		"name": "https://www.tibia.com/community/?name=Silent%20Specter||Silent Specter",
-		"vocation": "Elite Knight",
-		"world": "Quintera",
-		"level": 674,
-		"value": 1052
-	},
-	{
 		"rank": 818,
 		"name": "https://www.tibia.com/community/?name=Sio%20Am||Sio Am",
 		"vocation": "Elder Druid",
 		"world": "Vunira",
-		"level": 924,
+		"level": 922,
 		"value": 1052
 	},
 	{
@@ -6580,7 +6580,7 @@
 		"name": "https://www.tibia.com/community/?name=Vendo%20Pot%20Vazio||Vendo Pot Vazio",
 		"vocation": "Elite Knight",
 		"world": "Belobra",
-		"level": 397,
+		"level": 398,
 		"value": 1051
 	},
 	{
@@ -6716,7 +6716,7 @@
 		"name": "https://www.tibia.com/community/?name=Bocian%20Damora||Bocian Damora",
 		"vocation": "Master Sorcerer",
 		"world": "Nadora",
-		"level": 678,
+		"level": 680,
 		"value": 1049
 	},
 	{
@@ -6844,7 +6844,7 @@
 		"name": "https://www.tibia.com/community/?name=Ronexy||Ronexy",
 		"vocation": "Royal Paladin",
 		"world": "Celebra",
-		"level": 1391,
+		"level": 1392,
 		"value": 1046
 	},
 	{
@@ -6884,7 +6884,7 @@
 		"name": "https://www.tibia.com/community/?name=Daanthe%20Alighieri||Daanthe Alighieri",
 		"vocation": "Master Sorcerer",
 		"world": "Talera",
-		"level": 1025,
+		"level": 1026,
 		"value": 1046
 	},
 	{
@@ -6956,7 +6956,7 @@
 		"name": "https://www.tibia.com/community/?name=Erik%20Shardiamiaa||Erik Shardiamiaa",
 		"vocation": "Royal Paladin",
 		"world": "Celesta",
-		"level": 541,
+		"level": 542,
 		"value": 1043
 	},
 	{
@@ -6980,7 +6980,7 @@
 		"name": "https://www.tibia.com/community/?name=Alemaoozerah||Alemaoozerah",
 		"vocation": "Royal Paladin",
 		"world": "Quelibra",
-		"level": 900,
+		"level": 901,
 		"value": 1043
 	},
 	{
@@ -7012,7 +7012,7 @@
 		"name": "https://www.tibia.com/community/?name=Queen%20Liss||Queen Liss",
 		"vocation": "Elder Druid",
 		"world": "Lutabra",
-		"level": 1192,
+		"level": 1193,
 		"value": 1042
 	},
 	{
@@ -7060,7 +7060,7 @@
 		"name": "https://www.tibia.com/community/?name=Nnoitra%20Kenpachi||Nnoitra Kenpachi",
 		"vocation": "Royal Paladin",
 		"world": "Jadebra",
-		"level": 650,
+		"level": 651,
 		"value": 1041
 	},
 	{
@@ -7116,7 +7116,7 @@
 		"name": "https://www.tibia.com/community/?name=Crai%20zy||Crai zy",
 		"vocation": "Royal Paladin",
 		"world": "Wintera",
-		"level": 1270,
+		"level": 1271,
 		"value": 1040
 	},
 	{
@@ -7164,7 +7164,7 @@
 		"name": "https://www.tibia.com/community/?name=Ginger%20Reapers||Ginger Reapers",
 		"vocation": "Elite Knight",
 		"world": "Firmera",
-		"level": 903,
+		"level": 904,
 		"value": 1039
 	},
 	{
@@ -7244,7 +7244,7 @@
 		"name": "https://www.tibia.com/community/?name=Ladrao%20De%20Fogueiira||Ladrao De Fogueiira",
 		"vocation": "Royal Paladin",
 		"world": "Gladera",
-		"level": 755,
+		"level": 756,
 		"value": 1038
 	},
 	{
@@ -7308,7 +7308,7 @@
 		"name": "https://www.tibia.com/community/?name=Szysha||Szysha",
 		"vocation": "Elite Knight",
 		"world": "Vunira",
-		"level": 1032,
+		"level": 1033,
 		"value": 1037
 	},
 	{
@@ -7332,7 +7332,7 @@
 		"name": "https://www.tibia.com/community/?name=Daarlanzaao||Daarlanzaao",
 		"vocation": "Royal Paladin",
 		"world": "Kalibra",
-		"level": 876,
+		"level": 877,
 		"value": 1036
 	},
 	{
@@ -7436,7 +7436,7 @@
 		"name": "https://www.tibia.com/community/?name=Meteor%20Jam||Meteor Jam",
 		"vocation": "Royal Paladin",
 		"world": "Secura",
-		"level": 934,
+		"level": 935,
 		"value": 1034
 	},
 	{
@@ -7500,7 +7500,7 @@
 		"name": "https://www.tibia.com/community/?name=Prokid%20Adamek||Prokid Adamek",
 		"vocation": "Elite Knight",
 		"world": "Impulsa",
-		"level": 593,
+		"level": 594,
 		"value": 1032
 	},
 	{
@@ -7564,7 +7564,7 @@
 		"name": "https://www.tibia.com/community/?name=Cawi%20Ratka||Cawi Ratka",
 		"vocation": "Royal Paladin",
 		"world": "Nadora",
-		"level": 666,
+		"level": 667,
 		"value": 1030
 	},
 	{
@@ -7684,7 +7684,7 @@
 		"name": "https://www.tibia.com/community/?name=Lucy%20Dreambringer||Lucy Dreambringer",
 		"vocation": "Royal Paladin",
 		"world": "Nevia",
-		"level": 655,
+		"level": 656,
 		"value": 1028
 	},
 	{
@@ -7980,7 +7980,7 @@
 		"name": "https://www.tibia.com/community/?name=Hubi%20Ow||Hubi Ow",
 		"vocation": "Elite Knight",
 		"world": "Inabra",
-		"level": 625,
+		"level": 626,
 		"value": 1024
 	},
 	{
