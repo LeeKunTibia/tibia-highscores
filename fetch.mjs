@@ -7,7 +7,7 @@ const maxPoints = [
 	// Achievements.
 	1302, // TODO: Add points for "The Rule of Raccool" once known.
 	// Charm Points.
-	24275,
+	24305,
 	// Boss Points.
 	24950,
 ];
