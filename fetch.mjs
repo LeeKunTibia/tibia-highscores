@@ -5,7 +5,7 @@ const pageSearchLimit = 5;
 
 const maxPoints = [
 	// Achievements.
-	1302, // TODO: Add points for "The Rule of Raccool" once known.
+	1304,
 	// Charm Points.
 	24275,
 	// Boss Points.
