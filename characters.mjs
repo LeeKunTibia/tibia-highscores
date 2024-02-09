@@ -9,5 +9,6 @@ export const characters = [
     "Vinicius Shocks",
     "Inge Naning",
     "Annie Arelluf",
-    "Rei Davi Benyishai"
+    "Rei Davi Benyishai",
+    "Niix Insanity",
 ]
