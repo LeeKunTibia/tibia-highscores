@@ -12,4 +12,5 @@ export const characters = [
     "Rei Davi Benyishai",
     "Niix Insanity",
     "Luther Hargreeves",
+    "Offf Liiineee",
 ]
