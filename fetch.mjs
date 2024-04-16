@@ -5,7 +5,7 @@ const pageSearchLimit = 5;
 
 const maxPoints = [
 	// Achievements.
-	1304,
+	1314,
 	// Charm Points.
 	24305,
 	// Boss Points.
